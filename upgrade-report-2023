@@ -1125,6 +1125,21 @@
   doi       = "10.4324/9781315725529"
 }
 
+@MISC{United_States_Department_of_Labor_undated-oc,
+  title        = "Worker Organizing Resource and Knowledge Center",
+  booktitle    = "Department of Labor",
+  author       = "{United States Department of Labor}",
+  abstract     = "What is a labor union? Who has the legal right to organize?
+                  Who protects these rights? Get the facts about unions,
+                  workplace organizing and the federal agencies that protect
+                  these rights.",
+  url          = "https://www.dol.gov/general/workcenter",
+  howpublished = "\url{https://www.dol.gov/general/workcenter}",
+  note         = "Accessed: 2023-5-11",
+  keywords     = "Labor;Website;*Upgrade Report 2023",
+  language     = "en"
+}
+
 @ARTICLE{Florida2018-xv,
   title    = "The Global Housing Crisis",
   author   = "Florida, Richard and Schneider, Benjamin",
