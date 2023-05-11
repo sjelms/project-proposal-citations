@@ -5208,3 +5208,48 @@
   isbn      = "9780080430768",
   doi       = "10.1016/B0-08-043076-7/02287-7"
 }
+
+@INCOLLECTION{Herod2009-pg,
+  title     = "Labor Unionism",
+  booktitle = "International Encyclopedia of Human Geography",
+  author    = "Herod, A",
+  editor    = "Kitchin, Rob and Thrift, Nigel",
+  abstract  = "This article explores how labor unions are structured
+               geographically and how economic landscapes are implicated in,
+               and produced through, their political and economic activities.
+               The first section provides an historical overview of unions and
+               how they have been organized spatially. Specifically, the
+               section defines and contrasts different types of unionism --
+               craft unionism, industrial unionism, geographical unionism --
+               and also ponders some of the spatial implications of such
+               different models -- unions in which decision making is highly
+               decentralized have quite different geographical structures and
+               loci of power than do those which are more centralized, for
+               instance. The second section focuses upon how geographers have
+               sought to investigate unions as geographical actors.
+               Specifically, it addresses four areas of research upon which
+               geographers have concentrated, these being: (1) how labor law
+               and state regulation influence the ways in which unions are
+               structured and operate geographically; (2) how unions have
+               shaped the evolution of economic landscapes through their
+               activities; (3) how spatial concerns shape the political
+               geography of union organizing; and (4) how the particularities
+               of place impact the nature of unionism.",
+  publisher = "Elsevier",
+  pages     = "91--96",
+  month     =  jan,
+  year      =  2009,
+  url       = "https://www.sciencedirect.com/science/article/pii/B978008044910400198X",
+  address   = "Oxford",
+  keywords  = "American Federation of Labor-Congress of Industrial
+               Organizations (AFL-CIO); Codes of conduct; Combination Acts;
+               Craft unionism; Geographical unionism; Global Union Federations;
+               Industrial unionism; International Confederation of Free Trade
+               Unions; International framework agreement; International Trade
+               Secretariats; Knights of Labor; National Labor Relations Board;
+               Politics of scale; Soviet model of unionism; Trades Union
+               Congress (TUC); World Federation of Trade Unions;Labor;Workplace
+               Learning;*Upgrade Report 2023",
+  isbn      = "9780080449104",
+  doi       = "10.1016/B978-008044910-4.00198-X"
+}
