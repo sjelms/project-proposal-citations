@@ -2044,6 +2044,17 @@
   doi      = "10.1016/j.jclepro.2020.123487"
 }
 
+@TECHREPORT{Meisels2021-qt,
+  title       = "2021 Engineering and Construction Industry Outlook",
+  author      = "Meisels, M",
+  institution = "Deloitte",
+  month       =  may,
+  year        =  2021,
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
+                 2023;*Upgrade Report 2023"
+}
+
 @MISC{Coupland2019-ax,
   title        = "What is a quality apprenticeship",
   booktitle    = "Institute for Apprenticeships and Technical Education",
