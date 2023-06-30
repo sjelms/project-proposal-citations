@@ -74,7 +74,7 @@
   keywords    = "Construction 4.0. Industrial construction. offsite,
                  modular;AEC;Important;@\_Mark
                  Up;Essential;**CATALOGED;Construction 4.0;Notion
-                 Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023"
+                 Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;^TO READ"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -166,7 +166,7 @@
   url       = "https://methods.sagepub.com/book/handbook-of-interview-research",
   keywords  = "interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Research
-               Methods;Methods;*Upgrade Report 2023;Grounded Theory",
+               Methods;Theory and Methods;*Upgrade Report 2023;Grounded Theory",
   language  = "en",
   isbn      = "9781412973588",
   doi       = "10.4135/9781412973588"
@@ -2229,7 +2229,7 @@
   year      =  2018,
   address   = "New York, NY",
   keywords  = "Book (physical);ePub | Kindle;EPubs Books;Reviewed on
-               Theory;Methods;*Upgrade Report 2023",
+               Theory;Theory and Methods;*Upgrade Report 2023",
   isbn      = "9781138209886"
 }
 
@@ -2383,8 +2383,8 @@
   month     =  mar,
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=y0ooAwAAQBAJ",
-  keywords  = "Research Methods;ePub | Kindle;Methods;*Upgrade Report
-               2023;Grounded Theory",
+  keywords  = "Research Methods;ePub | Kindle;Theory and Methods;*Upgrade
+               Report 2023;Grounded Theory",
   language  = "en",
   isbn      = "9781446293492"
 }
@@ -3513,7 +3513,8 @@
   url          = "https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/",
   howpublished = "\url{https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/}",
   note         = "Accessed: 2023-NA-NA",
-  keywords     = "Research Methods;Website;*Upgrade Report 2023;Methods",
+  keywords     = "Research Methods;Website;*Upgrade Report 2023;Theory and
+                  Methods",
   language     = "en"
 }
 
@@ -3813,7 +3814,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;Construction 4.0;Notion
-              Catalogued;*Upgrade Report 2023",
+              Catalogued;*Upgrade Report 2023;^TO READ",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -3862,7 +3863,7 @@
   year      =  2018,
   url       = "https://doi.org/10.1080/17452007.2017.1314858",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report 2023",
+               4.0;*Upgrade Report 2023;^TO READ",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2017.1314858"
 }
@@ -4035,7 +4036,7 @@
   url       = "https://www.routledge.com/Offsite-Architecture-Constructing-the-future/Smith-Quale/p/book/9781138821392",
   keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
                Up;**CATALOGED;Construction 4.0;Notion Catalogued;*Upgrade
-               Report 2023",
+               Report 2023;^TO READ",
   language  = "en",
   isbn      = "9781317588818"
 }
@@ -4178,7 +4179,8 @@
   month     =  dec,
   year      =  2010,
   url       = "https://play.google.com/store/books/details?id=l7X3AgAAQBAJ",
-  keywords  = "ePub | Kindle;Research Methods;Methods;*Upgrade Report 2023",
+  keywords  = "ePub | Kindle;Research Methods;Theory and Methods;*Upgrade
+               Report 2023",
   language  = "en",
   isbn      = "9781473903432"
 }
@@ -4403,33 +4405,6 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@TECHREPORT{Wilson2019-ho,
-  title       = "Design for Modular Construction: An Introduction for
-                 Architects",
-  author      = "Wilson, James",
-  affiliation = "National Institute of Building Sciences",
-  abstract    = "Modular construction has often been criticized for limiting
-                 architects' creativity in design. However, new approaches are
-                 changing this perception by emphasizing early collaboration
-                 with fabricators to enable unique designs that meet clients'
-                 diverse needs. Modular construction has several advantages,
-                 including quality and safety, schedule efficiency, and
-                 sustainability, making it an attractive option for owners and
-                 project teams. The American Institute of Architects (AIA)
-                 Modular and Off-Site Construction Guide serves as a primer for
-                 architects to explore the value and opportunities of modular
-                 design, potential pitfalls to avoid, and relevant case studies
-                 that illustrate successes and obstacles.",
-  publisher   = "American Institute of Architects",
-  institution = "American Institute of Architects",
-  month       =  mar,
-  year        =  2019,
-  keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-                 4.0;*Upgrade Report 2023"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @ARTICLE{Boton2021-cz,
   title     = "What is at the root of construction 4.0: A systematic review of
                the recent research effort",
@@ -4445,7 +4420,7 @@
   year      =  2021,
   url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report 2023",
+               4.0;*Upgrade Report 2023;^TO READ",
   language  = "en",
   issn      = "1134-3060, 1886-1784",
   doi       = "10.1007/s11831-020-09457-7"
@@ -4844,8 +4819,8 @@
   pages    = "507--535",
   year     =  2005,
   url      = "https://psycnet.apa.org/fulltext/2005-07735-020.pdf",
-  keywords = "Research Methods;+Notion;+Readwise;§New
-              Literature;Methods;*Upgrade Report 2023;Grounded Theory"
+  keywords = "Research Methods;+Notion;+Readwise;§New Literature;Theory and
+              Methods;*Upgrade Report 2023;Grounded Theory"
 }
 
 @INCOLLECTION{Charmaz2001-wf,
@@ -4858,7 +4833,8 @@
   url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
   address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
                Kingdom",
-  keywords  = "Research Methods;Methods;*Upgrade Report 2023;Grounded Theory",
+  keywords  = "Research Methods;Theory and Methods;*Upgrade Report
+               2023;Grounded Theory",
   isbn      = "9780761958246, 9781848608337",
   doi       = "10.4135/9781848608337.n11"
 }
@@ -4899,7 +4875,8 @@
   year      =  2019,
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "ePub | Kindle;Research Methods;+Notion;+Readwise;§New
-               Literature;Important;Read;Methods;*Upgrade Report 2023",
+               Literature;Important;Read;Theory and Methods;*Upgrade Report
+               2023;^TO READ",
   language  = "en",
   isbn      = "9781526449900"
 }
@@ -4923,7 +4900,8 @@
   month     =  aug,
   year      =  2013,
   url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
-  keywords  = "Research Methods;Important;Methods;*Upgrade Report 2023",
+  keywords  = "Research Methods;Important;Theory and Methods;*Upgrade Report
+               2023;^TO READ",
   language  = "en",
   issn      = "0195-6086, 1533-8665",
   doi       = "10.1002/symb.66"
@@ -4956,7 +4934,7 @@
   year      =  2005,
   url       = "http://www.qualitative-research.net/index.php/fqs/article/view/20",
   keywords  = "qualitative research; research methods; ethnography;Research
-               Methods;Methods;*Upgrade Report 2023",
+               Methods;Theory and Methods;*Upgrade Report 2023",
   language  = "en",
   issn      = "1438-5627, 1438-5627",
   doi       = "10.17169/fqs-6.3.20"
@@ -4993,7 +4971,8 @@
   url       = "https://doi.org/10.1145/347642.347763",
   address   = "New York, NY, USA",
   keywords  = "user studies, field research methods, qualitative methods,
-               ethnography;Research Methods;Methods;*Upgrade Report 2023",
+               ethnography;Research Methods;Theory and Methods;*Upgrade Report
+               2023",
   location  = "New York City, New York, USA",
   isbn      = "9781581132199",
   doi       = "10.1145/347642.347763"
@@ -5454,4 +5433,31 @@
                Learning;*Upgrade Report 2023",
   isbn      = "9780080449104",
   doi       = "10.1016/B978-008044910-4.00198-X"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@TECHREPORT{Wilson2019-ho,
+  title       = "Design for Modular Construction: An Introduction for
+                 Architects",
+  author      = "Wilson, James",
+  affiliation = "National Institute of Building Sciences",
+  abstract    = "Modular construction has often been criticized for limiting
+                 architects' creativity in design. However, new approaches are
+                 changing this perception by emphasizing early collaboration
+                 with fabricators to enable unique designs that meet clients'
+                 diverse needs. Modular construction has several advantages,
+                 including quality and safety, schedule efficiency, and
+                 sustainability, making it an attractive option for owners and
+                 project teams. The American Institute of Architects (AIA)
+                 Modular and Off-Site Construction Guide serves as a primer for
+                 architects to explore the value and opportunities of modular
+                 design, potential pitfalls to avoid, and relevant case studies
+                 that illustrate successes and obstacles.",
+  publisher   = "American Institute of Architects",
+  institution = "American Institute of Architects",
+  month       =  mar,
+  year        =  2019,
+  keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
+                 4.0;*Upgrade Report 2023;^TO READ"
 }
