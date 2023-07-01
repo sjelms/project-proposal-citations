@@ -4839,8 +4839,6 @@
   doi       = "10.4135/9781848608337.n11"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
 @BOOK{Kumar2019-dp,
   title     = "Research Methodology: A {Step-by-Step} Guide for Beginners",
   author    = "Kumar, Ranjit",
@@ -4874,9 +4872,9 @@
   month     =  feb,
   year      =  2019,
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
-  keywords  = "ePub | Kindle;Research Methods;+Notion;+Readwise;§New
-               Literature;Important;Read;Theory and Methods;*Upgrade Report
-               2023;00\_TO READ",
+  keywords  = "ePub | Kindle;Research
+               Methods;+Notion;+Readwise;Important;Read;Theory and
+               Methods;*Upgrade Report 2023;00\_TO READ",
   language  = "en",
   isbn      = "9781526449900"
 }
