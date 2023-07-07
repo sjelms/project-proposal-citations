@@ -3606,29 +3606,6 @@
   doi       = "10.14455/isec.res.2019.184"
 }
 
-@TECHREPORT{Jagannathan2021-fg,
-  title     = "Reaping the benefits of industry 4.0 through skills development
-               in Viet Nam",
-  author    = "Jagannathan, Shanti and Geronimo, Dorothy",
-  abstract  = "This report explores the implications of the Fourth Industrial
-               Revolution (41R) on the future of the job market in Viet Nam. It
-               assesses how jobs, tasks, and skills are being transformed,
-               particularly in logistics and agro-processing. These two
-               industries are important for the country's employment, economic
-               growth, and international competitiveness and are also highly
-               relevant for 4IR technologies. The report is part of series
-               developed from an Asian Development Bank study on trends in
-               skills demand in Cambodia, Indonesia, the Philippines, and Viet
-               Nam.",
-  publisher = "Asian Development Bank",
-  month     =  jan,
-  year      =  2021,
-  url       = "http://dx.doi.org/10.22617/spr200308",
-  keywords  = "AEC;+Readwise;+Notion;@\_Mark Up;++ClickUp;Construction
-               4.0;*Upgrade Report 2023",
-  doi       = "10.22617/spr200308"
-}
-
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @ARTICLE{Auti2019-nb,
@@ -5460,4 +5437,27 @@
   year        =  2019,
   keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
                  4.0;*Upgrade Report 2023;00\_TO READ"
+}
+
+@TECHREPORT{Jagannathan2021-fg,
+  title     = "Reaping the benefits of industry 4.0 through skills development
+               in Viet Nam",
+  author    = "Jagannathan, Shanti and Geronimo, Dorothy",
+  abstract  = "This report explores the implications of the Fourth Industrial
+               Revolution (41R) on the future of the job market in Viet Nam. It
+               assesses how jobs, tasks, and skills are being transformed,
+               particularly in logistics and agro-processing. These two
+               industries are important for the country's employment, economic
+               growth, and international competitiveness and are also highly
+               relevant for 4IR technologies. The report is part of series
+               developed from an Asian Development Bank study on trends in
+               skills demand in Cambodia, Indonesia, the Philippines, and Viet
+               Nam.",
+  publisher = "Asian Development Bank",
+  month     =  jan,
+  year      =  2021,
+  url       = "http://dx.doi.org/10.22617/spr200308",
+  keywords  = "AEC;+Readwise;+Notion;@\_Mark Up;++ClickUp;Construction
+               4.0;*Upgrade Report 2023;00\_TO READ",
+  doi       = "10.22617/spr200308"
 }
