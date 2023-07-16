@@ -396,7 +396,7 @@
   year      =  2016,
   url       = "https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf",
   keywords  = "\_XR/MR;Cited for Frontiers;Frontiers [2022];*Upgrade Report
-               2023"
+               2023;Journal Articles"
 }
 
 @MISC{Bureau_of_Labor_Statistics2021-ge,
@@ -654,7 +654,8 @@
   year     =  2021,
   url      = "http://dx.doi.org/10.1145/3446369",
   keywords = "Knowledge - Skill Acquisition;Zotero Import (Feb 22);My
-              Library;2021-12-03 Frontiers;*Upgrade Report 2023",
+              Library;2021-12-03 Frontiers;*Upgrade Report 2023;Journal
+              Articles",
   issn     = "0001-0782",
   doi      = "10.1145/3446369"
 }
@@ -682,7 +683,7 @@
   year     =  2016,
   url      = "http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0",
   keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022];*Upgrade Report 2023",
+              Frontiers;Frontiers [2022];*Upgrade Report 2023;Journal Articles",
   doi      = "10.1016/b978-0-08-100546-0.00017-0"
 }
 
@@ -696,7 +697,8 @@
   url      = "http://dx.doi.org/10.3389/fpsyg.2018.02543",
   keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub |
               Kindle;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022];EPubs Books;*Upgrade Report 2023",
+              Frontiers;Frontiers [2022];EPubs Books;*Upgrade Report
+              2023;Journal Articles",
   doi      = "10.3389/fpsyg.2018.02543"
 }
 
@@ -711,7 +713,7 @@
   url      = "http://dx.doi.org/10.1007/s11251-005-1279-2",
   keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;Zotero Import
               (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];*Upgrade Report 2023",
+              [2022];*Upgrade Report 2023;Journal Articles",
   doi      = "10.1007/s11251-005-1279-2"
 }
 
@@ -726,7 +728,7 @@
   year     =  2018,
   url      = "http://dx.doi.org/10.1007/s12186-018-9209-z",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Healthcare
-              + CME;*Upgrade Report 2023",
+              + CME;*Upgrade Report 2023;Journal Articles",
   doi      = "10.1007/s12186-018-9209-z"
 }
 
@@ -741,7 +743,7 @@
   year     =  2009,
   url      = "http://dx.doi.org/10.1016/j.ssresearch.2009.04.001",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;*Upgrade
-              Report 2023",
+              Report 2023;Journal Articles",
   issn     = "0049-089X",
   doi      = "10.1016/j.ssresearch.2009.04.001"
 }
@@ -1050,7 +1052,7 @@
   keywords = "Intelligent Tutoring Systems (ITS);Knowledge - Skill
               Acquisition;Cited for Frontiers;Zotero Import (Feb 22);My
               Library;Frontiers [2021];Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];*Upgrade Report 2023",
+              (ITS);Frontiers [2022];*Upgrade Report 2023;Journal Articles",
   issn     = "1548-5129",
   doi      = "10.1177/1548512910365698"
 }
@@ -1089,7 +1091,7 @@
               computing;Digital arithmetic;Programming profession;Intelligent
               Tutoring Systems (ITS);Cited for Frontiers;Zotero Import (Feb
               22);My Library;Frontiers [2021];Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];*Upgrade Report 2023",
+              (ITS);Frontiers [2022];*Upgrade Report 2023;Journal Articles",
   language = "en",
   issn     = "2168-2860",
   doi      = "10.1109/TMMS.1970.299942"
@@ -1189,7 +1191,7 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.25304/rlt.v28.2329",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for Frontiers;EPubs
-               Books;*Upgrade Report 2023",
+               Books;*Upgrade Report 2023;Journal Articles",
   issn      = "2156-7069, 2156-7077",
   doi       = "10.25304/rlt.v28.2329"
 }
@@ -1223,7 +1225,7 @@
   url         = "http://dx.doi.org/10.1126/science.1167311",
   keywords    = "Intelligent Tutoring Systems (ITS);\_XR/MR;@\_Mark
                  Up;DONE;Cited for Frontiers;Frontiers [2022];XR
-                 Reviewed;*Upgrade Report 2023",
+                 Reviewed;*Upgrade Report 2023;Journal Articles",
   language    = "en",
   issn        = "0036-8075, 1095-9203",
   pmid        = "19119219",
@@ -1253,7 +1255,7 @@
   year     =  1998,
   url      = "https://telearn.archives-ouvertes.fr/hal-00197346",
   keywords = "research methods;Intelligent Tutoring Systems (ITS);@\_Mark
-              Up;DONE;Frontiers [2022];*Upgrade Report 2023",
+              Up;DONE;Frontiers [2022];*Upgrade Report 2023;Journal Articles",
   language = "en"
 }
 
@@ -1335,7 +1337,8 @@
   url      = "http://dx.doi.org/10.1109/TASE.2016.2523639",
   keywords = "Special issues and sections;Cyber-physical
               systems;Industries;Automation;Real-time systems;@\_Mark Up;Cited
-              for Frontiers;Frontiers [2022];*Upgrade Report 2023",
+              for Frontiers;Frontiers [2022];*Upgrade Report 2023;Journal
+              Articles",
   issn     = "1558-3783",
   doi      = "10.1109/TASE.2016.2523639"
 }
@@ -1449,7 +1452,7 @@
   year        =  2020,
   url         = "http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720",
   keywords    = "Labor;@\_Mark Up;DONE;Cited for Frontiers;AEC;Frontiers
-                 [2022];*Upgrade Report 2023",
+                 [2022];*Upgrade Report 2023;Journal Articles",
   language    = "en",
   issn        = "0742-597X, 1943-5479",
   doi         = "10.1061/(asce)me.1943-5479.0000720"
@@ -1518,7 +1521,7 @@
   year      =  2008,
   url       = "https://doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)",
   keywords  = "AEC;Labor;+Notion;Cited for Frontiers;Frontiers [2022];*Upgrade
-               Report 2023",
+               Report 2023;Journal Articles",
   issn      = "0742-597X",
   doi       = "10.1061/(ASCE)0742-597X(2008)24:4(217)"
 }
@@ -1539,7 +1542,7 @@
   year      =  2020,
   url       = "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/chknt95&section=14",
   keywords  = "Labor;Cited for Frontiers;+Notion;Frontiers [2022];*Upgrade
-               Report 2023"
+               Report 2023;Journal Articles"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1595,7 +1598,7 @@
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
   keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for Frontiers;*Upgrade
-               Report 2023",
+               Report 2023;Journal Articles",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -1626,7 +1629,7 @@
   year     =  1973,
   url      = "http://dx.doi.org/10.1109/TSMC.1973.4309240",
   keywords = "Obituaries;Carbonell, Jaime R.;Cited for Frontiers;Frontiers
-              [2022];*Upgrade Report 2023",
+              [2022];*Upgrade Report 2023;Journal Articles",
   issn     = "0018-9472, 2168-2909",
   doi      = "10.1109/TSMC.1973.4309240"
 }
@@ -1730,7 +1733,7 @@
   year     =  2014,
   url      = "https://doi.org/10.1007/s40593-013-0001-9",
   keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;*Upgrade
-              Report 2023",
+              Report 2023;Journal Articles",
   issn     = "1560-4306",
   doi      = "10.1007/s40593-013-0001-9"
 }
@@ -1766,7 +1769,7 @@
   year     =  1994,
   url      = "https://doi.org/10.1007/BF01099821",
   keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;*Upgrade
-              Report 2023",
+              Report 2023;Journal Articles",
   issn     = "0924-1868, 1573-1391",
   doi      = "10.1007/BF01099821"
 }
@@ -1801,7 +1804,7 @@
                reality; Human computer interaction; Psychomotor learning;
                Kinaesthetic learning; Experiential learning;Intelligent
                Tutoring Systems (ITS);\_XR/MR;@\_Mark Up;Cited for
-               Frontiers;Frontiers [2022];*Upgrade Report 2023",
+               Frontiers;Frontiers [2022];*Upgrade Report 2023;Journal Articles",
   issn      = "0097-8493",
   doi       = "10.1016/j.cag.2018.09.017"
 }
@@ -1881,7 +1884,7 @@
   year      =  2014,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "Knowledge - Skill Acquisition;AEC;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;*Upgrade Report 2023",
+               Up;Cited for Frontiers;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
   doi       = "10.1186/s40461-014-0003-3"
@@ -1909,7 +1912,7 @@
   year      =  1996,
   url       = "https://doi.org/10.1080/0046760960250401",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;+Notion;Cited
-               for Frontiers;*Upgrade Report 2023",
+               for Frontiers;*Upgrade Report 2023;Journal Articles",
   issn      = "0046-760X",
   doi       = "10.1080/0046760960250401"
 }
@@ -1985,7 +1988,7 @@
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
                Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;Notion
-               Catalogued;*Upgrade Report 2023",
+               Catalogued;*Upgrade Report 2023;Journal Articles",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
 }
@@ -2029,7 +2032,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0305440320300066",
   keywords = "Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
               pottery culture (LBK); Water well;AEC;Cited for
-              Frontiers;+Notion;*Upgrade Report 2023",
+              Frontiers;+Notion;*Upgrade Report 2023;Journal Articles",
   issn     = "0305-4403",
   doi      = "10.1016/j.jas.2020.105082"
 }
@@ -2070,7 +2073,8 @@
   month    =  may,
   year     =  2016,
   url      = "https://doi.org/10.1007/s00107-015-0999-5",
-  keywords = "AEC;Cited for Frontiers;+Notion;*Upgrade Report 2023",
+  keywords = "AEC;Cited for Frontiers;+Notion;*Upgrade Report 2023;Journal
+              Articles",
   issn     = "1436-736X",
   doi      = "10.1007/s00107-015-0999-5"
 }
@@ -2113,7 +2117,7 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S0959652620335320",
   keywords = "Buildings; Frame; Structures; Design; Carbon; Mass;AEC;Cited for
-              Frontiers;*Upgrade Report 2023",
+              Frontiers;*Upgrade Report 2023;Journal Articles",
   issn     = "0959-6526",
   doi      = "10.1016/j.jclepro.2020.123487"
 }
@@ -5228,7 +5232,7 @@
   year      =  2006,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02",
   keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
-               [2022];*Upgrade Report 2023",
+               [2022];*Upgrade Report 2023;Journal Articles",
   issn      = "1560-4292, 1560-4306"
 }
 
