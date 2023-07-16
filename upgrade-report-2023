@@ -128,7 +128,7 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1038/s41467-022-32244-w",
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
-                 4.0;*Upgrade Report 2023",
+                 4.0;*Upgrade Report 2023;Journal Articles",
   copyright   = "https://creativecommons.org/licenses/by/4.0",
   language    = "en",
   issn        = "2041-1723",
@@ -202,7 +202,8 @@
   journal  = "Discourses on Learning in Education",
   year     =  2022,
   url      = "https://learningdiscourses.com/discourse/expert-novice/",
-  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report 2023",
+  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report 2023;Journal
+              Articles",
   language = "en"
 }
 
@@ -309,7 +310,7 @@
   year      =  2001,
   url       = "http://doi.wiley.com/10.1207/s15516709cog2504_1",
   keywords  = "Knowledge - Skill Acquisition;Cited for Frontiers;*Upgrade
-               Report 2023",
+               Report 2023;Journal Articles",
   language  = "en",
   issn      = "0364-0213, 1551-6709",
   doi       = "10.1207/s15516709cog2504\_1"
@@ -2215,7 +2216,8 @@
   year      =  2005,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02",
   keywords  = "+Notion;Knowledge - Skill Acquisition;Intelligent Tutoring
-               Systems (ITS);AIEd;@\_Mark Up;*Upgrade Report 2023",
+               Systems (ITS);AIEd;@\_Mark Up;*Upgrade Report 2023;Journal
+               Articles",
   issn      = "1560-4292, 1560-4306"
 }
 
@@ -2290,7 +2292,7 @@
   year        =  2016,
   url         = "http://dx.doi.org/10.1111/medu.12893",
   keywords    = "Knowledge - Skill Acquisition;Cited for Frontiers;Healthcare +
-                 CME;*Upgrade Report 2023",
+                 CME;*Upgrade Report 2023;Journal Articles",
   language    = "en",
   issn        = "0308-0110, 1365-2923",
   pmid        = "26695471",
@@ -2306,7 +2308,7 @@
   pages    = "61--100",
   year     =  1999,
   keywords = "Knowledge - Skill Acquisition;@\_Mark Up;Cited for
-              Frontiers;*Upgrade Report 2023"
+              Frontiers;*Upgrade Report 2023;Journal Articles"
 }
 
 @BOOK{Wigdor2011-kl,
@@ -2484,7 +2486,7 @@
   url       = "https://doi.org/10.1177/074171369804800205",
   keywords  = "Research Methods;Knowledge - Skill Acquisition;Frontiers import
                [Aug 11];Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;*Upgrade Report 2023",
+               Frontiers;*Upgrade Report 2023;Journal Articles",
   issn      = "0741-7136",
   doi       = "10.1177/074171369804800205"
 }
@@ -2580,7 +2582,7 @@
   url       = "https://www.degruyter.com/document/doi/10.1515/JSSI-2015-0264/html",
   keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
                support;Knowledge - Skill Acquisition;**CATALOGED;Notion
-               Catalogued;*Upgrade Report 2023",
+               Catalogued;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1708-296X, 2512-6660",
   doi       = "10.1515/JSSI-2015-0264"
@@ -2667,7 +2669,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report 2023",
+               State University;Notion Catalogued;*Upgrade Report 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.635978"
@@ -3005,7 +3008,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report 2023",
+               State University;Notion Catalogued;*Upgrade Report 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
@@ -3043,63 +3047,6 @@
   school   = "California Polytechnic State University, San Luis Obispo",
   keywords = "AEC;Labor;+Notion;+Readwise;§New Literature;++ClickUp;*Upgrade
               Report 2023;Construction 4.0;00\_TO READ"
-}
-
-@ARTICLE{Detsimas2016-jx,
-  title     = "Workplace training and generic and technical skill development
-               in the Australian construction industry",
-  author    = "Detsimas, Nicole and Coffey, Vaughan and Sadiqi, Zabihullah and
-               Li, Mei",
-  abstract  = "Purpose -- The purpose of this paper is to investigate the
-               current skills gap in both generic and skill areas within the
-               construction industry in Queensland, Australia.
-               Design/methodology/approach -- An internet-based survey was
-               administered to collect the opinions of construction employees
-               about the workplace-training environment and their perceptions
-               towards training. The survey intended to address the following
-               research questions, specifically in relation to the construction
-               industry. Findings -- The survey results reveal that whilst
-               overall participation in workplace training is high, the current
-               workplace training environments do not foster balanced skill
-               development. The study reveals that in the current absence of a
-               formal and well-balanced training mechanism, construction
-               workers generally resort to their own informal self-development
-               initiatives to develop the needed role-specific theoretical
-               knowledge. Research limitations/implications -- The findings of
-               the research are based on the data primarily collected in the
-               construction industry in Queensland, Australia. The data are
-               limited to a single Tier 2 construction company. Practical
-               implications -- The findings of this study can be utilised to
-               suggest improvements in the current (or develop new) workplace
-               training initiatives. Social implications -- The research
-               suggests that workplace training has positive relationship with
-               career growth. The results suggest that in the construction
-               industry, employees are generally well aware of the importance
-               of workplace training in their career development and they
-               largely appreciate training as being a critical factor for
-               developing their capacity to perform their roles successfully,
-               and to maintain their employability. Originality/value -- This
-               paper is unique as it investigates the current skills gap in
-               both generic and skill areas within the construction industry in
-               Queensland, Australia. So far no work has been undertaken to
-               identify and discusses the main method of workplace learning
-               within the Tier 2 industry in the context of Queensland
-               Australia.",
-  journal   = "Journal of management development",
-  publisher = "Emerald",
-  volume    =  35,
-  number    =  4,
-  pages     = "486--504",
-  month     =  may,
-  year      =  2016,
-  url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
-  keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
-               Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
-               Supporting Works;Notion Catalogued;Reviewed on Theory;*Upgrade
-               Report 2023",
-  language  = "en",
-  issn      = "0262-1711, 1758-7492",
-  doi       = "10.1108/jmd-05-2015-0073"
 }
 
 @ARTICLE{Goulding2012-op,
@@ -3163,7 +3110,7 @@
   url       = "http://dx.doi.org/10.1016/j.aei.2011.09.004",
   keywords  = "\_XR/MR;AEC;Knowledge - Skill Acquisition;Workplace
                Learning;@\_Mark Up;**CATALOGED;LSU Supporting Works;Notion
-               Catalogued;*Upgrade Report 2023",
+               Catalogued;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2011.09.004"
@@ -3358,7 +3305,7 @@
   year        =  2008,
   url         = "https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)",
   keywords    = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;Notion
-                 Catalogued;*Upgrade Report 2023",
+                 Catalogued;*Upgrade Report 2023;Journal Articles",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)0733-9364(2008)134:10(795)"
@@ -3408,7 +3355,8 @@
   year      =  2016,
   url       = "http://dx.doi.org/10.1007/s40593-015-0055-y",
   keywords  = "AIEd;@\_Mark Up;Intelligent Tutoring Systems (ITS);Knowledge -
-               Skill Acquisition;Cited for Frontiers;*Upgrade Report 2023",
+               Skill Acquisition;Cited for Frontiers;*Upgrade Report
+               2023;Journal Articles",
   language  = "en",
   issn      = "1560-4292, 1560-4306",
   doi       = "10.1007/s40593-015-0055-y"
@@ -3777,7 +3725,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;++ClickUp;Construction 4.0;Notion
-              Catalogued;*Upgrade Report 2023;00\_TO READ",
+              Catalogued;*Upgrade Report 2023;00\_TO READ;Journal Articles",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -5474,4 +5422,61 @@
   year        =  2018,
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
                  4.0;*Upgrade Report 2023"
+}
+
+@ARTICLE{Detsimas2016-jx,
+  title     = "Workplace training and generic and technical skill development
+               in the Australian construction industry",
+  author    = "Detsimas, Nicole and Coffey, Vaughan and Sadiqi, Zabihullah and
+               Li, Mei",
+  abstract  = "Purpose -- The purpose of this paper is to investigate the
+               current skills gap in both generic and skill areas within the
+               construction industry in Queensland, Australia.
+               Design/methodology/approach -- An internet-based survey was
+               administered to collect the opinions of construction employees
+               about the workplace-training environment and their perceptions
+               towards training. The survey intended to address the following
+               research questions, specifically in relation to the construction
+               industry. Findings -- The survey results reveal that whilst
+               overall participation in workplace training is high, the current
+               workplace training environments do not foster balanced skill
+               development. The study reveals that in the current absence of a
+               formal and well-balanced training mechanism, construction
+               workers generally resort to their own informal self-development
+               initiatives to develop the needed role-specific theoretical
+               knowledge. Research limitations/implications -- The findings of
+               the research are based on the data primarily collected in the
+               construction industry in Queensland, Australia. The data are
+               limited to a single Tier 2 construction company. Practical
+               implications -- The findings of this study can be utilised to
+               suggest improvements in the current (or develop new) workplace
+               training initiatives. Social implications -- The research
+               suggests that workplace training has positive relationship with
+               career growth. The results suggest that in the construction
+               industry, employees are generally well aware of the importance
+               of workplace training in their career development and they
+               largely appreciate training as being a critical factor for
+               developing their capacity to perform their roles successfully,
+               and to maintain their employability. Originality/value -- This
+               paper is unique as it investigates the current skills gap in
+               both generic and skill areas within the construction industry in
+               Queensland, Australia. So far no work has been undertaken to
+               identify and discusses the main method of workplace learning
+               within the Tier 2 industry in the context of Queensland
+               Australia.",
+  journal   = "Journal of management development",
+  publisher = "Emerald",
+  volume    =  35,
+  number    =  4,
+  pages     = "486--504",
+  month     =  may,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
+  keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
+               Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
+               Supporting Works;Notion Catalogued;Reviewed on Theory;*Upgrade
+               Report 2023;Journal Articles",
+  language  = "en",
+  issn      = "0262-1711, 1758-7492",
+  doi       = "10.1108/jmd-05-2015-0073"
 }
