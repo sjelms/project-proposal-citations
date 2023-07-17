@@ -1317,7 +1317,7 @@
   year      =  2014,
   address   = "New York, NY",
   keywords  = "Book (physical);Cited for Frontiers;Audiobook;ePub |
-               Kindle;Frontiers [2022];*Upgrade Report 2023",
+               Kindle;Frontiers [2022];*Upgrade Report 2023;EPubs Books",
   language  = "en",
   isbn      = "9780393239355"
 }
@@ -2398,7 +2398,7 @@
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=y0ooAwAAQBAJ",
   keywords  = "Research Methods;ePub | Kindle;Theory and Methods;*Upgrade
-               Report 2023;Grounded Theory",
+               Report 2023;Grounded Theory;EPubs Books",
   language  = "en",
   isbn      = "9781446293492"
 }
@@ -2719,7 +2719,7 @@
   url       = "http://dx.doi.org/10.4324/9781315725529-2",
   keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
                Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report 2023",
+               Studies;Reviewed on Theory;*Upgrade Report 2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
 }
@@ -2768,7 +2768,7 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
-               4.0;*Upgrade Report 2023",
+               4.0;*Upgrade Report 2023;EPubs Books",
   language  = "en",
   isbn      = "9783658394073"
 }
@@ -3143,7 +3143,7 @@
   year      =  2016,
   keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
                Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report 2023",
+               Studies;Reviewed on Theory;*Upgrade Report 2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-3"
 }
@@ -3224,7 +3224,8 @@
   url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
   address   = "Wiesbaden",
   keywords  = "+Notion;+Readwise;AEC;Robots;Technological change;§New
-               Literature;ePub | Kindle;*Upgrade Report 2023;Construction 4.0",
+               Literature;ePub | Kindle;*Upgrade Report 2023;Construction
+               4.0;EPubs Books",
   isbn      = "9783658394073",
   doi       = "10.1007/978-3-658-39407-3\_13"
 }
@@ -3270,7 +3271,7 @@
   url       = "http://dx.doi.org/10.4324/9781315725529",
   keywords  = "§New Literature;AEC;Research Methods;UCL;ePub | Kindle;Research
                Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report 2023",
+               Studies;Reviewed on Theory;*Upgrade Report 2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
@@ -3504,7 +3505,8 @@
   year      =  2022,
   url       = "https://link.springer.com/book/10.1007/978-3-030-85973-2",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;00\_TO READ",
+               Catalogued;UCL Poster Q1 2023;*Upgrade Report 2023;00\_TO
+               READ;EPubs Books",
   language  = "en",
   isbn      = "9783030859732"
 }
@@ -3963,7 +3965,7 @@
   keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
                Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
                Catalogued;*Upgrade Report 2023;00\_TO READ;Offsite
-               Architecture: Constructing the Future",
+               Architecture: Constructing the Future;EPubs Books",
   language  = "en",
   isbn      = "9781317588818"
 }
@@ -4107,7 +4109,7 @@
   year      =  2010,
   url       = "https://play.google.com/store/books/details?id=l7X3AgAAQBAJ",
   keywords  = "ePub | Kindle;Research Methods;Theory and Methods;*Upgrade
-               Report 2023",
+               Report 2023;EPubs Books",
   language  = "en",
   isbn      = "9781473903432"
 }
@@ -4143,7 +4145,7 @@
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=qeq_CwAAQBAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
-               4.0;*Upgrade Report 2023",
+               4.0;*Upgrade Report 2023;EPubs Books",
   language  = "en",
   isbn      = "9781317044802"
 }
@@ -4805,7 +4807,7 @@
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "ePub | Kindle;Research
                Methods;+Notion;+Readwise;Important;Read;Theory and
-               Methods;*Upgrade Report 2023;00\_TO READ",
+               Methods;*Upgrade Report 2023;00\_TO READ;EPubs Books",
   language  = "en",
   isbn      = "9781526449900"
 }
@@ -4921,7 +4923,7 @@
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
   keywords  = "@\_Mark Up;AEC;ePub | Kindle;Research Methodology in the Built
                Environment: A Selection of Case Studies;*Upgrade Report
-               2023;Grounded Theory",
+               2023;Grounded Theory;EPubs Books",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
