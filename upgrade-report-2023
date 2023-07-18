@@ -1605,8 +1605,8 @@
   month     =  apr,
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
-  keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for Frontiers;*Upgrade
-               Report 2023;Journal Articles;VET",
+  keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for
+               Frontiers;VET;*Upgrade Report 2023;Journal Articles;VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -1892,7 +1892,7 @@
   year      =  2014,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "Knowledge - Skill Acquisition;AEC;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;*Upgrade Report 2023;Journal Articles",
+               Up;Cited for Frontiers;VET;*Upgrade Report 2023;Journal Articles",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
   doi       = "10.1186/s40461-014-0003-3"
@@ -1965,7 +1965,7 @@
   url          = "https://unevoc.unesco.org/home/TVET",
   howpublished = "\url{https://unevoc.unesco.org/home/TVET}",
   note         = "Accessed: 2022-3-7",
-  keywords     = "Cited for Frontiers;*Upgrade Report 2023",
+  keywords     = "Cited for Frontiers;VET;*Upgrade Report 2023",
   language     = "en"
 }
 
@@ -1995,7 +1995,7 @@
   year      =  2002,
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;Notion
+               Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;VET;Notion
                Catalogued;*Upgrade Report 2023;Journal Articles",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
@@ -3663,7 +3663,7 @@
   month     =  aug,
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
-  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report
+  keywords  = "§New Literature;AEC;VET;Construction 4.0;*Upgrade Report
                2023;Grounded Theory;Journal Articles",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
@@ -4969,9 +4969,9 @@
   month     =  mar,
   year      =  2000,
   url       = "https://doi.org/10.1080/014461900370861",
-  keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report 2023;Grounded
-               Theory;Journal Articles",
+  keywords  = "Research Methods;VET;Research Methodology in the Built
+               Environment: A Selection of Case Studies;*Upgrade Report
+               2023;Grounded Theory;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/014461900370861"
 }
