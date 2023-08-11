@@ -599,7 +599,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;+Notion;+Readwise;AEC;§New
-              Literature;Construction 4.0;*Upgrade Report 2023;Journal Articles",
+              Literature;Economics;Construction 4.0;*Upgrade Report
+              2023;Journal Articles",
   issn     = "2212-5671",
   doi      = "10.1016/S2212-5671(15)00171-9"
 }
@@ -4513,7 +4514,7 @@
   url          = "https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/",
   howpublished = "\url{https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;*Upgrade Report 2023",
+  keywords     = "Website;Economics;*Upgrade Report 2023",
   language     = "en"
 }
 
