@@ -2764,9 +2764,10 @@
   month     =  mar,
   year      =  2016,
   url       = "http://dx.doi.org/10.4324/9781315725529-2",
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
+               Up;++ClickUp;Research Methodology in the Built Environment: A
+               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
 }
@@ -3189,9 +3190,10 @@
   edition   = "1st Edition",
   month     =  mar,
   year      =  2016,
-  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark Up;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
+               Up;++ClickUp;Research Methodology in the Built Environment: A
+               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-3"
 }
@@ -3317,9 +3319,10 @@
   month     =  mar,
   year      =  2016,
   url       = "http://dx.doi.org/10.4324/9781315725529",
-  keywords  = "§New Literature;AEC;Research Methods;UCL;ePub | Kindle;Research
-               Methodology in the Built Environment: A Selection of Case
-               Studies;Reviewed on Theory;*Upgrade Report May 2023;EPubs Books",
+  keywords  = "§New Literature;AEC;Research Methods;UCL;ePub |
+               Kindle;++ClickUp;Research Methodology in the Built Environment:
+               A Selection of Case Studies;Reviewed on Theory;*Upgrade Report
+               May 2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
@@ -4940,9 +4943,9 @@
   month     =  mar,
   year      =  2016,
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
-  keywords  = "@\_Mark Up;AEC;ePub | Kindle;Research Methodology in the Built
-               Environment: A Selection of Case Studies;*Upgrade Report May
-               2023;Grounded Theory;EPubs Books",
+  keywords  = "@\_Mark Up;AEC;ePub | Kindle;++ClickUp;Research Methodology in
+               the Built Environment: A Selection of Case Studies;*Upgrade
+               Report May 2023;Grounded Theory;EPubs Books",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
