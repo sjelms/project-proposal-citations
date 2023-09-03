@@ -3454,6 +3454,8 @@
   doi       = "10.1201/9780429398100"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @INCOLLECTION{Hussien2020-bt,
   title     = "A Review of Mixed-reality Applications in Construction 4.0",
   booktitle = "Construction 4.0: An Innovation Platform for the Built
@@ -3472,8 +3474,9 @@
   month     =  feb,
   year      =  2020,
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
-  keywords  = "AEC;Cross Ref Chapter;*Upgrade Report May 2023;Construction 4.0:
-               An Innovation Platform for the Built Environment",
+  keywords  = "AEC;Cross Ref Chapter;++ClickUp;+Notion;+Readwise;§New
+               Literature;*Upgrade Report May 2023;Construction 4.0: An
+               Innovation Platform for the Built Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100"
 }
