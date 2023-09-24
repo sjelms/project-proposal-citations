@@ -108,7 +108,7 @@
                  modular;AEC;Important;@\_Mark
                  Up;Essential;**CATALOGED;++ClickUp;Construction 4.0;Notion
                  Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023;00\_TO
-                 READ"
+                 READ;Government Report"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -2845,7 +2845,7 @@
   institution = "HM Government",
   month       =  jul,
   year        =  2013,
-  keywords    = "*Upgrade Report May 2023",
+  keywords    = "*Upgrade Report May 2023;Government Report",
   isbn        = "9781409839224"
 }
 
@@ -3340,7 +3340,7 @@
   url          = "https://www.dol.gov/general/workcenter",
   howpublished = "\url{https://www.dol.gov/general/workcenter}",
   note         = "Accessed: 2023-5-11",
-  keywords     = "Labor;Website;*Upgrade Report May 2023",
+  keywords     = "Labor;Website;*Upgrade Report May 2023;Government Report",
   language     = "en"
 }
 
@@ -4595,7 +4595,8 @@
   note     = "Title of the publication associated with this dataset: The
               Economics Daily, Consumer prices up 9.1 percent over the year
               ended June 2022, largest increase in 40 years",
-  keywords = "Website;Statistics;Data Stats Figures;*Upgrade Report May 2023",
+  keywords = "Website;Statistics;Data Stats Figures;*Upgrade Report May
+              2023;Government Report",
   language = "en"
 }
 
@@ -5135,7 +5136,7 @@
   howpublished = "\url{https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth}",
   note         = "Accessed: 2023-2-23",
   keywords     = "Website;Statistics;Data Stats Figures;*Upgrade Report May
-                  2023",
+                  2023;Government Report",
   language     = "en"
 }
 
