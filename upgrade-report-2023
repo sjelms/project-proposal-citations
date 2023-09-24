@@ -2607,7 +2607,8 @@
   keywords  = "Cited for Frontiers;Book (physical);Audiobook;Economics;ePub |
                Kindle;Zotero Import (Feb 22);My Library;Frontiers
                [2022];*Upgrade Report May 2023;EPubs Books",
-  isbn      = "9780691172798"
+  isbn      = "9780691172798",
+  doi       = "10.2307/j.ctvc77cz1"
 }
 
 @ARTICLE{Wang2015-lz,
