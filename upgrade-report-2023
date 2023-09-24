@@ -3340,8 +3340,7 @@
   url          = "https://www.dol.gov/general/workcenter",
   howpublished = "\url{https://www.dol.gov/general/workcenter}",
   note         = "Accessed: 2023-5-11",
-  keywords     = "Labor;Website;Report;*Upgrade Report May 2023;Government
-                  Report",
+  keywords     = "Labor;Website;*Upgrade Report May 2023;Government Report",
   language     = "en"
 }
 
@@ -5136,8 +5135,8 @@
   url          = "https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth",
   howpublished = "\url{https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Statistics;Report;Data Stats Figures;*Upgrade Report
-                  May 2023;Government Report",
+  keywords     = "Website;Statistics;Data Stats Figures;*Upgrade Report May
+                  2023;Government Report",
   language     = "en"
 }
 
