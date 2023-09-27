@@ -25,7 +25,7 @@
   url       = "https://www.routledge.com/Offsite-Architecture-Constructing-the-future/Smith-Quale/p/book/9781138821392",
   keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
                Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
-               Catalogued;*Upgrade Report May 2023;00\_TO READ;Offsite
+               Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;Offsite
                Architecture: Constructing the Future;EPubs Books",
   language  = "en",
   isbn      = "9781317588818"
@@ -40,7 +40,7 @@
   month     =  apr,
   year      =  2018,
   url       = "https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation",
-  keywords  = "Automation;Website;*Upgrade Report May 2023",
+  keywords  = "Automation;Website;2.0\_Upgrade MAY 2023",
   language  = "en",
   issn      = "0013-0613, 1476-8860"
 }
@@ -55,7 +55,7 @@
   institution = "Royal Institution of Chartered Surveyors",
   month       =  sep,
   year        =  2018,
-  keywords    = "AEC;§New Literature;Construction 4.0;*Upgrade Report May 2023"
+  keywords    = "AEC;§New Literature;Construction 4.0;2.0\_Upgrade MAY 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -75,7 +75,7 @@
   year        =  2020,
   url         = "https://www.mckinsey.com/capabilities/operations/our-insights/data-to-the-rescue-embodied-carbon-in-buildings-and-the-urgency-of-now",
   keywords    = "+Notion;+Readwise;AEC;Report;§New Literature;Construction
-                 4.0;*Upgrade Report May 2023"
+                 4.0;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Smith2023-fp,
@@ -107,7 +107,7 @@
   keywords    = "Construction 4.0. Industrial construction. offsite,
                  modular;AEC;Important;@\_Mark
                  Up;Essential;**CATALOGED;++ClickUp;Report;Construction
-                 4.0;Notion Catalogued;UCL Poster Q1 2023;*Upgrade Report May
+                 4.0;Notion Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY
                  2023;00\_TO READ;Government Report"
 }
 
@@ -162,7 +162,7 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1038/s41467-022-32244-w",
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
-                 4.0;*Upgrade Report May 2023;Journal Articles",
+                 4.0;2.0\_Upgrade MAY 2023;Journal Articles",
   copyright   = "https://creativecommons.org/licenses/by/4.0",
   language    = "en",
   issn        = "2041-1723",
@@ -200,8 +200,7 @@
   url       = "https://methods.sagepub.com/book/handbook-of-interview-research",
   keywords  = "interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Research
-               Methods;Theory and Methods;*Upgrade Report May 2023;Grounded
-               Theory",
+               Methods;Theory and Methods;2.0\_Upgrade MAY 2023;Grounded Theory",
   language  = "en",
   isbn      = "9781412973588",
   doi       = "10.4135/9781412973588"
@@ -218,7 +217,7 @@
   month     =  jan,
   year      =  1982,
   url       = "https://doi.org/10.1177/002029408201500104",
-  keywords  = "*Upgrade Report May 2023;Journal Articles",
+  keywords  = "2.0\_Upgrade MAY 2023;Journal Articles",
   issn      = "0020-2940",
   doi       = "10.1177/002029408201500104"
 }
@@ -237,7 +236,7 @@
   journal  = "Discourses on Learning in Education",
   year     =  2022,
   url      = "https://learningdiscourses.com/discourse/expert-novice/",
-  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report May 2023;Journal
+  keywords = "**CATALOGED;Notion Catalogued;2.0\_Upgrade MAY 2023;Journal
               Articles",
   language = "en"
 }
@@ -254,7 +253,7 @@
   url       = "http://dx.doi.org/10.1007/978-3-642-39112-5_18",
   address   = "Berlin, Heidelberg",
   keywords  = "Artificial Intelligence (AI);Intelligent Tutoring Systems
-               (ITS);@\_Mark Up;Cited for Frontiers;*Upgrade Report May 2023",
+               (ITS);@\_Mark Up;Cited for Frontiers;2.0\_Upgrade MAY 2023",
   issn      = "0302-9743, 1611-3349",
   isbn      = "9783642391118, 9783642391125",
   doi       = "10.1007/978-3-642-39112-5\_18"
@@ -267,7 +266,7 @@
   year         =  2023,
   url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
   howpublished = "Industrialized Construction Forum 2023",
-  keywords     = "AEC;Construction 4.0;*Upgrade Report May 2023",
+  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
   location     = "Center for Integrated Facility Engineering, Stanford
                   University, Stanford, CA"
 }
@@ -281,7 +280,7 @@
   address   = "Lancaster",
   keywords  = "diagnosis ; reasoning ; dialogues ; computational mathetics ;
                instructions;Intelligent Tutoring Systems (ITS);AIEd;Cited for
-               Frontiers;*Upgrade Report May 2023",
+               Frontiers;2.0\_Upgrade MAY 2023",
   isbn      = "9780954860561"
 }
 
@@ -294,8 +293,7 @@
   url          = "https://www.froebel.org.uk/training-and-resources/froebels-gifts",
   howpublished = "\url{https://www.froebel.org.uk/training-and-resources/froebels-gifts}",
   note         = "Accessed: 2022-5-12",
-  keywords     = "Knowledge - Skill Acquisition;Education;*Upgrade Report May
-                  2023",
+  keywords     = "Knowledge - Skill Acquisition;Education;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -307,8 +305,8 @@
   year      =  2021,
   address   = "Harlow, UK",
   keywords  = "ePub | Kindle;Book (physical);Artificial Intelligence
-               (AI);Course Assignment;AIEd [CCME0123];EPubs Books;*Upgrade
-               Report May 2023",
+               (AI);Course Assignment;AIEd [CCME0123];EPubs Books;2.0\_Upgrade
+               MAY 2023",
   issn      = "0015-8992",
   isbn      = "9780134610993"
 }
@@ -345,8 +343,8 @@
   month     =  jul,
   year      =  2001,
   url       = "http://doi.wiley.com/10.1207/s15516709cog2504_1",
-  keywords  = "Knowledge - Skill Acquisition;Cited for Frontiers;*Upgrade
-               Report May 2023;Journal Articles",
+  keywords  = "Knowledge - Skill Acquisition;Cited for Frontiers;2.0\_Upgrade
+               MAY 2023;Journal Articles",
   language  = "en",
   issn      = "0364-0213, 1551-6709",
   doi       = "10.1207/s15516709cog2504\_1"
@@ -373,7 +371,7 @@
   url         = "https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf",
   keywords    = "Employment;Occupational choice;Skill demand;Technological
                  change;Wage inequality;Economics;Zotero Import (Feb 22);My
-                 Library;EPubs Books;*Upgrade Report May 2023",
+                 Library;EPubs Books;2.0\_Upgrade MAY 2023",
   doi         = "10.1016/j.techfore.2016.08.019"
 }
 
@@ -393,7 +391,7 @@
   url          = "https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/",
   howpublished = "\url{https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/}",
   note         = "Accessed: 2021-5-18",
-  keywords     = "Website;*Upgrade Report May 2023",
+  keywords     = "Website;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -407,7 +405,7 @@
   url       = "https://redshift.autodesk.com/history-of-prefabrication/",
   address   = "United States",
   keywords  = "YouTube;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;*Upgrade Report May 2023",
+               Frontiers;2.0\_Upgrade MAY 2023",
   copyright = "Autodesk"
 }
 
@@ -431,7 +429,7 @@
   pages     = "185",
   year      =  2016,
   url       = "https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf",
-  keywords  = "\_XR/MR;Cited for Frontiers;Frontiers [2022];*Upgrade Report May
+  keywords  = "\_XR/MR;Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY
                2023;Journal Articles"
 }
 
@@ -445,7 +443,7 @@
                Force Statistics from the Current Population Survey",
   keywords  = "Cited for Frontiers;AEC;Statistics;Zotero Import (Feb 22);My
                Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-               2023;*Upgrade Report May 2023"
+               2023;2.0\_Upgrade MAY 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -468,7 +466,7 @@
   year      =  2012,
   url       = "http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf",
   keywords  = "AEC;Labor;@\_Mark Up;DONE;**CATALOGED;Frontiers [2022];Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023"
+               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Highfield2019-cp,
@@ -489,7 +487,7 @@
   url          = "https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php",
   howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
   note         = "Accessed: 2022-4-21",
-  keywords     = "AEC;\_XR/MR;Website;*Upgrade Report May 2023",
+  keywords     = "AEC;\_XR/MR;Website;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -505,7 +503,7 @@
   year            =  2008,
   url             = "http://dx.doi.org/10.1109/ictai.2008.151",
   keywords        = "Intelligent Tutoring Systems (ITS);\_XR/MR;@\_Mark
-                     Up;+Notion;Frontiers [2022];*Upgrade Report May 2023",
+                     Up;+Notion;Frontiers [2022];2.0\_Upgrade MAY 2023",
   conference      = "2008 20th IEEE International Conference on Tools with
                      Artificial Intelligence (ICTAI)",
   location        = "Dayton, OH, USA",
@@ -523,9 +521,9 @@
   year     =  1976,
   url      = "https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7610.1976.tb00381.x",
   keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;Zotero Import
-              (Feb 22);My Library;Frontiers [2022];*Upgrade Report May
-              2023;Theory and Methodology in Social and Educational
-              Research;Journal Articles",
+              (Feb 22);My Library;Frontiers [2022];2.0\_Upgrade MAY 2023;Theory
+              and Methodology in Social and Educational Research;Journal
+              Articles",
   issn     = "0021-9630",
   doi      = "10.1111/j.1469-7610.1976.tb00381.x"
 }
@@ -541,7 +539,7 @@
   url      = "http://www.jstor.org/stable/1742096",
   keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Zotero
               Import (Feb 22);My Library;Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];*Upgrade Report May 2023;Journal Articles",
+              (ITS);Frontiers [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0036-8075, 1095-9203"
 }
 
@@ -561,7 +559,7 @@
   url      = "https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511",
   keywords = "General Interest Periodicals--United States;Cited for
               Frontiers;Zotero Import (Feb 22);My Library;Frontiers
-              [2022];*Upgrade Report May 2023",
+              [2022];2.0\_Upgrade MAY 2023",
   language = "English"
 }
 
@@ -576,8 +574,7 @@
   year     =  1988,
   url      = "https://doi.org/10.3102/0091732X015001097",
   keywords = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb 22);My
-              Library;Frontiers [2022];*Upgrade Report May 2023;Journal
-              Articles",
+              Library;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   doi      = "10.3102/0091732X015001097"
 }
 
@@ -589,7 +586,7 @@
   month       =  aug,
   year        =  2018,
   keywords    = "Workplace Learning;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;*Upgrade Report May 2023"
+                 Library;2021-12-03 Frontiers;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Dubberly2011-yu,
@@ -603,8 +600,8 @@
   url      = "http://dx.doi.org/10.1145/1897239.1897256",
   keywords = "ACM;Knowledge - Skill Acquisition;@\_Mark Up;**CATALOGED;Zotero
               Import (Feb 22);My Library;2021-12-03 Frontiers;Notion
-              Catalogued;ACM\_Association for Computing Machinery;*Upgrade
-              Report May 2023;Journal Articles",
+              Catalogued;ACM\_Association for Computing Machinery;2.0\_Upgrade
+              MAY 2023;Journal Articles",
   issn     = "1072-5520",
   doi      = "10.1145/1897239.1897256"
 }
@@ -618,7 +615,7 @@
   url         = "https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/",
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;*Upgrade Report May 2023"
+                 2023;2.0\_Upgrade MAY 2023"
 }
 
 @BOOK{Benner1984-ut,
@@ -627,8 +624,8 @@
   author    = "Benner, Patricia",
   publisher = "Prentice Hall",
   year      =  1984,
-  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;*Upgrade
-               Report May 2023"
+  keywords  = "Zotero Import (Feb 22);My Library;2021-12-03
+               Frontiers;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Historic_Buildings_and_Monuments_Commission_for_England2018-dl,
@@ -639,7 +636,7 @@
   url          = "https://heritagecalling.com/2018/07/24/5-things-you-didnt-know-about-prefabs/",
   howpublished = "\url{https://heritagecalling.com/2018/07/24/5-things-you-didnt-know-about-prefabs/}",
   keywords     = "Zotero Import (Feb 22);My Library;2021-12-03
-                  Frontiers;*Upgrade Report May 2023"
+                  Frontiers;2.0\_Upgrade MAY 2023"
 }
 
 @BOOK{Nonaka2008-ts,
@@ -650,8 +647,8 @@
   year      =  2008,
   address   = "Amsterdam, Netherlands",
   keywords  = "ePub | Kindle;Knowledge - Skill Acquisition;Zotero Import (Feb
-               22);My Library;2021-12-03 Frontiers;EPubs Books;*Upgrade Report
-               May 2023"
+               22);My Library;2021-12-03 Frontiers;EPubs Books;2.0\_Upgrade MAY
+               2023"
 }
 
 @TECHREPORT{Zahidi2020-lt,
@@ -665,8 +662,8 @@
   month       =  oct,
   year        =  2020,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade Report
-                 May 2023"
+                 Library;2021-12-03 Frontiers;Frontiers [2022];2.0\_Upgrade MAY
+                 2023"
 }
 
 @TECHREPORT{Leopold2018-cc,
@@ -677,8 +674,8 @@
   institution = "Centre for the New Economy and Society",
   year        =  2018,
   keywords    = "Cited for Frontiers;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade Report
-                 May 2023"
+                 Library;2021-12-03 Frontiers;Frontiers [2022];2.0\_Upgrade MAY
+                 2023"
 }
 
 @ARTICLE{Kambhampati2021-lr,
@@ -691,7 +688,7 @@
   year     =  2021,
   url      = "http://dx.doi.org/10.1145/3446369",
   keywords = "Knowledge - Skill Acquisition;Zotero Import (Feb 22);My
-              Library;2021-12-03 Frontiers;*Upgrade Report May 2023;Journal
+              Library;2021-12-03 Frontiers;2.0\_Upgrade MAY 2023;Journal
               Articles",
   issn     = "0001-0782",
   doi      = "10.1145/3446369"
@@ -707,8 +704,8 @@
   month       =  may,
   year        =  1998,
   keywords    = "Workplace Learning;Cited for Frontiers;Zotero Import (Feb
-                 22);My Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade
-                 Report May 2023"
+                 22);My Library;2021-12-03 Frontiers;Frontiers
+                 [2022];2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Kaklauskas2016-uk,
@@ -720,8 +717,7 @@
   year     =  2016,
   url      = "http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0",
   keywords = "Cited for Frontiers;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022];*Upgrade Report May 2023;Journal
-              Articles",
+              Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   doi      = "10.1016/b978-0-08-100546-0.00017-0"
 }
 
@@ -735,7 +731,7 @@
   url      = "http://dx.doi.org/10.3389/fpsyg.2018.02543",
   keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;ePub |
               Kindle;Zotero Import (Feb 22);My Library;2021-12-03
-              Frontiers;Frontiers [2022];EPubs Books;*Upgrade Report May
+              Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY
               2023;Journal Articles",
   doi      = "10.3389/fpsyg.2018.02543"
 }
@@ -751,7 +747,7 @@
   url      = "http://dx.doi.org/10.1007/s11251-005-1279-2",
   keywords = "Cited for Frontiers;Knowledge - Skill Acquisition;Zotero Import
               (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];*Upgrade Report May 2023;Journal Articles",
+              [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   doi      = "10.1007/s11251-005-1279-2"
 }
 
@@ -766,7 +762,7 @@
   year     =  2018,
   url      = "http://dx.doi.org/10.1007/s12186-018-9209-z",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Healthcare
-              + CME;*Upgrade Report May 2023;Journal Articles",
+              + CME;2.0\_Upgrade MAY 2023;Journal Articles",
   doi      = "10.1007/s12186-018-9209-z"
 }
 
@@ -780,8 +776,8 @@
   pages    = "897--920",
   year     =  2009,
   url      = "http://dx.doi.org/10.1016/j.ssresearch.2009.04.001",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;*Upgrade
-              Report May 2023;Journal Articles",
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03
+              Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0049-089X",
   doi      = "10.1016/j.ssresearch.2009.04.001"
 }
@@ -794,7 +790,7 @@
   month       =  dec,
   year        =  2019,
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Data Stats Figures;*Upgrade Report May 2023"
+                 Frontiers;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Associated_General_Contractors_of_America2019-gi,
@@ -807,7 +803,7 @@
   year        =  2019,
   url         = "https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0",
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;*Upgrade Report May 2023"
+                 Frontiers;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Barbosa2017-rj,
@@ -821,7 +817,7 @@
   url         = "https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution",
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];Construction
-                 4.0;UCL Poster Q1 2023;*Upgrade Report May 2023",
+                 4.0;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023",
   copyright   = "McKinsey \& Company"
 }
 
@@ -852,7 +848,7 @@
   year     =  2019,
   url      = "http://dx.doi.org/10.1080/15623599.2017.1423166",
   keywords = "AEC;Workplace Learning;@\_Mark Up;+Notion;Cited for
-              Frontiers;\_XR/MR;My Library;Game Engine;*Upgrade Report May
+              Frontiers;\_XR/MR;My Library;Game Engine;2.0\_Upgrade MAY
               2023;Journal Articles",
   doi      = "10.1080/15623599.2017.1423166"
 }
@@ -895,7 +891,7 @@
   year     =  2016,
   url      = "http://dx.doi.org/10.1108/ecam-01-2016-0028",
   keywords = "AEC;\_XR/MR;@\_Mark Up;+Notion;Game Engine \_ AR-VR;Frontiers
-              [2022];*Upgrade Report May 2023;Journal Articles",
+              [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0969-9988",
   doi      = "10.1108/ecam-01-2016-0028"
 }
@@ -928,7 +924,7 @@
   address   = "New York, NY",
   keywords  = "Intelligent Tutoring Systems (ITS);UCL;Cited for
                Frontiers;**CATALOGED;Zotero Import (Feb 22);My
-               Library;Intelligent Tutoring Systems (ITS);*Upgrade Report May
+               Library;Intelligent Tutoring Systems (ITS);2.0\_Upgrade MAY
                2023;Notion Catalogued",
   isbn      = "9781441996251",
   doi       = "10.1007/978-1-4419-9625-1\_12"
@@ -962,7 +958,7 @@
   url      = "https://doi.org/10.1007/s10648-021-09636-3",
   keywords = "@\_Mark Up;Knowledge - Skill Acquisition;Cited for
               Frontiers;Zotero Import (Feb 22);My Library;Frontiers
-              [2022];*Upgrade Report May 2023;Journal Articles",
+              [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "1040-726X, 1573-336X",
   doi      = "10.1007/s10648-021-09636-3"
 }
@@ -992,8 +988,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0360131507001091",
   keywords = "Cited for Frontiers;Intelligent Tutoring Systems (ITS);Knowledge
               - Skill Acquisition;UCL;Zotero Import (Feb 22);My
-              Library;Frontiers [2022];*Upgrade Report May 2023;Journal
-              Articles",
+              Library;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0360-1315",
   doi      = "10.1016/j.compedu.2007.09.018"
 }
@@ -1030,7 +1025,7 @@
   pages     = "67--76",
   year      =  2006,
   keywords  = "Cited for Frontiers;Zotero Import (Feb 22);My Library;Frontiers
-               [2022];*Upgrade Report May 2023",
+               [2022];2.0\_Upgrade MAY 2023",
   language  = "eng",
   isbn      = "9780415386708"
 }
@@ -1055,8 +1050,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0040162516302244",
   keywords = "Employment;Occupational choice;Skill demand;Technological
               change;Wage inequality;ePub | Kindle;Economics;Zotero Import (Feb
-              22);My Library;EPubs Books;*Upgrade Report May 2023;Journal
-              Articles",
+              22);My Library;EPubs Books;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0040-1625",
   doi      = "10.1016/j.techfore.2016.08.019"
 }
@@ -1094,7 +1088,7 @@
   keywords = "Intelligent Tutoring Systems (ITS);Knowledge - Skill
               Acquisition;Cited for Frontiers;**CATALOGED;Zotero Import (Feb
               22);My Library;Frontiers [2021];Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];*Upgrade Report May 2023;Journal
+              (ITS);Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
               Articles;Notion Catalogued",
   issn     = "1548-5129",
   doi      = "10.1177/1548512910365698"
@@ -1134,7 +1128,7 @@
               computing;Digital arithmetic;Programming profession;Intelligent
               Tutoring Systems (ITS);Cited for Frontiers;Zotero Import (Feb
               22);My Library;Frontiers [2021];Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];*Upgrade Report May 2023;Journal Articles",
+              (ITS);Frontiers [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   language = "en",
   issn     = "2168-2860",
   doi      = "10.1109/TMMS.1970.299942"
@@ -1147,7 +1141,7 @@
   institution = "Prefabrication and Modular Construction 2020",
   year        =  2020,
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Construction 4.0;*Upgrade Report May 2023"
+                 Frontiers;Construction 4.0;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Mousavinasab2021-eg,
@@ -1190,7 +1184,7 @@
   url      = "https://doi.org/10.1080/10494820.2018.1558257",
   keywords = "Intelligent Tutoring Systems (ITS);ePub | Kindle;@\_Mark
               Up;DONE;Zotero Import (Feb 22);My Library;Intelligent Tutoring
-              Systems (ITS);Frontiers [2022];EPubs Books;*Upgrade Report May
+              Systems (ITS);Frontiers [2022];EPubs Books;2.0\_Upgrade MAY
               2023;Journal Articles",
   doi      = "10.1080/10494820.2018.1558257"
 }
@@ -1235,8 +1229,8 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.25304/rlt.v28.2329",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for
-               Frontiers;**CATALOGED;EPubs Books;*Upgrade Report May
-               2023;Journal Articles;Notion Catalogued",
+               Frontiers;**CATALOGED;EPubs Books;2.0\_Upgrade MAY 2023;Journal
+               Articles;Notion Catalogued",
   issn      = "2156-7069, 2156-7077",
   doi       = "10.25304/rlt.v28.2329"
 }
@@ -1270,7 +1264,7 @@
   url         = "http://dx.doi.org/10.1126/science.1167311",
   keywords    = "Intelligent Tutoring Systems (ITS);\_XR/MR;@\_Mark
                  Up;DONE;Cited for Frontiers;Frontiers [2022];XR
-                 Reviewed;*Upgrade Report May 2023;Journal Articles;Notion
+                 Reviewed;2.0\_Upgrade MAY 2023;Journal Articles;Notion
                  Catalogued",
   language    = "en",
   issn        = "0036-8075, 1095-9203",
@@ -1301,7 +1295,7 @@
   year     =  1998,
   url      = "https://telearn.archives-ouvertes.fr/hal-00197346",
   keywords = "research methods;Intelligent Tutoring Systems (ITS);@\_Mark
-              Up;DONE;**CATALOGED;Frontiers [2022];*Upgrade Report May
+              Up;DONE;**CATALOGED;Frontiers [2022];2.0\_Upgrade MAY
               2023;Journal Articles;Notion Catalogued",
   language = "en"
 }
@@ -1314,7 +1308,7 @@
   year      =  2019,
   url       = "https://books.google.co.uk/books?id=M1eFDwAAQBAJ",
   keywords  = "ePub | Kindle;Book (physical);EPubs Books;Frontiers
-               [2022];*Upgrade Report May 2023",
+               [2022];2.0\_Upgrade MAY 2023",
   isbn      = "9780525558620",
   lccn      = "2019029689"
 }
@@ -1357,7 +1351,7 @@
   year      =  2014,
   address   = "New York, NY",
   keywords  = "Book (physical);Cited for Frontiers;Audiobook;ePub |
-               Kindle;Economics;Frontiers [2022];*Upgrade Report May 2023;EPubs
+               Kindle;Economics;Frontiers [2022];2.0\_Upgrade MAY 2023;EPubs
                Books",
   language  = "en",
   isbn      = "9780393239355"
@@ -1385,7 +1379,7 @@
   url      = "http://dx.doi.org/10.1109/TASE.2016.2523639",
   keywords = "Special issues and sections;Cyber-physical
               systems;Industries;Automation;Real-time systems;@\_Mark Up;Cited
-              for Frontiers;Frontiers [2022];*Upgrade Report May 2023;Journal
+              for Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
               Articles",
   issn     = "1558-3783",
   doi      = "10.1109/TASE.2016.2523639"
@@ -1400,8 +1394,8 @@
   year        =  2020,
   url         = "https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf",
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade Report
-                 May 2023"
+                 Library;2021-12-03 Frontiers;Frontiers [2022];2.0\_Upgrade MAY
+                 2023"
 }
 
 @TECHREPORT{Green2020-gb,
@@ -1412,8 +1406,8 @@
   month       =  feb,
   year        =  2020,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade Report
-                 May 2023"
+                 Library;2021-12-03 Frontiers;Frontiers [2022];2.0\_Upgrade MAY
+                 2023"
 }
 
 @MISC{Andrews2019-pu,
@@ -1423,7 +1417,7 @@
   year         =  2019,
   url          = "https://www.history.com/news/who-were-the-luddites",
   howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
-  keywords     = "Cited for Frontiers;Frontiers [2022];*Upgrade Report May 2023"
+  keywords     = "Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Conniff2011-dm,
@@ -1434,7 +1428,7 @@
   year         =  2011,
   url          = "https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/",
   howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
-  keywords     = "Cited for Frontiers;Frontiers [2022];*Upgrade Report May 2023"
+  keywords     = "Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1447,7 +1441,7 @@
   institution = "RIBA",
   year        =  2021,
   url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
-  keywords    = "+Notion;+Readwise;AEC;§New Literature;*Upgrade Report May
+  keywords    = "+Notion;+Readwise;AEC;§New Literature;2.0\_Upgrade MAY
                  2023;Construction 4.0"
 }
 
@@ -1459,8 +1453,8 @@
   year         =  2020,
   url          = "https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/",
   howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
-  keywords     = "Cited for Frontiers;+Notion;Frontiers [2022];*Upgrade Report
-                  May 2023"
+  keywords     = "Cited for Frontiers;+Notion;Frontiers [2022];2.0\_Upgrade MAY
+                  2023"
 }
 
 @TECHREPORT{Barua2020-br,
@@ -1470,7 +1464,7 @@
   year     =  2020,
   url      = "https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html",
   keywords = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
-              Library;2021-12-03 Frontiers;Frontiers [2022];*Upgrade Report May
+              Library;2021-12-03 Frontiers;Frontiers [2022];2.0\_Upgrade MAY
               2023"
 }
 
@@ -1500,7 +1494,7 @@
   year        =  2020,
   url         = "http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720",
   keywords    = "Labor;@\_Mark Up;DONE;Cited for Frontiers;AEC;Frontiers
-                 [2022];*Upgrade Report May 2023;Journal Articles",
+                 [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   language    = "en",
   issn        = "0742-597X, 1943-5479",
   doi         = "10.1061/(asce)me.1943-5479.0000720"
@@ -1525,7 +1519,7 @@
   address   = "Greeley; CO; Mountain; United States--US, United States, Fort
                Collins",
   keywords  = "+Notion;AEC;Labor;@\_Mark Up;DONE;Cited for Frontiers;Frontiers
-               [2022];*Upgrade Report May 2023",
+               [2022];2.0\_Upgrade MAY 2023",
   language  = "en",
   issn      = "1094-8198"
 }
@@ -1538,7 +1532,7 @@
   pages     = "11--14",
   year      =  2012,
   keywords  = "AEC;Labor;+Notion;@\_Mark Up;Cited for Frontiers;Frontiers
-               [2022];*Upgrade Report May 2023"
+               [2022];2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Millard1997-yr,
@@ -1551,7 +1545,7 @@
   month    =  aug,
   year     =  1997,
   url      = "https://www.bizjournals.com/milwaukee/stories/1997/08/18/story8.html",
-  keywords = "Labor;Workplace Learning;Cited for Frontiers;*Upgrade Report May
+  keywords = "Labor;Workplace Learning;Cited for Frontiers;2.0\_Upgrade MAY
               2023",
   language = "en"
 }
@@ -1569,8 +1563,8 @@
   month     =  oct,
   year      =  2008,
   url       = "https://doi.org/10.1061/(ASCE)0742-597X(2008)24:4(217)",
-  keywords  = "AEC;Labor;+Notion;Cited for Frontiers;Frontiers [2022];*Upgrade
-               Report May 2023;Journal Articles",
+  keywords  = "AEC;Labor;+Notion;Cited for Frontiers;Frontiers
+               [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn      = "0742-597X",
   doi       = "10.1061/(ASCE)0742-597X(2008)24:4(217)"
 }
@@ -1591,7 +1585,7 @@
   year      =  2020,
   url       = "https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/",
   keywords  = "Labor;Cited for Frontiers;**CATALOGED;+Readwise;@\_Mark
-               Up;Frontiers [2022];*Upgrade Report May 2023;Journal
+               Up;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
                Articles;Notion Catalogued"
 }
 
@@ -1610,7 +1604,7 @@
   year      =  1999,
   url       = "http://ascpro0.ascweb.org/archives/1999/chini99.htm",
   keywords  = "Labor;@\_Mark Up;Cited for Frontiers;AEC;Website;Frontiers
-               [2022];*Upgrade Report May 2023"
+               [2022];2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Snell2019-ty,
@@ -1648,7 +1642,7 @@
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
   keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for
-               Frontiers;VET;*Upgrade Report May 2023;Journal Articles;VET",
+               Frontiers;VET;2.0\_Upgrade MAY 2023;Journal Articles;VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -1679,7 +1673,7 @@
   year     =  1973,
   url      = "http://dx.doi.org/10.1109/TSMC.1973.4309240",
   keywords = "Obituaries;Carbonell, Jaime R.;Cited for Frontiers;Frontiers
-              [2022];*Upgrade Report May 2023;Journal Articles",
+              [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0018-9472, 2168-2909",
   doi      = "10.1109/TSMC.1973.4309240"
 }
@@ -1709,7 +1703,7 @@
   address   = "New York, NY",
   keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub |
                Kindle;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;Frontiers [2022];EPubs Books;*Upgrade Report May 2023",
+               Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY 2023",
   isbn      = "9780807759066"
 }
 
@@ -1743,7 +1737,7 @@
   year      =  1997,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780444818621501035",
   address   = "Amsterdam",
-  keywords  = "Intelligent Tutoring Systems (ITS);*Upgrade Report May 2023",
+  keywords  = "Intelligent Tutoring Systems (ITS);2.0\_Upgrade MAY 2023",
   isbn      = "9780444818621",
   doi       = "10.1016/B978-044481862-1.50103-5"
 }
@@ -1782,8 +1776,8 @@
   month    =  jan,
   year     =  2014,
   url      = "https://doi.org/10.1007/s40593-013-0001-9",
-  keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;*Upgrade
-              Report May 2023;Journal Articles",
+  keywords = "Intelligent Tutoring Systems (ITS);Cited for
+              Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "1560-4306",
   doi      = "10.1007/s40593-013-0001-9"
 }
@@ -1818,8 +1812,8 @@
   month    =  dec,
   year     =  1994,
   url      = "https://doi.org/10.1007/BF01099821",
-  keywords = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;*Upgrade
-              Report May 2023;Journal Articles",
+  keywords = "Intelligent Tutoring Systems (ITS);Cited for
+              Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0924-1868, 1573-1391",
   doi      = "10.1007/BF01099821"
 }
@@ -1854,7 +1848,7 @@
                reality; Human computer interaction; Psychomotor learning;
                Kinaesthetic learning; Experiential learning;Intelligent
                Tutoring Systems (ITS);\_XR/MR;@\_Mark Up;Cited for
-               Frontiers;Frontiers [2022];*Upgrade Report May 2023;Journal
+               Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
                Articles",
   issn      = "0097-8493",
   doi       = "10.1016/j.cag.2018.09.017"
@@ -1876,7 +1870,7 @@
   year      =  2015,
   url       = "https://gifttutoring.org/attachments/download/1414/15050.pdf",
   keywords  = "Intelligent Tutoring Systems (ITS);\_XR/MR;@\_Mark Up;Cited for
-               Frontiers;Frontiers [2022];*Upgrade Report May 2023"
+               Frontiers;Frontiers [2022];2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Fuller2017-dj,
@@ -1889,7 +1883,7 @@
   year        =  2017,
   url         = "https://dera.ioe.ac.uk/30618/1/Better-Apprenticeships-1-1.pdf",
   keywords    = "Workplace Learning;Knowledge - Skill Acquisition;UCL;@\_Mark
-                 Up;+Notion;*Upgrade Report May 2023"
+                 Up;+Notion;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -1935,7 +1929,7 @@
   year      =  2014,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "Knowledge - Skill Acquisition;AEC;Workplace Learning;@\_Mark
-               Up;Cited for Frontiers;VET;*Upgrade Report May 2023;Journal
+               Up;Cited for Frontiers;VET;2.0\_Upgrade MAY 2023;Journal
                Articles;VET",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
@@ -1964,7 +1958,7 @@
   year      =  1996,
   url       = "https://doi.org/10.1080/0046760960250401",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;+Notion;Cited
-               for Frontiers;*Upgrade Report May 2023;Journal Articles",
+               for Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn      = "0046-760X",
   doi       = "10.1080/0046760960250401"
 }
@@ -1981,7 +1975,7 @@
   year      =  2016,
   url       = "http://dx.doi.org/10.2307/j.ctvbkjztw.4",
   keywords  = "Knowledge - Skill Acquisition;UCL;Workplace Learning;@\_Mark
-               Up;DONE;Cited for Frontiers;Frontiers [2022];*Upgrade Report May
+               Up;DONE;Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY
                2023",
   isbn      = "9783847404033, 9783847405887",
   doi       = "10.2307/j.ctvbkjztw.4"
@@ -1995,7 +1989,7 @@
   year        =  2021,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;*Upgrade Report May 2023"
+                 2023;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Unesco-unevoc2015-ie,
@@ -2009,7 +2003,7 @@
   url          = "https://unevoc.unesco.org/home/TVET",
   howpublished = "\url{https://unevoc.unesco.org/home/TVET}",
   note         = "Accessed: 2022-3-7",
-  keywords     = "Cited for Frontiers;VET;*Upgrade Report May 2023;VET",
+  keywords     = "Cited for Frontiers;VET;2.0\_Upgrade MAY 2023;VET",
   language     = "en"
 }
 
@@ -2040,7 +2034,7 @@
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
                Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;VET;Notion
-               Catalogued;*Upgrade Report May 2023;Journal Articles;VET",
+               Catalogued;2.0\_Upgrade MAY 2023;Journal Articles;VET",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
 }
@@ -2084,7 +2078,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0305440320300066",
   keywords = "Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
               pottery culture (LBK); Water well;AEC;Cited for
-              Frontiers;+Notion;*Upgrade Report May 2023;Journal Articles",
+              Frontiers;+Notion;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0305-4403",
   doi      = "10.1016/j.jas.2020.105082"
 }
@@ -2125,7 +2119,7 @@
   month    =  may,
   year     =  2016,
   url      = "https://doi.org/10.1007/s00107-015-0999-5",
-  keywords = "AEC;Cited for Frontiers;+Notion;*Upgrade Report May 2023;Journal
+  keywords = "AEC;Cited for Frontiers;+Notion;2.0\_Upgrade MAY 2023;Journal
               Articles",
   issn     = "1436-736X",
   doi      = "10.1007/s00107-015-0999-5"
@@ -2169,7 +2163,7 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S0959652620335320",
   keywords = "Buildings; Frame; Structures; Design; Carbon; Mass;AEC;Cited for
-              Frontiers;*Upgrade Report May 2023;Journal Articles",
+              Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "0959-6526",
   doi      = "10.1016/j.jclepro.2020.123487"
 }
@@ -2182,7 +2176,7 @@
   year        =  2020,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;*Upgrade Report May 2023"
+                 2023;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Coupland2019-ax,
@@ -2201,8 +2195,8 @@
   url          = "https://www.instituteforapprenticeships.org/quality/what-is-a-quality-apprenticeship/",
   howpublished = "\url{https://www.instituteforapprenticeships.org/quality/what-is-a-quality-apprenticeship/}",
   note         = "Accessed: 2022-5-12",
-  keywords     = "Workplace Learning;Knowledge - Skill Acquisition;*Upgrade
-                  Report May 2023",
+  keywords     = "Workplace Learning;Knowledge - Skill Acquisition;2.0\_Upgrade
+                  MAY 2023",
   language     = "en"
 }
 
@@ -2231,7 +2225,7 @@
   url       = "https://doi.org/10.1007/978-981-10-5490-7_12",
   address   = "Singapore",
   keywords  = "ePub | Kindle;\_XR/MR;@\_Mark Up;Cited for Frontiers;EPubs
-               Books;*Upgrade Report May 2023",
+               Books;2.0\_Upgrade MAY 2023",
   isbn      = "9789811054907",
   doi       = "10.1007/978-981-10-5490-7\_12"
 }
@@ -2251,7 +2245,7 @@
   pages     = "1--35",
   year      =  2019,
   url       = "https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf",
-  keywords  = "Intelligent Tutoring Systems (ITS);AIEd;UCL;*Upgrade Report May
+  keywords  = "Intelligent Tutoring Systems (ITS);AIEd;UCL;2.0\_Upgrade MAY
                2023",
   isbn      = "9781794293700"
 }
@@ -2273,7 +2267,7 @@
   year      =  2005,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02",
   keywords  = "+Notion;Knowledge - Skill Acquisition;Intelligent Tutoring
-               Systems (ITS);AIEd;@\_Mark Up;*Upgrade Report May 2023;Journal
+               Systems (ITS);AIEd;@\_Mark Up;2.0\_Upgrade MAY 2023;Journal
                Articles",
   issn      = "1560-4292, 1560-4306"
 }
@@ -2288,7 +2282,7 @@
   year      =  2018,
   address   = "New York, NY",
   keywords  = "Book (physical);ePub | Kindle;EPubs Books;Reviewed on
-               Theory;Theory and Methods;*Upgrade Report May 2023",
+               Theory;Theory and Methods;2.0\_Upgrade MAY 2023",
   isbn      = "9781138209886"
 }
 
@@ -2349,7 +2343,7 @@
   year        =  2016,
   url         = "http://dx.doi.org/10.1111/medu.12893",
   keywords    = "Knowledge - Skill Acquisition;Cited for Frontiers;Healthcare +
-                 CME;*Upgrade Report May 2023;Journal Articles",
+                 CME;2.0\_Upgrade MAY 2023;Journal Articles",
   language    = "en",
   issn        = "0308-0110, 1365-2923",
   pmid        = "26695471",
@@ -2365,7 +2359,7 @@
   pages    = "61--100",
   year     =  1999,
   keywords = "Knowledge - Skill Acquisition;@\_Mark Up;Cited for
-              Frontiers;*Upgrade Report May 2023;Journal Articles"
+              Frontiers;2.0\_Upgrade MAY 2023;Journal Articles"
 }
 
 @BOOK{Wigdor2011-kl,
@@ -2402,7 +2396,7 @@
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=ID0L0EI79-YC",
   keywords  = "ePub | Kindle;HCI;Cited for Frontiers;+Notion;EPubs
-               Books;*Upgrade Report May 2023",
+               Books;2.0\_Upgrade MAY 2023",
   language  = "en",
   isbn      = "9780123822321"
 }
@@ -2418,7 +2412,7 @@
   url          = "https://www.kmltf.org/math-for-the-trades/",
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: NA-NA-NA",
-  keywords     = "AEC;Cited for Frontiers;+Notion;Training;*Upgrade Report May
+  keywords     = "AEC;Cited for Frontiers;+Notion;Training;2.0\_Upgrade MAY
                   2023",
   language     = "en"
 }
@@ -2443,8 +2437,8 @@
   month     =  mar,
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=y0ooAwAAQBAJ",
-  keywords  = "Research Methods;ePub | Kindle;Theory and Methods;*Upgrade
-               Report May 2023;Grounded Theory;EPubs Books",
+  keywords  = "Research Methods;ePub | Kindle;Theory and Methods;2.0\_Upgrade
+               MAY 2023;Grounded Theory;EPubs Books",
   language  = "en",
   isbn      = "9781446293492"
 }
@@ -2513,7 +2507,7 @@
   year      =  1987,
   url       = "http://dx.doi.org/10.4324/9781315044408-14",
   keywords  = "Cited for Frontiers;Labor;Workplace Learning;Zotero Import (Feb
-               22);My Library;Frontiers [2022];*Upgrade Report May 2023;Journal
+               22);My Library;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
                Articles",
   doi       = "10.4324/9781315044408-14"
 }
@@ -2546,7 +2540,7 @@
   url       = "https://doi.org/10.1177/074171369804800205",
   keywords  = "Research Methods;Knowledge - Skill Acquisition;Frontiers import
                [Aug 11];Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;*Upgrade Report May 2023;Journal Articles",
+               Frontiers;2.0\_Upgrade MAY 2023;Journal Articles",
   issn      = "0741-7136",
   doi       = "10.1177/074171369804800205"
 }
@@ -2591,7 +2585,7 @@
   month     =  sep,
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=tUASEAAAQBAJ",
-  keywords  = "Book (physical);Artificial Intelligence (AI);*Upgrade Report May
+  keywords  = "Book (physical);Artificial Intelligence (AI);2.0\_Upgrade MAY
                2023",
   language  = "en",
   isbn      = "9780753559031"
@@ -2606,7 +2600,7 @@
   url       = "https://www.jstor.org/stable/j.ctvc77cz1",
   keywords  = "Cited for Frontiers;Book (physical);Audiobook;Economics;ePub |
                Kindle;Zotero Import (Feb 22);My Library;Frontiers
-               [2022];*Upgrade Report May 2023;EPubs Books",
+               [2022];2.0\_Upgrade MAY 2023;EPubs Books",
   isbn      = "9780691172798",
   doi       = "10.2307/j.ctvc77cz1"
 }
@@ -2644,7 +2638,7 @@
   url       = "https://www.degruyter.com/document/doi/10.1515/JSSI-2015-0264/html",
   keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
                support;Knowledge - Skill Acquisition;**CATALOGED;Notion
-               Catalogued;*Upgrade Report May 2023;Journal Articles",
+               Catalogued;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "1708-296X, 2512-6660",
   doi       = "10.1515/JSSI-2015-0264"
@@ -2685,7 +2679,7 @@
   url       = "https://doi.org/10.1145/3448139.3448183",
   address   = "New York, NY, USA",
   keywords  = "perceptual learning, MRF, automated feedback, object
-               detection;**CATALOGED;Notion Catalogued;*Upgrade Report May 2023",
+               detection;**CATALOGED;Notion Catalogued;2.0\_Upgrade MAY 2023",
   location  = "Irvine, CA, USA",
   isbn      = "9781450389358",
   doi       = "10.1145/3448139.3448183"
@@ -2731,8 +2725,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report May
-               2023;Journal Articles",
+               State University;Notion Catalogued;2.0\_Upgrade MAY 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.635978"
@@ -2751,7 +2745,7 @@
   url          = "https://www.un.org/en/global-issues/population",
   howpublished = "\url{https://www.un.org/en/global-issues/population}",
   note         = "Accessed: 2023-2-25",
-  keywords     = "Website;Data Stats Figures;*Upgrade Report May 2023"
+  keywords     = "Website;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
 @INCOLLECTION{Ahmed2016-sy,
@@ -2767,7 +2761,7 @@
   url       = "http://dx.doi.org/10.4324/9781315725529-2",
   keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
                Up;++ClickUp;Research Methodology in the Built Environment: A
-               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               Selection of Case Studies;Reviewed on Theory;2.0\_Upgrade MAY
                2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
@@ -2790,9 +2784,10 @@
               engaged in the planning and completion of their own research
               investigations''--",
   year     =  2019,
+  url      = "https://www.routledge.com/Practical-Research-Methods-in-Education-An-Early-Researchers-Critical/Lambert/p/book/9780815393566",
   keywords = "ePub | Kindle;Research Methods;Fieldwork Methodology;EPubs
-              Books;Reviewed on Theory;*Upgrade Report May 2023;Rapid
-              Qualitative Research",
+              Books;Reviewed on Theory;2.0\_Upgrade MAY 2023;Rapid Qualitative
+              Research",
   language = "en",
   isbn     = "9780815393566"
 }
@@ -2818,7 +2813,7 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
-               4.0;*Upgrade Report May 2023;EPubs Books",
+               4.0;2.0\_Upgrade MAY 2023;EPubs Books",
   language  = "en",
   isbn      = "9783658394073"
 }
@@ -2833,7 +2828,7 @@
   month    =  jun,
   year     =  2021,
   url      = "https://time.com/6046368/wood-steel-houses-fires/",
-  keywords = "Website;*Upgrade Report May 2023",
+  keywords = "Website;2.0\_Upgrade MAY 2023",
   language = "en",
   issn     = "0040-781X"
 }
@@ -2845,7 +2840,7 @@
   institution = "HM Government",
   month       =  jul,
   year        =  2013,
-  keywords    = "Report;*Upgrade Report May 2023;Government Report",
+  keywords    = "Report;2.0\_Upgrade MAY 2023;Government Report",
   isbn        = "9781409839224"
 }
 
@@ -2858,7 +2853,7 @@
   month     =  apr,
   year      =  2023,
   url       = "https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube",
-  keywords  = "Website;Pocket/Reader (RW);*Upgrade Report May 2023",
+  keywords  = "Website;Pocket/Reader (RW);2.0\_Upgrade MAY 2023",
   language  = "en",
   issn      = "0013-0613"
 }
@@ -2869,7 +2864,7 @@
   author   = "Yeni-Letsoko, Vuyiswa and Pillay, Nischolan",
   year     =  2019,
   keywords = "+Notion;+Readwise;AEC;Labor;Skill demand;Construction
-              4.0;*Upgrade Report May 2023"
+              4.0;2.0\_Upgrade MAY 2023"
 }
 
 @BOOK{Schwab2017-js,
@@ -2879,7 +2874,7 @@
   year      =  2017,
   keywords  = "Cited for Frontiers;ePub | Kindle;Zotero Import (Feb 22);My
                Library;2021-12-03 Frontiers;Frontiers [2022];EPubs
-               Books;*Upgrade Report May 2023"
+               Books;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Pothier2019-fn,
@@ -2888,7 +2883,7 @@
   institution = "Autodesk",
   month       =  jun,
   year        =  2019,
-  keywords    = "AEC;Report;Autodesk;*Upgrade Report May 2023"
+  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Pothier2020-kd,
@@ -2897,7 +2892,7 @@
   institution = "Autodesk",
   month       =  jun,
   year        =  2020,
-  keywords    = "AEC;Report;Autodesk;*Upgrade Report May 2023"
+  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Schankula2019-ju,
@@ -2908,7 +2903,7 @@
   month     =  apr,
   year      =  2019,
   address   = "New York, NY",
-  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022];*Upgrade Report May
+  keywords  = "YouTube;Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY
                2023"
 }
 
@@ -2924,7 +2919,7 @@
   institution = "World Economic Forum",
   month       =  may,
   year        =  2016,
-  keywords    = "+Notion;+Readwise;AEC;§New Literature;*Upgrade Report May 2023"
+  keywords    = "+Notion;+Readwise;AEC;§New Literature;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Belkin2023-ak,
@@ -2939,8 +2934,7 @@
   url          = "https://www.wsj.com/articles/americans-are-losing-faith-in-college-education-wsj-norc-poll-finds-3a836ce1",
   howpublished = "\url{https://www.wsj.com/articles/americans-are-losing-faith-in-college-education-wsj-norc-poll-finds-3a836ce1}",
   note         = "Accessed: 2023-5-1",
-  keywords     = "Statistics;Website;Pocket/Reader (RW);*Upgrade Report May
-                  2023"
+  keywords     = "Statistics;Website;Pocket/Reader (RW);2.0\_Upgrade MAY 2023"
 }
 
 @BOOK{Mayer2021-in,
@@ -2976,7 +2970,7 @@
   year      =  2021,
   url       = "https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/C1C0B00FE70DC11AFDC1F9E1782B5B77",
   keywords  = "**CATALOGED;3rd Edition [2021] \_ Multimedia Learning;Title
-               Pages + TOC;Notion Catalogued;*Upgrade Report May 2023",
+               Pages + TOC;Notion Catalogued;2.0\_Upgrade MAY 2023",
   isbn      = "9781108894333, 9781108841580",
   doi       = "10.1017/9781108894333"
 }
@@ -3033,7 +3027,7 @@
   school   = "Louisiana State University",
   keywords = "AEC;Workplace Learning;Thesis;Read;**CATALOGED;@\_Mark
               Up;++ClickUp;LSU - Louisiana State University;Notion
-              Catalogued;*Upgrade Report May 2023;00\_TO READ",
+              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ",
   doi      = "10.31390/gradschool\_dissertations.5487"
 }
 
@@ -3073,8 +3067,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
-               State University;Notion Catalogued;*Upgrade Report May
-               2023;Journal Articles",
+               State University;Notion Catalogued;2.0\_Upgrade MAY 2023;Journal
+               Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
@@ -3110,8 +3104,9 @@
   year     =  2021,
   url      = "https://digitalcommons.calpoly.edu/cmsp/456/",
   school   = "California Polytechnic State University, San Luis Obispo",
-  keywords = "AEC;Labor;+Notion;+Readwise;§New Literature;++ClickUp;*Upgrade
-              Report May 2023;Construction 4.0;00\_TO READ"
+  keywords = "AEC;Labor;+Notion;+Readwise;§New
+              Literature;++ClickUp;2.0\_Upgrade MAY 2023;Construction
+              4.0;00\_TO READ"
 }
 
 @ARTICLE{Goulding2012-op,
@@ -3175,7 +3170,7 @@
   url       = "http://dx.doi.org/10.1016/j.aei.2011.09.004",
   keywords  = "\_XR/MR;AEC;Knowledge - Skill Acquisition;Workplace
                Learning;@\_Mark Up;**CATALOGED;LSU Supporting Works;Notion
-               Catalogued;*Upgrade Report May 2023;Journal Articles",
+               Catalogued;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "1474-0346, 1873-5320",
   doi       = "10.1016/j.aei.2011.09.004"
@@ -3194,7 +3189,7 @@
   year      =  2016,
   keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
                Up;++ClickUp;Research Methodology in the Built Environment: A
-               Selection of Case Studies;Reviewed on Theory;*Upgrade Report May
+               Selection of Case Studies;Reviewed on Theory;2.0\_Upgrade MAY
                2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-3"
@@ -3245,7 +3240,7 @@
                efficient buildings; level's; construction industry; building
                renovation passport; digital building
                logbooks;AEC;Labor;+Notion;+Readwise;Essential;++ClickUp;Economics;Marco
-               Casini Construction 4.0;*Upgrade Report May 2023;00\_TO READ",
+               Casini Construction 4.0;2.0\_Upgrade MAY 2023;00\_TO READ",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
 }
@@ -3276,7 +3271,7 @@
   url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
   address   = "Wiesbaden",
   keywords  = "+Notion;+Readwise;AEC;Robots;Technological change;§New
-               Literature;ePub | Kindle;*Upgrade Report May 2023;Construction
+               Literature;ePub | Kindle;2.0\_Upgrade MAY 2023;Construction
                4.0;EPubs Books",
   isbn      = "9783658394073",
   doi       = "10.1007/978-3-658-39407-3\_13"
@@ -3298,8 +3293,8 @@
   url          = "https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc",
   howpublished = "\url{https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc}",
   note         = "Accessed: 2023-4-23",
-  keywords     = "Website;Pocket/Reader (RW);+Notion;@\_Mark Up;*Upgrade Report
-                  May 2023",
+  keywords     = "Website;Pocket/Reader (RW);+Notion;@\_Mark Up;2.0\_Upgrade
+                  MAY 2023",
   language     = "en"
 }
 
@@ -3323,8 +3318,8 @@
   url       = "http://dx.doi.org/10.4324/9781315725529",
   keywords  = "§New Literature;AEC;Research Methods;UCL;ePub |
                Kindle;++ClickUp;Research Methodology in the Built Environment:
-               A Selection of Case Studies;Reviewed on Theory;*Upgrade Report
-               May 2023;EPubs Books",
+               A Selection of Case Studies;Reviewed on Theory;2.0\_Upgrade MAY
+               2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
@@ -3340,7 +3335,7 @@
   url          = "https://www.dol.gov/general/workcenter",
   howpublished = "\url{https://www.dol.gov/general/workcenter}",
   note         = "Accessed: 2023-5-11",
-  keywords     = "Labor;Website;*Upgrade Report May 2023;Government Report",
+  keywords     = "Labor;Website;2.0\_Upgrade MAY 2023;Government Report",
   language     = "en"
 }
 
@@ -3373,7 +3368,7 @@
   year        =  2008,
   url         = "https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)",
   keywords    = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;Notion
-                 Catalogued;*Upgrade Report May 2023;Journal Articles",
+                 Catalogued;2.0\_Upgrade MAY 2023;Journal Articles",
   language    = "en",
   issn        = "0733-9364, 1943-7862",
   doi         = "10.1061/(asce)0733-9364(2008)134:10(795)"
@@ -3389,7 +3384,7 @@
   month    =  apr,
   year     =  2018,
   url      = "https://www.bloomberg.com/news/articles/2018-04-11/the-housing-crisis-extends-far-beyond-superstar-cities",
-  keywords = "**CATALOGED;Notion Catalogued;*Upgrade Report May 2023",
+  keywords = "**CATALOGED;Notion Catalogued;2.0\_Upgrade MAY 2023",
   language = "en"
 }
 
@@ -3423,7 +3418,7 @@
   year      =  2016,
   url       = "http://dx.doi.org/10.1007/s40593-015-0055-y",
   keywords  = "AIEd;@\_Mark Up;Intelligent Tutoring Systems (ITS);Knowledge -
-               Skill Acquisition;Cited for Frontiers;*Upgrade Report May
+               Skill Acquisition;Cited for Frontiers;2.0\_Upgrade MAY
                2023;Journal Articles",
   language  = "en",
   issn      = "1560-4292, 1560-4306",
@@ -3453,8 +3448,8 @@
   year      =  2020,
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;Autodesk;Construction 4.0;Notion
-               Catalogued;*Upgrade Report May 2023;Construction 4.0: An
-               Innovation Platform for the Built Environment",
+               Catalogued;2.0\_Upgrade MAY 2023;Construction 4.0: An Innovation
+               Platform for the Built Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100"
 }
@@ -3478,8 +3473,8 @@
   year      =  2020,
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "AEC;Cross Ref Chapter;++ClickUp;+Notion;+Readwise;@\_Mark
-               Up;\_XR/MR;*Upgrade Report May 2023;Construction 4.0: An
-               Innovation Platform for the Built Environment",
+               Up;\_XR/MR;2.0\_Upgrade MAY 2023;Construction 4.0: An Innovation
+               Platform for the Built Environment",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100"
 }
@@ -3490,7 +3485,7 @@
   journal  = "Bloomberg",
   year     =  2017,
   url      = "https://www.bloomberg.com/graphics/2017-job-risk/",
-  keywords = "Automation;Website;*Upgrade Report May 2023;Journal Articles"
+  keywords = "Automation;Website;2.0\_Upgrade MAY 2023;Journal Articles"
 }
 
 @ARTICLE{BBC_News2015-wl,
@@ -3502,7 +3497,7 @@
   month    =  sep,
   year     =  2015,
   url      = "https://www.bbc.co.uk/news/technology-34066941",
-  keywords = "Automation;Website;*Upgrade Report May 2023",
+  keywords = "Automation;Website;2.0\_Upgrade MAY 2023",
   language = "en"
 }
 
@@ -3514,7 +3509,7 @@
   url          = "https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/",
   howpublished = "\url{https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/}",
   note         = "Accessed: 2023-NA-NA",
-  keywords     = "Research Methods;Website;*Upgrade Report May 2023;Theory and
+  keywords     = "Research Methods;Website;2.0\_Upgrade MAY 2023;Theory and
                   Methods",
   language     = "en"
 }
@@ -3531,8 +3526,8 @@
   url          = "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25",
   howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25}",
   note         = "Accessed: 2021-5-18",
-  keywords     = "Automation;Website;Statistics;Data Stats Figures;*Upgrade
-                  Report May 2023",
+  keywords     = "Automation;Website;Statistics;Data Stats Figures;2.0\_Upgrade
+                  MAY 2023",
   language     = "en"
 }
 
@@ -3560,7 +3555,7 @@
   year      =  2022,
   url       = "https://link.springer.com/book/10.1007/978-3-030-85973-2",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023;00\_TO
+               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;00\_TO
                READ;EPubs Books",
   language  = "en",
   isbn      = "9783030859732"
@@ -3601,7 +3596,7 @@
   year      =  2019,
   url       = "http://dx.doi.org/10.14455/isec.res.2019.184",
   keywords  = "AEC;@\_Mark Up;+Readwise;**CATALOGED;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023;Journal
+               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;Journal
                Articles",
   language  = "en",
   issn      = "2644-108X",
@@ -3624,7 +3619,7 @@
   month    =  aug,
   year     =  2019,
   url      = "https://www.ijsr.net/get_abstract.php?paper_id=ART2020213",
-  keywords = "§New Literature;AEC;Construction 4.0;*Upgrade Report May
+  keywords = "§New Literature;AEC;Construction 4.0;2.0\_Upgrade MAY
               2023;Journal Articles",
   language = "en",
   issn     = "2319-7064"
@@ -3674,7 +3669,7 @@
   month     =  jan,
   year      =  2021,
   url       = "http://dx.doi.org/10.3390/buildings11010017",
-  keywords  = "§New Literature;AEC;Construction 4.0;*Upgrade Report May
+  keywords  = "§New Literature;AEC;Construction 4.0;2.0\_Upgrade MAY
                2023;Journal Articles",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   language  = "en",
@@ -3718,7 +3713,7 @@
   month     =  aug,
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
-  keywords  = "§New Literature;AEC;VET;Construction 4.0;*Upgrade Report May
+  keywords  = "§New Literature;AEC;VET;Construction 4.0;2.0\_Upgrade MAY
                2023;Grounded Theory;Journal Articles;VET",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
@@ -3757,7 +3752,7 @@
   year       =  2020,
   url        = "http://dx.doi.org/10.29007/4nk3",
   keywords   = "AEC;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
-                Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023",
+                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023",
   conference = "Associated Schools of Construction Proceedings of the 56th
                 Annual International Conference",
   doi        = "10.29007/4nk3"
@@ -3796,7 +3791,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;++ClickUp;Construction 4.0;Notion
-              Catalogued;*Upgrade Report May 2023;00\_TO READ;Journal Articles",
+              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -3845,7 +3840,7 @@
   year      =  2018,
   url       = "https://doi.org/10.1080/17452007.2017.1314858",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report May 2023;00\_TO READ;Journal Articles",
+               4.0;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles",
   issn      = "1745-2007",
   doi       = "10.1080/17452007.2017.1314858"
 }
@@ -3897,7 +3892,7 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1108/14714171211197481",
   keywords  = "+Notion;+Readwise;§New Literature;AEC;Construction 4.0;XR
-               Reviewed;*Upgrade Report May 2023;Journal Articles",
+               Reviewed;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "1471-4175, 1477-0857",
   doi       = "10.1108/14714171211197481"
@@ -3915,8 +3910,8 @@
   year      =  2019,
   url       = "http://dx.doi.org/10.1201/9781315147321-11",
   address   = "Abingdon, Oxon ; New York, NY : Routledge, 2019.",
-  keywords  = "§New Literature;+Notion;+Readwise;AEC;Construction 4.0;*Upgrade
-               Report May 2023",
+  keywords  = "§New Literature;+Notion;+Readwise;AEC;Construction
+               4.0;2.0\_Upgrade MAY 2023",
   isbn      = "9781315147321",
   doi       = "10.1201/9781315147321-11"
 }
@@ -3942,7 +3937,7 @@
   year      =  2019,
   url       = "https://www.ivvd.nl/wp-content/uploads/2019/12/Modular-construction-from-projects-to-products-full-report-NEW.pdf",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
-               Catalogued;UCL Poster Q1 2023;*Upgrade Report May 2023;00\_TO
+               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;00\_TO
                READ;Journal Articles"
 }
 
@@ -3987,7 +3982,7 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;+Notion;+Readwise;AEC;§New
-              Literature;Economics;Construction 4.0;*Upgrade Report May
+              Literature;Economics;Construction 4.0;2.0\_Upgrade MAY
               2023;Journal Articles",
   issn     = "2212-5671",
   doi      = "10.1016/S2212-5671(15)00171-9"
@@ -4006,7 +4001,7 @@
   howpublished = "\url{https://www.wbdg.org/resources/site-and-modular-construction-explained}",
   note         = "Accessed: 2023-2-8",
   keywords     = "**CATALOGED;AEC;Pocket/Reader (RW);Construction 4.0;Notion
-                  Catalogued;*Upgrade Report May 2023",
+                  Catalogued;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4046,8 +4041,8 @@
   month     =  mar,
   year      =  2021,
   url       = "https://www.mdpi.com/2071-1050/13/5/2683",
-  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0;*Upgrade
-               Report May 2023;Journal Articles",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction
+               4.0;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "1548-7733",
   doi       = "10.3390/su13052683"
@@ -4094,7 +4089,7 @@
   year      =  2013,
   url       = "https://doi.org/10.1080/01446193.2013.828846",
   keywords  = "+Notion;+Readwise;AEC;§New Literature;++ClickUp;Construction
-               4.0;*Upgrade Report May 2023;00\_TO READ;Journal Articles",
+               4.0;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/01446193.2013.828846"
 }
@@ -4131,8 +4126,8 @@
   month     =  dec,
   year      =  2010,
   url       = "https://play.google.com/store/books/details?id=l7X3AgAAQBAJ",
-  keywords  = "ePub | Kindle;Research Methods;Theory and Methods;*Upgrade
-               Report May 2023;EPubs Books",
+  keywords  = "ePub | Kindle;Research Methods;Theory and Methods;2.0\_Upgrade
+               MAY 2023;EPubs Books",
   language  = "en",
   isbn      = "9781473903432"
 }
@@ -4168,7 +4163,7 @@
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=qeq_CwAAQBAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
-               4.0;*Upgrade Report May 2023;EPubs Books",
+               4.0;2.0\_Upgrade MAY 2023;EPubs Books",
   language  = "en",
   isbn      = "9781317044802"
 }
@@ -4198,7 +4193,7 @@
   month     =  mar,
   year      =  1998,
   url       = "https://play.google.com/store/books/details?id=vxu2AAAAIAAJ",
-  keywords  = "Research Methods;*Upgrade Report May 2023;Grounded Theory",
+  keywords  = "Research Methods;2.0\_Upgrade MAY 2023;Grounded Theory",
   language  = "en",
   isbn      = "9780761914358"
 }
@@ -4218,7 +4213,7 @@
   howpublished = "\url{https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4}",
   note         = "Accessed: 2023-2-18",
   keywords     = "@\_Mark Up;Pocket/Reader (RW);++ClickUp;Construction
-                  4.0;*Upgrade Report May 2023",
+                  4.0;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4233,7 +4228,7 @@
   year      =  2019,
   url       = "https://www.youtube.com/watch?v=6-mxc9KBgbo",
   address   = "United Kingdom",
-  keywords  = "YouTube;*Upgrade Report May 2023"
+  keywords  = "YouTube;2.0\_Upgrade MAY 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -4266,7 +4261,7 @@
   keywords = "Cement and concrete; Historic development; Mechanical response;
               Structural failures; Failure case
               studies;AEC;+Notion;+Readwise;§New Literature;Construction
-              4.0;*Upgrade Report May 2023;Journal Articles",
+              4.0;2.0\_Upgrade MAY 2023;Journal Articles",
   issn     = "1350-6307",
   doi      = "10.1016/j.engfailanal.2014.02.004"
 }
@@ -4295,8 +4290,8 @@
   month     =  apr,
   year      =  2022,
   url       = "https://www.intechopen.com/chapters/78070",
-  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction 4.0;*Upgrade
-               Report May 2023",
+  keywords  = "+Notion;+Readwise;AEC;§New Literature;Construction
+               4.0;2.0\_Upgrade MAY 2023",
   doi       = "10.5772/intechopen.99193"
 }
 
@@ -4349,7 +4344,7 @@
   year      =  2019,
   url       = "https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta",
   keywords  = "+Notion;+Readwise;AEC;Research Methods;§New
-               Literature;Construction 4.0;Human Capital;*Upgrade Report May
+               Literature;Construction 4.0;Human Capital;2.0\_Upgrade MAY
                2023;Journal Articles",
   language  = "en",
   issn      = "1742-6588, 1742-6596",
@@ -4373,7 +4368,7 @@
   year      =  2021,
   url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
   keywords  = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-               4.0;*Upgrade Report May 2023;00\_TO READ;Journal Articles",
+               4.0;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles",
   language  = "en",
   issn      = "1134-3060, 1886-1784",
   doi       = "10.1007/s11831-020-09457-7"
@@ -4391,7 +4386,7 @@
   institution = "Roland Berger GmbH",
   year        =  2016,
   keywords    = "+Notion;+Readwise;AEC;Essential;§New
-                 Literature;++ClickUp;Construction 4.0;*Upgrade Report May
+                 Literature;++ClickUp;Construction 4.0;2.0\_Upgrade MAY
                  2023;00\_TO READ"
 }
 
@@ -4402,7 +4397,7 @@
   url      = "https://ourworldindata.org/technology-adoption",
   note     = "Title of the publication associated with this dataset: Global
               Change Data Lab",
-  keywords = "Website;Data Stats Figures;*Upgrade Report May 2023"
+  keywords = "Website;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
 @TECHREPORT{Dreischmeier2015-di,
@@ -4418,7 +4413,7 @@
   month       =  mar,
   year        =  2015,
   url         = "https://www.bcg.com/publications/2015/digital-imperative",
-  keywords    = "Statistics;Data Stats Figures;*Upgrade Report May 2023"
+  keywords    = "Statistics;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Hu2023-cx,
@@ -4434,8 +4429,8 @@
   month     =  feb,
   year      =  2023,
   url       = "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
-  keywords  = "Website;Pocket/Reader (RW);Data Stats Figures;*Upgrade Report
-               May 2023",
+  keywords  = "Website;Pocket/Reader (RW);Data Stats Figures;2.0\_Upgrade MAY
+               2023",
   language  = "en"
 }
 
@@ -4451,7 +4446,7 @@
   url          = "https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange",
   howpublished = "\url{https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange}",
   note         = "Accessed: 2023-2-22",
-  keywords     = "Website;*Upgrade Report May 2023",
+  keywords     = "Website;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4468,7 +4463,7 @@
   month     =  apr,
   year      =  1991,
   url       = "https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html",
-  keywords  = "Pocket/Reader (RW);Website;*Upgrade Report May 2023",
+  keywords  = "Pocket/Reader (RW);Website;2.0\_Upgrade MAY 2023",
   issn      = "0458-3035, 2165-1736"
 }
 
@@ -4495,7 +4490,7 @@
   month     =  sep,
   year      =  2007,
   url       = "https://play.google.com/store/books/details?id=vKMgmQEACAAJ",
-  keywords  = "*Upgrade Report May 2023",
+  keywords  = "2.0\_Upgrade MAY 2023",
   language  = "en",
   isbn      = "9780521859783"
 }
@@ -4512,7 +4507,7 @@
   url          = "https://unity.com/solutions/digital-twin-definition",
   howpublished = "\url{https://unity.com/solutions/digital-twin-definition}",
   note         = "Accessed: 2022-6-23",
-  keywords     = "Game Engine;Website;*Upgrade Report May 2023",
+  keywords     = "Game Engine;Website;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4526,7 +4521,7 @@
   year      =  1951,
   url       = "https://play.google.com/store/books/details?id=4lb-vQEACAAJ",
   address   = "Cambridge, MA",
-  keywords  = "AEC;*Upgrade Report May 2023;Construction 4.0",
+  keywords  = "AEC;2.0\_Upgrade MAY 2023;Construction 4.0",
   language  = "en",
   isbn      = "9780262110013"
 }
@@ -4542,7 +4537,7 @@
   url          = "https://www.huduser.gov/portal/Operation-Breakthrough.html",
   howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
   note         = "Accessed: 2023-2-22",
-  keywords     = "AEC;Website;Report;Construction 4.0;*Upgrade Report May
+  keywords     = "AEC;Website;Report;Construction 4.0;2.0\_Upgrade MAY
                   2023;Government Report",
   language     = "en"
 }
@@ -4563,7 +4558,7 @@
   month    =  feb,
   year     =  2023,
   url      = "https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/",
-  keywords = "Website;*Upgrade Report May 2023",
+  keywords = "Website;2.0\_Upgrade MAY 2023",
   language = "en"
 }
 
@@ -4578,7 +4573,7 @@
   url          = "https://commonslibrary.parliament.uk/research-briefings/cbp-9428/",
   howpublished = "\url{https://commonslibrary.parliament.uk/research-briefings/cbp-9428/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Data Stats Figures;*Upgrade Report May 2023"
+  keywords     = "Website;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Bureau_of_Labor_Statistics_US_Department_of_Labor2022-rh,
@@ -4595,7 +4590,7 @@
   note     = "Title of the publication associated with this dataset: The
               Economics Daily, Consumer prices up 9.1 percent over the year
               ended June 2022, largest increase in 40 years",
-  keywords = "Website;Statistics;Report;Data Stats Figures;*Upgrade Report May
+  keywords = "Website;Statistics;Report;Data Stats Figures;2.0\_Upgrade MAY
               2023;Government Report",
   language = "en"
 }
@@ -4611,7 +4606,7 @@
   url          = "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023",
   howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Statistics;*Upgrade Report May 2023",
+  keywords     = "Statistics;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4628,7 +4623,7 @@
   month    =  jul,
   year     =  2021,
   url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
-  keywords = "AEC;*Upgrade Report May 2023",
+  keywords = "AEC;2.0\_Upgrade MAY 2023",
   language = "en"
 }
 
@@ -4644,7 +4639,7 @@
   url          = "https://ww3.rics.org/uk/en/journals/construction-journal/the-role-of-smes-in-the-uk-construction-industry.html",
   howpublished = "\url{https://ww3.rics.org/uk/en/journals/construction-journal/the-role-of-smes-in-the-uk-construction-industry.html}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Construction 4.0;*Upgrade Report May 2023",
+  keywords     = "Website;Construction 4.0;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4667,7 +4662,7 @@
   url          = "https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/",
   howpublished = "\url{https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Economics;*Upgrade Report May 2023",
+  keywords     = "Website;Economics;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4690,7 +4685,7 @@
   pages     = "21--32",
   year      =  1961,
   address   = "US",
-  keywords  = "Knowledge - Skill Acquisition;*Upgrade Report May 2023;Journal
+  keywords  = "Knowledge - Skill Acquisition;2.0\_Upgrade MAY 2023;Journal
                Articles",
   issn      = "0017-8055, 1943-5045"
 }
@@ -4713,8 +4708,8 @@
   url          = "https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/",
   howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "+Readwise;AEC;Construction 4.0;UCL Poster Q1 2023;*Upgrade
-                  Report May 2023",
+  keywords     = "+Readwise;AEC;Construction 4.0;UCL Poster Q1
+                  2023;2.0\_Upgrade MAY 2023",
   language     = "en, fr"
 }
 
@@ -4730,7 +4725,7 @@
   url          = "https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/",
   howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "+Readwise;AEC;Construction 4.0;*Upgrade Report May 2023",
+  keywords     = "+Readwise;AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
   language     = "en"
 }
 
@@ -4745,7 +4740,7 @@
   year     =  2021,
   url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
   keywords = "Climate change; Materials science; Policy; Society;
-              Technology;+Readwise;AEC;Construction 4.0;*Upgrade Report May
+              Technology;+Readwise;AEC;Construction 4.0;2.0\_Upgrade MAY
               2023;Journal Articles",
   language = "en",
   issn     = "0028-0836, 1476-4687",
@@ -4778,7 +4773,7 @@
   year     =  2005,
   url      = "https://psycnet.apa.org/fulltext/2005-07735-020.pdf",
   keywords = "Research Methods;+Notion;+Readwise;§New Literature;Theory and
-              Methods;*Upgrade Report May 2023;Grounded Theory;Journal Articles"
+              Methods;2.0\_Upgrade MAY 2023;Grounded Theory;Journal Articles"
 }
 
 @INCOLLECTION{Charmaz2001-wf,
@@ -4791,7 +4786,7 @@
   url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
   address   = "1 Oliver's Yard, 55 City Road, London England EC1Y 1SP United
                Kingdom",
-  keywords  = "Research Methods;Theory and Methods;*Upgrade Report May
+  keywords  = "Research Methods;Theory and Methods;2.0\_Upgrade MAY
                2023;Grounded Theory",
   isbn      = "9780761958246, 9781848608337",
   doi       = "10.4135/9781848608337.n11"
@@ -4832,7 +4827,7 @@
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "ePub | Kindle;Research
                Methods;+Notion;+Readwise;Important;Read;Book (physical);Theory
-               and Methods;*Upgrade Report May 2023;00\_TO READ;EPubs Books",
+               and Methods;2.0\_Upgrade MAY 2023;00\_TO READ;EPubs Books",
   language  = "en",
   isbn      = "9781526449900"
 }
@@ -4857,8 +4852,8 @@
   year      =  2013,
   url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.66?casa_token=QqzThQAf-m0AAAAA:7lnn_JmwGhibdNumwIFaqb2NPKYEgkAF_bZ-vXLAbWj9nhi1hTP_ynNXLHIJRh_fYf4_nSR__f2J",
   keywords  = "Research Methods;Important;Fieldwork Methodology;Theory and
-               Methods;*Upgrade Report May 2023;00\_TO READ;Journal
-               Articles;Rapid Qualitative Research",
+               Methods;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles;Rapid
+               Qualitative Research",
   language  = "en",
   issn      = "0195-6086, 1533-8665",
   doi       = "10.1002/symb.66"
@@ -4891,8 +4886,8 @@
   year      =  2005,
   url       = "http://www.qualitative-research.net/index.php/fqs/article/view/20",
   keywords  = "qualitative research; research methods; ethnography;Research
-               Methods;Fieldwork Methodology;Theory and Methods;*Upgrade Report
-               May 2023;Journal Articles;Rapid Qualitative Research",
+               Methods;Fieldwork Methodology;Theory and Methods;2.0\_Upgrade
+               MAY 2023;Journal Articles;Rapid Qualitative Research",
   language  = "en",
   issn      = "1438-5627, 1438-5627",
   doi       = "10.17169/fqs-6.3.20"
@@ -4930,7 +4925,7 @@
   address   = "New York, NY, USA",
   keywords  = "user studies, field research methods, qualitative methods,
                ethnography;Research Methods;Fieldwork Methodology;Theory and
-               Methods;*Upgrade Report May 2023;Rapid Qualitative Research",
+               Methods;2.0\_Upgrade MAY 2023;Rapid Qualitative Research",
   location  = "New York City, New York, USA",
   isbn      = "9781581132199",
   doi       = "10.1145/347642.347763"
@@ -4949,8 +4944,8 @@
   year      =  2016,
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
   keywords  = "@\_Mark Up;AEC;ePub | Kindle;++ClickUp;Research Methodology in
-               the Built Environment: A Selection of Case Studies;*Upgrade
-               Report May 2023;Grounded Theory;EPubs Books",
+               the Built Environment: A Selection of Case Studies;2.0\_Upgrade
+               MAY 2023;Grounded Theory;EPubs Books",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
@@ -4997,7 +4992,7 @@
   year      =  2000,
   url       = "https://doi.org/10.1080/014461900370861",
   keywords  = "Research Methods;VET;Research Methodology in the Built
-               Environment: A Selection of Case Studies;*Upgrade Report May
+               Environment: A Selection of Case Studies;2.0\_Upgrade MAY
                2023;Grounded Theory;Journal Articles;VET",
   issn      = "0144-6193",
   doi       = "10.1080/014461900370861"
@@ -5031,7 +5026,7 @@
   year      =  1999,
   url       = "https://doi.org/10.1080/014461999371781",
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report May 2023;Grounded
+               A Selection of Case Studies;2.0\_Upgrade MAY 2023;Grounded
                Theory;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/014461999371781"
@@ -5076,7 +5071,7 @@
   year      =  2009,
   url       = "https://doi.org/10.1080/01446190903273943",
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report May 2023;Grounded
+               A Selection of Case Studies;2.0\_Upgrade MAY 2023;Grounded
                Theory;Journal Articles",
   issn      = "0144-6193",
   doi       = "10.1080/01446190903273943"
@@ -5091,7 +5086,7 @@
   edition   = "Second Edition",
   year      =  2000,
   keywords  = "Research Methods;Research Methodology in the Built Environment:
-               A Selection of Case Studies;*Upgrade Report May 2023",
+               A Selection of Case Studies;2.0\_Upgrade MAY 2023",
   language  = "en",
   isbn      = "9780761915126"
 }
@@ -5108,7 +5103,7 @@
   year      =  2022,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780128217979000106",
   keywords  = "+Notion;+Readwise;AEC;Essential;Labor;++ClickUp;Marco Casini
-               Construction 4.0;*Upgrade Report May 2023;00\_TO READ",
+               Construction 4.0;2.0\_Upgrade MAY 2023;00\_TO READ",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00010-6"
 }
@@ -5121,7 +5116,7 @@
   year        =  2018,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;*Upgrade Report May 2023"
+                 2023;2.0\_Upgrade MAY 2023"
 }
 
 @MISC{Bureau_of_Labor_Statistics_US_Department_of_Labor_undated-yd,
@@ -5135,8 +5130,8 @@
   url          = "https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth",
   howpublished = "\url{https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Statistics;Labor;Data Stats Figures;*Upgrade Report
-                  May 2023;Government Report",
+  keywords     = "Website;Statistics;Labor;Data Stats Figures;2.0\_Upgrade MAY
+                  2023;Government Report",
   language     = "en"
 }
 
@@ -5153,7 +5148,7 @@
   url          = "https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/",
   howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Website;Statistics;AEC;*Upgrade Report May 2023;Data Stats
+  keywords     = "Website;Statistics;AEC;2.0\_Upgrade MAY 2023;Data Stats
                   Figures",
   language     = "en"
 }
@@ -5208,7 +5203,7 @@
   url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
   keywords  = "+Readwise;AEC;Essential;**CATALOGED;++ClickUp;Cross Ref
                Chapter;Construction 4.0;Marco Casini Construction 4.0;Notion
-               Catalogued;*Upgrade Report May 2023;00\_TO READ",
+               Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ",
   language  = "en",
   isbn      = "9780128217979",
   doi       = "10.1016/c2019-0-04325-7"
@@ -5231,7 +5226,7 @@
   url         = "http://dx.doi.org/10.1145/3056540.3076192",
   address     = "New York, NY, USA",
   keywords    = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;UCL
-                 Poster Q1 2023;*Upgrade Report May 2023;Notion Catalogued",
+                 Poster Q1 2023;2.0\_Upgrade MAY 2023;Notion Catalogued",
   copyright   = "http://www.acm.org/publications/policies/copyright\_policy\#Background",
   conference  = "PETRA '17: 10th International Conference on PErvasive
                  Technologies Related to Assistive Environments",
@@ -5253,7 +5248,7 @@
   month       =  jun,
   year        =  2020,
   keywords    = "+Notion;+Readwise;AEC;§New Literature;Construction
-                 4.0;*Upgrade Report May 2023"
+                 4.0;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{VanLehn2006-op,
@@ -5273,7 +5268,7 @@
   year      =  2006,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02",
   keywords  = "Intelligent Tutoring Systems (ITS);Cited for Frontiers;Frontiers
-               [2022];*Upgrade Report May 2023;Journal Articles",
+               [2022];2.0\_Upgrade MAY 2023;Journal Articles",
   issn      = "1560-4292, 1560-4306"
 }
 
@@ -5289,7 +5284,7 @@
   month     =  feb,
   year      =  2023,
   url       = "https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e",
-  keywords  = "Website;*Upgrade Report May 2023"
+  keywords  = "Website;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Joffroy2016-cy,
@@ -5315,7 +5310,7 @@
   month     =  apr,
   year      =  2016,
   url       = "https://www.un-ilibrary.org/content/journals/15643913/53/3/7",
-  keywords  = "AEC;*Upgrade Report May 2023;Journal Articles",
+  keywords  = "AEC;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "0251-7329, 1564-3913",
   doi       = "10.18356/3700d3d7-en"
@@ -5348,7 +5343,7 @@
   year      =  2001,
   url       = "https://www.sciencedirect.com/science/article/pii/B0080430767022877",
   address   = "Oxford",
-  keywords  = "Labor;Workplace Learning;*Upgrade Report May 2023",
+  keywords  = "Labor;Workplace Learning;2.0\_Upgrade MAY 2023",
   isbn      = "9780080430768",
   doi       = "10.1016/B0-08-043076-7/02287-7"
 }
@@ -5393,7 +5388,7 @@
                Secretariats; Knights of Labor; National Labor Relations Board;
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;Labor;Workplace
-               Learning;*Upgrade Report May 2023",
+               Learning;2.0\_Upgrade MAY 2023",
   isbn      = "9780080449104",
   doi       = "10.1016/B978-008044910-4.00198-X"
 }
@@ -5422,7 +5417,7 @@
   month       =  mar,
   year        =  2019,
   keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-                 4.0;*Upgrade Report May 2023;00\_TO READ"
+                 4.0;2.0\_Upgrade MAY 2023;00\_TO READ"
 }
 
 @TECHREPORT{Jagannathan2021-fg,
@@ -5444,7 +5439,7 @@
   year      =  2021,
   url       = "http://dx.doi.org/10.22617/spr200308",
   keywords  = "AEC;+Readwise;+Notion;@\_Mark Up;++ClickUp;Construction
-               4.0;*Upgrade Report May 2023;00\_TO READ",
+               4.0;2.0\_Upgrade MAY 2023;00\_TO READ",
   doi       = "10.22617/spr200308"
 }
 
@@ -5466,7 +5461,7 @@
   month       =  jun,
   year        =  2018,
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
-                 4.0;*Upgrade Report May 2023"
+                 4.0;2.0\_Upgrade MAY 2023"
 }
 
 @ARTICLE{Detsimas2016-jx,
@@ -5519,8 +5514,8 @@
   url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
   keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
                Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
-               Supporting Works;Notion Catalogued;Reviewed on Theory;*Upgrade
-               Report May 2023;Journal Articles",
+               Supporting Works;Notion Catalogued;Reviewed on
+               Theory;2.0\_Upgrade MAY 2023;Journal Articles",
   language  = "en",
   issn      = "0262-1711, 1758-7492",
   doi       = "10.1108/jmd-05-2015-0073"
