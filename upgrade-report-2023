@@ -259,6 +259,40 @@
   doi       = "10.1007/978-3-642-39112-5\_18"
 }
 
+@BOOK{Lambert2019-qv,
+  title     = "Practical Research Methods in Education: An Early Researcher's
+               Critical Guide",
+  author    = "Lambert, Mike",
+  abstract  = "Practical Research Methods in Education is a hands-on guide
+               which critically explores and scrutinizes research methods used
+               in educational enquiry. Drawing on the research, practical
+               experience and reflections of active researchers, each chapter
+               offers explanations, examples, tasks for students to undertake
+               and suggestions for further reading, all of which are designed
+               to strengthen understanding of practical methods of data
+               collection in educational and social-science research. This
+               insightful book offers: Detailed illustration of a range of
+               data-collection methods and approaches used in educational
+               research Chapters written by active researchers, experienced in
+               addressing challenges of carrying out practical research in
+               education Examples, study tasks and suggestions for further
+               reading in each chapter An exploration of critical reflection
+               and decision-making in relation to research methodology in
+               education Close attention to research ethics Exploring practical
+               methods of data-collection for educational and social-science
+               research, Practical Research Methods in Education is a unique
+               and valuable resource for any students interested and engaged in
+               the planning and completion of their own investigations.",
+  publisher = "Routledge",
+  year      =  2019,
+  url       = "https://play.google.com/store/books/details?id=T9LxvQEACAAJ",
+  keywords  = "ePub | Kindle;Research Methods;Fieldwork Methodology;EPubs
+               Books;Reviewed on Theory;2.0\_Upgrade MAY 2023;Rapid Qualitative
+               Research",
+  language  = "en",
+  isbn      = "9780815393566"
+}
+
 @MISC{Lidelow2023-sm,
   title        = "Factory of the Future",
   author       = "Lidel{\"o}w, Helena",
@@ -2765,31 +2799,6 @@
                2023;EPubs Books",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
-}
-
-@BOOK{Lambert2019-qv,
-  title    = "Practical Research Methods in Education: an Early Researcher's
-              Critical Guide",
-  author   = "Lambert, Mike",
-  abstract = "``This insightful book offers detailed illustration of a range of
-              data-collection methods and approaches used in educational
-              research; drawing on the research, practical experiences and
-              reflections of active researchers it is ideal for anyone deciding
-              on the best approach and methodology for their own
-              investigations. Each chapter offers examples, tasks for students
-              to undertake and suggestions for further reading, all designed to
-              strengthen understanding of practical methods of data collection
-              in educational and social-science research. The book is a unique
-              and valuable practical resource for any students interested and
-              engaged in the planning and completion of their own research
-              investigations''--",
-  year     =  2019,
-  url      = "https://www.routledge.com/Practical-Research-Methods-in-Education-An-Early-Researchers-Critical/Lambert/p/book/9780815393566",
-  keywords = "ePub | Kindle;Research Methods;Fieldwork Methodology;EPubs
-              Books;Reviewed on Theory;2.0\_Upgrade MAY 2023;Rapid Qualitative
-              Research",
-  language = "en",
-  isbn     = "9780815393566"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
