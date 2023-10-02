@@ -827,11 +827,11 @@
                  Frontiers;Data Stats Figures;2.0\_Upgrade MAY 2023"
 }
 
-@TECHREPORT{Associated_General_Contractors_of_America2019-gi,
+@TECHREPORT{Acg2019-gi,
   title       = "Eighty Percent Of Contractors Report Difficulty Finding
                  Qualified Craft Workers To Hire As Firms Give Low Marks To
                  Quality Of New Worker Pipeline",
-  author      = "{Associated General Contractors of America}",
+  author      = "{ACG}",
   institution = "Associated General Contractors of America",
   month       =  aug,
   year        =  2019,
