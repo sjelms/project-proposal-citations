@@ -401,8 +401,8 @@
 }
 
 @UNPUBLISHED{Frey2013-nj,
-  title       = "The future of employment: How susceptible are jobs to
-                 computerisation?",
+  title       = "The Future of Employment: How Susceptible Are Jobs to
+                 Computerisation?",
   author      = "Frey, Carl Benedikt and Osborne, Michael A",
   abstract    = "We examine how susceptible jobs are to computerisation. To
                  assess this, we begin by implementing a novel methodology to
@@ -413,7 +413,7 @@
                  objective of analysing the number of jobs at risk and the
                  relationship between an occupations probability of
                  computerisation, wages and educational attainment.",
-  journal     = "Technological forecasting and social change",
+  journal     = "Technological Forecasting and Social Change",
   pages       = "254--280",
   institution = "Oxford Martin School, University of Oxford,",
   month       =  sep,
