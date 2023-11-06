@@ -109,7 +109,7 @@
                  modular;AEC;Important;@\_Mark
                  Up;Essential;**CATALOGED;++ClickUp;Report;Construction
                  4.0;Notion Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY
-                 2023;00\_TO READ;Government Report"
+                 2023;00\_TO READ;Government Report;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -260,33 +260,6 @@
   doi       = "10.1007/978-3-642-39112-5\_18"
 }
 
-@MISC{Lidelow2023-sm,
-  title        = "Factory of the Future [Keynote address]",
-  author       = "Lidel{\"o}w, Helena",
-  abstract     = "The keynote speech by Dr. Helene Lidel{\"o}w, CTO of
-                  Volumetric Building Companies, at the Industrialized
-                  Construction Forum 2023, focuses on the importance of
-                  collaboration, production strategy, platform development,
-                  market alignment, and digitalization in the construction
-                  industry. Dr. Lidel{\"o}w emphasizes the need for collective
-                  action and collaboration to drive progress and achieve common
-                  goals. She shares insights on standardized products, platform
-                  development, and successful modular factories that utilize
-                  automation and standardization to increase productivity.
-                  Additionally, she highlights the significance of market
-                  alignment and digital tools in improving precision and
-                  efficiency in production processes. This keynote speech
-                  offers valuable insights for driving innovation and success
-                  in the industrialized construction industry.",
-  month        =  feb,
-  year         =  2023,
-  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
-  howpublished = "Industrialized Construction Forum 2023",
-  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
-  location     = "Center for Integrated Facility Engineering, Stanford
-                  University, Stanford, CA"
-}
-
 @BOOK{Lambert2019-qv,
   title     = "Practical Research Methods in Education: An Early Researcher's
                Critical Guide",
@@ -319,6 +292,65 @@
                Research",
   language  = "en",
   isbn      = "9780815393566"
+}
+
+@MISC{Lidelow2023-sm,
+  title        = "Factory of the Future [Keynote address]",
+  author       = "Lidel{\"o}w, Helena",
+  abstract     = "The keynote speech by Dr. Helene Lidel{\"o}w, CTO of
+                  Volumetric Building Companies, at the Industrialized
+                  Construction Forum 2023, focuses on the importance of
+                  collaboration, production strategy, platform development,
+                  market alignment, and digitalization in the construction
+                  industry. Dr. Lidel{\"o}w emphasizes the need for collective
+                  action and collaboration to drive progress and achieve common
+                  goals. She shares insights on standardized products, platform
+                  development, and successful modular factories that utilize
+                  automation and standardization to increase productivity.
+                  Additionally, she highlights the significance of market
+                  alignment and digital tools in improving precision and
+                  efficiency in production processes. This keynote speech
+                  offers valuable insights for driving innovation and success
+                  in the industrialized construction industry.",
+  month        =  feb,
+  year         =  2023,
+  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
+  howpublished = "Industrialized Construction Forum 2023",
+  keywords     = "AEC;Construction 4.0;2.0\_Upgrade MAY 2023",
+  location     = "Center for Integrated Facility Engineering, Stanford
+                  University, Stanford, CA"
+}
+
+@TECHREPORT{Barbosa2017-rj,
+  title       = "Reinventing construction through a productivity revolution",
+  author      = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
+                 Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
+                 Matthew and Bertram, Nick and Brown, Stephanie",
+  institution = "McKinsey Global Institute",
+  month       =  feb,
+  year        =  2017,
+  url         = "https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution",
+  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
+                 Library;2021-12-03 Frontiers;Frontiers [2022];Construction
+                 4.0;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;Deloitte -
+                 McKinsey - EY - PWC;+3.0\_Upgrade OCT 2023",
+  copyright   = "McKinsey \& Company"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@TECHREPORT{Renz2016-br,
+  title       = "Shaping the Future of Construction: A Breakthrough in Mindset
+                 and Technology",
+  author      = "Renz, Andreas and Solas, Manuel Zafra",
+  editor      = "de Almeida, Pedro Rodrigues and B{\"u}hler, Michael",
+  affiliation = "The Boston Consulting Group",
+  publisher   = "World Economic Forum",
+  institution = "World Economic Forum",
+  month       =  may,
+  year        =  2016,
+  keywords    = "+Notion;+Readwise;AEC;§New Literature;2.0\_Upgrade MAY
+                 2023;Deloitte - McKinsey - EY - PWC;+3.0\_Upgrade OCT 2023"
 }
 
 @BOOK{Self1995-ne,
@@ -494,7 +526,7 @@
                  Force Statistics from the Current Population Survey",
   keywords    = "Cited for Frontiers;AEC;Statistics;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;2.0\_Upgrade MAY 2023"
+                 2023;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -517,7 +549,8 @@
   year      =  2012,
   url       = "http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf",
   keywords  = "AEC;Labor;@\_Mark Up;DONE;**CATALOGED;Frontiers [2022];Notion
-               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023"
+               Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY
+               2023;+3.0\_Upgrade OCT 2023"
 }
 
 @MISC{Highfield2019-cp,
@@ -855,22 +888,6 @@
   url         = "https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0",
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;2.0\_Upgrade MAY 2023"
-}
-
-@TECHREPORT{Barbosa2017-rj,
-  title       = "Reinventing construction through a productivity revolution",
-  author      = "Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
-                 Ribeirinho, Maria Jo{\~a}o and Sridhar, Mukund and Parsons,
-                 Matthew and Bertram, Nick and Brown, Stephanie",
-  institution = "McKinsey Global Institute",
-  month       =  feb,
-  year        =  2017,
-  url         = "https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution",
-  keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
-                 Library;2021-12-03 Frontiers;Frontiers [2022];Construction
-                 4.0;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;Deloitte -
-                 McKinsey - EY - PWC",
-  copyright   = "McKinsey \& Company"
 }
 
 @ARTICLE{Shanbari2019-ig,
@@ -1360,7 +1377,7 @@
   year      =  2019,
   url       = "https://books.google.co.uk/books?id=M1eFDwAAQBAJ",
   keywords  = "ePub | Kindle;Book (physical);EPubs Books;Frontiers
-               [2022];2.0\_Upgrade MAY 2023",
+               [2022];2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023",
   isbn      = "9780525558620",
   lccn      = "2019029689"
 }
@@ -1404,7 +1421,7 @@
   address   = "New York, NY",
   keywords  = "Book (physical);Cited for Frontiers;Audiobook;ePub |
                Kindle;Economics;Frontiers [2022];2.0\_Upgrade MAY 2023;EPubs
-               Books",
+               Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9780393239355"
 }
@@ -1494,7 +1511,7 @@
   year        =  2021,
   url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
   keywords    = "+Notion;+Readwise;AEC;§New Literature;2.0\_Upgrade MAY
-                 2023;Construction 4.0"
+                 2023;Construction 4.0;+3.0\_Upgrade OCT 2023"
 }
 
 @MISC{Sorensen2020-jj,
@@ -1546,7 +1563,8 @@
   year        =  2020,
   url         = "http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720",
   keywords    = "Labor;@\_Mark Up;DONE;Cited for Frontiers;AEC;Frontiers
-                 [2022];2.0\_Upgrade MAY 2023;Journal Articles",
+                 [2022];2.0\_Upgrade MAY 2023;Journal Articles;+3.0\_Upgrade
+                 OCT 2023",
   language    = "en",
   issn        = "0742-597X, 1943-5479",
   doi         = "10.1061/(asce)me.1943-5479.0000720"
@@ -1584,7 +1602,7 @@
   pages     = "11--14",
   year      =  2012,
   keywords  = "AEC;Labor;+Notion;@\_Mark Up;Cited for Frontiers;Frontiers
-               [2022];2.0\_Upgrade MAY 2023"
+               [2022];2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023"
 }
 
 @ARTICLE{Millard1997-yr,
@@ -1694,7 +1712,8 @@
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
   keywords  = "Workplace Learning;@\_Mark Up;Labor;Cited for
-               Frontiers;VET;2.0\_Upgrade MAY 2023;Journal Articles;VET",
+               Frontiers;VET;2.0\_Upgrade MAY 2023;Journal
+               Articles;VET;+3.0\_Upgrade OCT 2023",
   issn      = "1363-6820",
   doi       = "10.1080/13636820.2018.1480520"
 }
@@ -1982,7 +2001,7 @@
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "Knowledge - Skill Acquisition;AEC;Workplace Learning;@\_Mark
                Up;Cited for Frontiers;VET;2.0\_Upgrade MAY 2023;Journal
-               Articles;VET",
+               Articles;VET;+3.0\_Upgrade OCT 2023",
   language  = "en",
   issn      = "1877-6345, 1877-6345",
   doi       = "10.1186/s40461-014-0003-3"
@@ -2041,7 +2060,8 @@
   year        =  2021,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC"
+                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
+                 PWC;+3.0\_Upgrade OCT 2023"
 }
 
 @MISC{Unesco-unevoc2015-ie,
@@ -2086,7 +2106,8 @@
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Knowledge - Skill Acquisition;Workplace Learning;@\_Mark
                Up;Cited for Frontiers;+Readwise;Training;**CATALOGED;VET;Notion
-               Catalogued;2.0\_Upgrade MAY 2023;Journal Articles;VET",
+               Catalogued;2.0\_Upgrade MAY 2023;Journal
+               Articles;VET;+3.0\_Upgrade OCT 2023",
   issn      = "1363-6820",
   doi       = "10.1080/13636820200200197"
 }
@@ -2814,7 +2835,7 @@
   keywords  = "AEC;Research Methods;UCL;ePub | Kindle;@\_Mark
                Up;++ClickUp;Research Methodology in the Built Environment: A
                Selection of Case Studies;Reviewed on Theory;2.0\_Upgrade MAY
-               2023;EPubs Books",
+               2023;EPubs Books;+3.0\_Upgrade OCT 2023",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529-2"
 }
@@ -2880,7 +2901,8 @@
   month     =  apr,
   year      =  2023,
   url       = "https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube",
-  keywords  = "Website;Pocket/Reader (RW);2.0\_Upgrade MAY 2023",
+  keywords  = "Website;Pocket/Reader (RW);2.0\_Upgrade MAY 2023;+3.0\_Upgrade
+               OCT 2023",
   language  = "en",
   issn      = "0013-0613"
 }
@@ -2932,22 +2954,6 @@
   address   = "New York, NY",
   keywords  = "YouTube;Cited for Frontiers;Frontiers [2022];2.0\_Upgrade MAY
                2023"
-}
-
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@TECHREPORT{Renz2016-br,
-  title       = "Shaping the Future of Construction: A Breakthrough in Mindset
-                 and Technology",
-  author      = "Renz, Andreas and Solas, Manuel Zafra",
-  editor      = "de Almeida, Pedro Rodrigues and B{\"u}hler, Michael",
-  affiliation = "The Boston Consulting Group",
-  publisher   = "World Economic Forum",
-  institution = "World Economic Forum",
-  month       =  may,
-  year        =  2016,
-  keywords    = "+Notion;+Readwise;AEC;§New Literature;2.0\_Upgrade MAY
-                 2023;Deloitte - McKinsey - EY - PWC"
 }
 
 @MISC{Belkin2023-ak,
@@ -3096,7 +3102,7 @@
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full",
   keywords  = "AEC;Workplace Learning;@\_Mark Up;**CATALOGED;LSU - Louisiana
                State University;Notion Catalogued;2.0\_Upgrade MAY 2023;Journal
-               Articles",
+               Articles;+3.0\_Upgrade OCT 2023",
   copyright = "https://creativecommons.org/licenses/by/4.0/",
   issn      = "2297-3362",
   doi       = "10.3389/fbuil.2021.678366"
@@ -3134,7 +3140,7 @@
   school   = "California Polytechnic State University, San Luis Obispo",
   keywords = "AEC;Labor;+Notion;+Readwise;§New
               Literature;++ClickUp;2.0\_Upgrade MAY 2023;Construction
-              4.0;00\_TO READ"
+              4.0;00\_TO READ;+3.0\_Upgrade OCT 2023"
 }
 
 @ARTICLE{Goulding2012-op,
@@ -3268,7 +3274,8 @@
                efficient buildings; level's; construction industry; building
                renovation passport; digital building
                logbooks;AEC;Labor;+Notion;+Readwise;Essential;++ClickUp;Economics;Marco
-               Casini Construction 4.0;2.0\_Upgrade MAY 2023;00\_TO READ",
+               Casini Construction 4.0;2.0\_Upgrade MAY 2023;00\_TO
+               READ;+3.0\_Upgrade OCT 2023",
   isbn      = "9780128217979",
   doi       = "10.1016/B978-0-12-821797-9.00011-8"
 }
@@ -3347,7 +3354,7 @@
   keywords  = "§New Literature;AEC;Research Methods;UCL;ePub |
                Kindle;++ClickUp;Research Methodology in the Built Environment:
                A Selection of Case Studies;Reviewed on Theory;2.0\_Upgrade MAY
-               2023;EPubs Books",
+               2023;EPubs Books;+3.0\_Upgrade OCT 2023",
   isbn      = "9781317534259",
   doi       = "10.4324/9781315725529"
 }
@@ -3584,7 +3591,7 @@
   url       = "https://link.springer.com/book/10.1007/978-3-030-85973-2",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;00\_TO
-               READ;EPubs Books",
+               READ;EPubs Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9783030859732"
 }
@@ -3780,7 +3787,8 @@
   year       =  2020,
   url        = "http://dx.doi.org/10.29007/4nk3",
   keywords   = "AEC;@\_Mark Up;**CATALOGED;Construction 4.0;Notion
-                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023",
+                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY
+                2023;+3.0\_Upgrade OCT 2023",
   conference = "Associated Schools of Construction Proceedings of the 56th
                 Annual International Conference",
   doi        = "10.29007/4nk3"
@@ -3819,7 +3827,8 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;AEC;Automation;Important;@\_Mark
               Up;Essential;**CATALOGED;++ClickUp;Construction 4.0;Notion
-              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;Journal Articles",
+              Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;Journal
+              Articles;+3.0\_Upgrade OCT 2023",
   issn     = "0166-3615",
   doi      = "10.1016/j.compind.2016.09.006"
 }
@@ -4857,7 +4866,8 @@
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "ePub | Kindle;Research
                Methods;+Notion;+Readwise;Important;Read;Book (physical);Theory
-               and Methods;2.0\_Upgrade MAY 2023;00\_TO READ;EPubs Books",
+               and Methods;2.0\_Upgrade MAY 2023;00\_TO READ;EPubs
+               Books;+3.0\_Upgrade OCT 2023",
   language  = "en",
   isbn      = "9781526449900"
 }
@@ -5146,7 +5156,8 @@
   year        =  2018,
   keywords    = "Cited for Frontiers;AEC;Zotero Import (Feb 22);My
                  Library;2021-12-03 Frontiers;Frontiers [2022];UCL Poster Q1
-                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC"
+                 2023;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
+                 PWC;+3.0\_Upgrade OCT 2023"
 }
 
 @MISC{Bureau_of_Labor_Statistics_US_Department_of_Labor_undated-yd,
@@ -5373,7 +5384,8 @@
   year      =  2001,
   url       = "https://www.sciencedirect.com/science/article/pii/B0080430767022877",
   address   = "Oxford",
-  keywords  = "Labor;Workplace Learning;2.0\_Upgrade MAY 2023",
+  keywords  = "Labor;Workplace Learning;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT
+               2023",
   isbn      = "9780080430768",
   doi       = "10.1016/B0-08-043076-7/02287-7"
 }
@@ -5418,7 +5430,7 @@
                Secretariats; Knights of Labor; National Labor Relations Board;
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;Labor;Workplace
-               Learning;2.0\_Upgrade MAY 2023",
+               Learning;2.0\_Upgrade MAY 2023;+3.0\_Upgrade OCT 2023",
   isbn      = "9780080449104",
   doi       = "10.1016/B978-008044910-4.00198-X"
 }
@@ -5447,7 +5459,7 @@
   month       =  mar,
   year        =  2019,
   keywords    = "+Notion;+Readwise;AEC;Important;§New Literature;Construction
-                 4.0;2.0\_Upgrade MAY 2023;00\_TO READ"
+                 4.0;2.0\_Upgrade MAY 2023;00\_TO READ;+3.0\_Upgrade OCT 2023"
 }
 
 @TECHREPORT{Jagannathan2021-fg,
@@ -5545,7 +5557,8 @@
   keywords  = "AEC;Research Methods;Workplace Learning;@\_Mark Up;Knowledge -
                Skill Acquisition;Training;Skill demand;Labor;**CATALOGED;LSU
                Supporting Works;Notion Catalogued;Reviewed on
-               Theory;2.0\_Upgrade MAY 2023;Journal Articles",
+               Theory;2.0\_Upgrade MAY 2023;Journal Articles;+3.0\_Upgrade OCT
+               2023",
   language  = "en",
   issn      = "0262-1711, 1758-7492",
   doi       = "10.1108/jmd-05-2015-0073"
