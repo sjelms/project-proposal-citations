@@ -1658,7 +1658,7 @@
   url       = "https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/",
   keywords  = "Labor;Cited for Frontiers;**CATALOGED;+Readwise;@\_Mark
                Up;Frontiers [2022];2.0\_Upgrade MAY 2023;Journal
-               Articles;Notion Catalogued"
+               Articles;Notion Catalogued;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1776,7 +1776,8 @@
   address   = "New York, NY",
   keywords  = "Cited for Frontiers;Labor;Workplace Learning;ePub |
                Kindle;Zotero Import (Feb 22);My Library;2021-12-03
-               Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY 2023",
+               Frontiers;Frontiers [2022];EPubs Books;2.0\_Upgrade MAY
+               2023;+3.0\_Upgrade OCT 2023",
   isbn      = "9780807759066"
 }
 
@@ -2359,7 +2360,8 @@
   year      =  2018,
   address   = "New York, NY",
   keywords  = "Book (physical);ePub | Kindle;EPubs Books;Reviewed on
-               Theory;Theory and Methods;2.0\_Upgrade MAY 2023",
+               Theory;Theory and Methods;2.0\_Upgrade MAY 2023;+3.0\_Upgrade
+               OCT 2023",
   isbn      = "9781138209886"
 }
 
@@ -3638,7 +3640,7 @@
   url       = "http://dx.doi.org/10.14455/isec.res.2019.184",
   keywords  = "AEC;@\_Mark Up;+Readwise;**CATALOGED;Construction 4.0;Notion
                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;Journal
-               Articles",
+               Articles;+3.0\_Upgrade OCT 2023",
   language  = "en",
   issn      = "2644-108X",
   doi       = "10.14455/isec.res.2019.184"
@@ -3982,7 +3984,8 @@
   url       = "https://www.ivvd.nl/wp-content/uploads/2019/12/Modular-construction-from-projects-to-products-full-report-NEW.pdf",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
                Catalogued;UCL Poster Q1 2023;2.0\_Upgrade MAY 2023;00\_TO
-               READ;Journal Articles;Deloitte - McKinsey - EY - PWC"
+               READ;Journal Articles;Deloitte - McKinsey - EY -
+               PWC;+3.0\_Upgrade OCT 2023"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
