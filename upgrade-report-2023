@@ -26,7 +26,8 @@
   keywords  = "AEC;ePub | Kindle;Essential;Important;@\_Mark
                Up;**CATALOGED;++ClickUp;Construction 4.0;Notion
                Catalogued;2.0\_Upgrade MAY 2023;00\_TO READ;Offsite
-               Architecture: Constructing the Future;EPubs Books",
+               Architecture: Constructing the Future;EPubs Books;AEC Cited Lit
+               for Jacqui",
   language  = "en",
   isbn      = "9781317588818",
   doi       = "10.4324/9781315743332"
@@ -262,6 +263,23 @@
   issn      = "0302-9743, 1611-3349",
   isbn      = "9783642391118, 9783642391125",
   doi       = "10.1007/978-3-642-39112-5\_18"
+}
+
+@ARTICLE{Yurkevich2021-mu,
+  title    = "America desperately needs 1 million more construction workers",
+  author   = "Yurkevich, Vanessa",
+  abstract = "Matthew Messer hauls solar panels on the roof of a home in Long
+              Island, New York, hoisting them one by one in the 100-degree June
+              heat. Messer is the owner of New York Solar Maintenance, but
+              these days he's working right alongside his lead technician seven
+              days a week as business booms.",
+  journal  = "CNN",
+  edition  = "CNN Business",
+  month    =  jul,
+  year     =  2021,
+  url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
+  keywords = "AEC;2.0\_Upgrade MAY 2023;AEC Cited Lit for Jacqui",
+  language = "en"
 }
 
 @BOOK{Lambert2019-qv,
@@ -884,7 +902,8 @@
   month       =  dec,
   year        =  2019,
   keywords    = "AEC;Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Data Stats Figures;2.0\_Upgrade MAY 2023"
+                 Frontiers;Data Stats Figures;2.0\_Upgrade MAY 2023;AEC Cited
+                 Lit for Jacqui"
 }
 
 @TECHREPORT{Acg2019-gi,
@@ -928,7 +947,7 @@
   url      = "http://dx.doi.org/10.1080/15623599.2017.1423166",
   keywords = "AEC;Workplace Learning;@\_Mark Up;+Notion;Cited for
               Frontiers;\_XR/MR;My Library;Game Engine;2.0\_Upgrade MAY
-              2023;Journal Articles",
+              2023;Journal Articles;AEC Cited Lit for Jacqui",
   doi      = "10.1080/15623599.2017.1423166"
 }
 
@@ -970,7 +989,8 @@
   year     =  2016,
   url      = "http://dx.doi.org/10.1108/ecam-01-2016-0028",
   keywords = "AEC;\_XR/MR;@\_Mark Up;+Notion;Game Engine \_ AR-VR;Frontiers
-              [2022];2.0\_Upgrade MAY 2023;Journal Articles",
+              [2022];2.0\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
+              Jacqui",
   issn     = "0969-9988",
   doi      = "10.1108/ecam-01-2016-0028"
 }
@@ -1310,7 +1330,7 @@
   url       = "http://dx.doi.org/10.25304/rlt.v28.2329",
   keywords  = "AEC;ePub | Kindle;@\_Mark Up;Cited for
                Frontiers;**CATALOGED;EPubs Books;2.0\_Upgrade MAY 2023;Journal
-               Articles;Notion Catalogued",
+               Articles;Notion Catalogued;AEC Cited Lit for Jacqui",
   issn      = "2156-7069, 2156-7077",
   doi       = "10.25304/rlt.v28.2329"
 }
@@ -2168,7 +2188,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0305440320300066",
   keywords = "Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
               pottery culture (LBK); Water well;AEC;Cited for
-              Frontiers;+Notion;2.0\_Upgrade MAY 2023;Journal Articles",
+              Frontiers;+Notion;2.0\_Upgrade MAY 2023;Journal Articles;AEC
+              Cited Lit for Jacqui",
   issn     = "0305-4403",
   doi      = "10.1016/j.jas.2020.105082"
 }
@@ -2506,7 +2527,7 @@
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: NA-NA-NA",
   keywords     = "AEC;Cited for Frontiers;+Notion;Training;2.0\_Upgrade MAY
-                  2023",
+                  2023;AEC Cited Lit for Jacqui",
   language     = "en"
 }
 
@@ -2882,7 +2903,7 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
   keywords  = "+Notion;+Readwise;AEC;ePub | Kindle;§New Literature;Construction
-               4.0;2.0\_Upgrade MAY 2023;EPubs Books",
+               4.0;2.0\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit for Jacqui",
   language  = "en",
   isbn      = "9783658394073"
 }
@@ -2934,7 +2955,7 @@
   author   = "Yeni-Letsoko, Vuyiswa and Pillay, Nischolan",
   year     =  2019,
   keywords = "+Notion;+Readwise;AEC;Labor;Skill demand;Construction
-              4.0;2.0\_Upgrade MAY 2023"
+              4.0;2.0\_Upgrade MAY 2023;AEC Cited Lit for Jacqui"
 }
 
 @BOOK{Schwab2017-js,
@@ -2953,7 +2974,8 @@
   institution = "Autodesk",
   month       =  jun,
   year        =  2019,
-  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023"
+  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023;AEC Cited Lit for
+                 Jacqui"
 }
 
 @TECHREPORT{Pothier2020-kd,
@@ -2962,7 +2984,8 @@
   institution = "Autodesk",
   month       =  jun,
   year        =  2020,
-  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023"
+  keywords    = "AEC;Report;Autodesk;2.0\_Upgrade MAY 2023;AEC Cited Lit for
+                 Jacqui"
 }
 
 @MISC{Schankula2019-ju,
@@ -3330,7 +3353,7 @@
   address   = "Wiesbaden",
   keywords  = "+Notion;+Readwise;AEC;Robots;Technological change;§New
                Literature;ePub | Kindle;2.0\_Upgrade MAY 2023;Construction
-               4.0;EPubs Books",
+               4.0;EPubs Books;AEC Cited Lit for Jacqui",
   isbn      = "9783658394073",
   doi       = "10.1007/978-3-658-39407-3\_13"
 }
@@ -3508,7 +3531,7 @@
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "AEC;@\_Mark Up;**CATALOGED;Autodesk;Construction 4.0;Notion
                Catalogued;2.0\_Upgrade MAY 2023;Construction 4.0: An Innovation
-               Platform for the Built Environment",
+               Platform for the Built Environment;AEC Cited Lit for Jacqui",
   isbn      = "9780429398100",
   doi       = "10.1201/9780429398100"
 }
@@ -3773,7 +3796,8 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
   keywords  = "§New Literature;AEC;VET;Construction 4.0;2.0\_Upgrade MAY
-               2023;Grounded Theory;Journal Articles;VET",
+               2023;Grounded Theory;Journal Articles;VET;AEC Cited Lit for
+               Jacqui",
   issn      = "2313-335X, 2708-8448",
   doi       = "10.31580/jei.v7i2.1438"
 }
@@ -4067,7 +4091,8 @@
   howpublished = "\url{https://www.wbdg.org/resources/site-and-modular-construction-explained}",
   note         = "Accessed: 2023-2-8",
   keywords     = "**CATALOGED;AEC;Pocket/Reader (RW);Website;Construction
-                  4.0;Notion Catalogued;2.0\_Upgrade MAY 2023",
+                  4.0;Notion Catalogued;2.0\_Upgrade MAY 2023;AEC Cited Lit for
+                  Jacqui",
   language     = "en"
 }
 
@@ -4457,7 +4482,8 @@
   year        =  2016,
   keywords    = "+Notion;+Readwise;AEC;Essential;§New
                  Literature;++ClickUp;Construction 4.0;2.0\_Upgrade MAY
-                 2023;00\_TO READ;Deloitte - McKinsey - EY - PWC"
+                 2023;00\_TO READ;Deloitte - McKinsey - EY - PWC;AEC Cited Lit
+                 for Jacqui"
 }
 
 @MISC{Ritchie2017-jm,
@@ -4680,23 +4706,6 @@
   note         = "Accessed: 2023-2-23",
   keywords     = "Statistics;2.0\_Upgrade MAY 2023",
   language     = "en"
-}
-
-@ARTICLE{Yurkevich2021-mu,
-  title    = "America desperately needs 1 million more construction workers",
-  author   = "Yurkevich, Vanessa",
-  abstract = "Matthew Messer hauls solar panels on the roof of a home in Long
-              Island, New York, hoisting them one by one in the 100-degree June
-              heat. Messer is the owner of New York Solar Maintenance, but
-              these days he's working right alongside his lead technician seven
-              days a week as business booms.",
-  journal  = "CNN",
-  edition  = "CNN Business",
-  month    =  jul,
-  year     =  2021,
-  url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
-  keywords = "AEC;2.0\_Upgrade MAY 2023",
-  language = "en"
 }
 
 @MISC{Turner2019-lv,
@@ -5019,7 +5028,7 @@
   url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
   keywords  = "@\_Mark Up;AEC;ePub | Kindle;++ClickUp;Research Methodology in
                the Built Environment: A Selection of Case Studies;2.0\_Upgrade
-               MAY 2023;Grounded Theory;EPubs Books",
+               MAY 2023;Grounded Theory;EPubs Books;AEC Cited Lit for Jacqui",
   language  = "en",
   doi       = "10.4324/9781315725529-27"
 }
@@ -5326,7 +5335,8 @@
   month       =  jun,
   year        =  2020,
   keywords    = "+Notion;+Readwise;AEC;§New Literature;Construction
-                 4.0;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC"
+                 4.0;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;AEC
+                 Cited Lit for Jacqui"
 }
 
 @ARTICLE{VanLehn2006-op,
@@ -5542,7 +5552,8 @@
   month       =  jun,
   year        =  2018,
   keywords    = "AEC;+Notion;+Readwise;§New Literature;Construction
-                 4.0;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC"
+                 4.0;2.0\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;AEC
+                 Cited Lit for Jacqui"
 }
 
 @ARTICLE{Detsimas2016-jx,
