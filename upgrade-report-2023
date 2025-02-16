@@ -704,17 +704,6 @@
   doi      = "10.3102/0091732X015001097"
 }
 
-@TECHREPORT{Ofqual2018-cs,
-  title       = "Guidance to the General Conditions of Recognition",
-  author      = "{OFQUAL}",
-  institution = "Office of Qualifications and Examinations Regulation",
-  number      = "OFQUAL/18/6406",
-  month       =  aug,
-  year        =  2018,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;2\_Upgrade MAY 2023;Workplace Learning"
-}
-
 @ARTICLE{Dubberly2011-yu,
   title    = "Design as learning—or ``knowledge creation''—the {SECI} model",
   author   = "Dubberly, Hugh and Evenson, Shelley",
@@ -5459,4 +5448,16 @@
   doi       = "10.1108/jmd-05-2015-0073",
   issn      = "0262-1711,1758-7492",
   language  = "en"
+}
+
+@TECHREPORT{Ofqual2018-cs,
+  title       = "Guidance to the General Conditions of Recognition",
+  author      = "{OFQUAL}",
+  institution = "Office of Qualifications and Examinations Regulation",
+  number      = "OFQUAL/18/6406",
+  month       =  aug,
+  year        =  2018,
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;2\_Upgrade MAY 2023;\_BibTex to MD Git;Workplace
+                 Learning"
 }
