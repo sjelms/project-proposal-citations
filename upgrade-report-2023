@@ -1615,7 +1615,8 @@
   year      =  1997,
   url       = "https://www.proquest.com/trade-journals/shortage-workers-slams-area-contractors/docview/218501556/se-2",
   keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit for
-               Jacqui;\_In Notion;AEC;Labor;\_Mark Up;DONE;Cited for Frontiers",
+               Jacqui;\_BibTex to MD Git;\_In Notion;AEC;Labor;\_Mark
+               Up;DONE;Cited for Frontiers",
   issn      = "1094-8198",
   language  = "en"
 }
