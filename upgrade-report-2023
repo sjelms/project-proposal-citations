@@ -3983,7 +3983,8 @@
   howpublished = "\url{https://www.wbdg.org/resources/site-and-modular-construction-explained}",
   note         = "Accessed: 2023-2-8",
   keywords     = "Construction 4.0;Notion Catalogued;2\_Upgrade MAY 2023;AEC
-                  Cited Lit for Jacqui;\_Cataloged;AEC;Readwise Reader;Website",
+                  Cited Lit for Jacqui;\_BibTex to MD
+                  Git;\_Cataloged;AEC;Readwise Reader;Website",
   language     = "en"
 }
 
