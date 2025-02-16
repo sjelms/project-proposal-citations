@@ -56,7 +56,7 @@
   month       =  sep,
   year        =  2018,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;AEC;\_New Literature"
+                 Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_New Literature"
 }
 
 @TECHREPORT{Cameron2020-wn,
@@ -370,7 +370,7 @@
   url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
   howpublished = "Industrialized Construction Forum 2023",
   keywords     = "Construction 4.0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                  Cited Lit for Jacqui;AEC"
+                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @TECHREPORT{Barbosa2017-rj,
@@ -400,8 +400,8 @@
   month       =  "6~" # may,
   year        =  2016,
   keywords    = "2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
-                 OCT 2023;AEC Cited Lit for Jacqui;\_In Notion;\_In
-                 Readwise;AEC;\_New Literature"
+                 OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+                 Notion;\_In Readwise;AEC;\_New Literature"
 }
 
 @BOOK{Self1995-ne,
@@ -592,8 +592,8 @@
   year      =  2012,
   url       = "http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf",
   keywords  = "Frontiers [2022];Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
-               MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for
-               Jacqui;AEC;Labor;\_Mark Up;DONE;\_Cataloged"
+               MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
+               MD Git;AEC;Labor;\_Mark Up;DONE;\_Cataloged"
 }
 
 @MISC{Highfield2019-cp,
@@ -1411,7 +1411,7 @@
   year      =  2019,
   url       = "https://books.google.co.uk/books?id=M1eFDwAAQBAJ",
   keywords  = "EPubs Books;Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT
-               2023;ePub;Book (physical);Audiobook",
+               2023;\_BibTex to MD Git;ePub;Book (physical);Audiobook",
   lccn      =  2019029689,
   isbn      =  9780525558620
 }
@@ -1539,7 +1539,8 @@
   year        =  2021,
   url         = "https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work",
   keywords    = "2\_Upgrade MAY 2023;Construction 4.0;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_In Notion;\_In Readwise;\_New Literature"
+                 Cited Lit for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+                 Readwise;\_New Literature"
 }
 
 @MISC{Sorensen2020-jj,
@@ -1588,8 +1589,8 @@
   year        =  2020,
   url         = "http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720",
   keywords    = "Frontiers [2022];2\_Upgrade MAY 2023;Journal
-                 Articles;3\_Upgrade OCT 2023;AEC Cited Lit for
-                 Jacqui;Labor;\_Mark Up;DONE;Cited for Frontiers;AEC",
+                 Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;Labor;\_Mark Up;DONE;Cited for Frontiers;AEC",
   doi         = "10.1061/(asce)me.1943-5479.0000720",
   issn        = "0742-597X,1943-5479",
   language    = "en"
@@ -1627,8 +1628,8 @@
   pages     = "11--14",
   year      =  2012,
   keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-               Cited Lit for Jacqui;AEC;Labor;\_In Notion;\_Mark Up;Cited for
-               Frontiers"
+               Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
+               Notion;\_Mark Up;Cited for Frontiers"
 }
 
 @ARTICLE{Millard1997-yr,
@@ -1678,7 +1679,7 @@
   year      =  2020,
   url       = "https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/",
   keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;Notion
-               Catalogued;3\_Upgrade OCT 2023;Labor;Cited for
+               Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD Git;Labor;Cited for
                Frontiers;\_Cataloged;\_In Readwise;\_Mark Up"
 }
 
@@ -1695,7 +1696,7 @@
   year      =  1999,
   url       = "http://ascpro0.ascweb.org/archives/1999/chini99.htm",
   keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-               Cited Lit for Jacqui;Labor;\_Mark Up;Cited for
+               Cited Lit for Jacqui;\_BibTex to MD Git;Labor;\_Mark Up;Cited for
                Frontiers;AEC;Website"
 }
 
@@ -1734,7 +1735,8 @@
   year      =  2019,
   url       = "https://doi.org/10.1080/13636820.2018.1480520",
   keywords  = "2\_Upgrade MAY 2023;Journal Articles;VET;3\_Upgrade OCT
-               2023;Workplace Learning;\_Mark Up;Labor;Cited for Frontiers;VET",
+               2023;\_BibTex to MD Git;Workplace Learning;\_Mark Up;Labor;Cited
+               for Frontiers;VET",
   doi       = "10.1080/13636820.2018.1480520",
   issn      = "1363-6820"
 }
@@ -1793,8 +1795,9 @@
   series    = "Technology, Education–Connections",
   year      =  2018,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-               [2022];EPubs Books;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;Cited
-               for Frontiers;Labor;Workplace Learning;ePub",
+               [2022];EPubs Books;2\_Upgrade MAY 2023;3\_Upgrade OCT
+               2023;\_BibTex to MD Git;Cited for Frontiers;Labor;Workplace
+               Learning;ePub",
   isbn      =  9780807759066
 }
 
@@ -2015,8 +2018,9 @@
   year      =  2014,
   url       = "https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3",
   keywords  = "2\_Upgrade MAY 2023;Journal Articles;VET;3\_Upgrade OCT 2023;AEC
-               Cited Lit for Jacqui;Knowledge - Skill Acquisition;AEC;Workplace
-               Learning;\_Mark Up;Cited for Frontiers;VET",
+               Cited Lit for Jacqui;\_BibTex to MD Git;Knowledge - Skill
+               Acquisition;AEC;Workplace Learning;\_Mark Up;Cited for
+               Frontiers;VET",
   doi       = "10.1186/s40461-014-0003-3",
   issn      = "1877-6345,1877-6345",
   language  = "en"
@@ -2075,7 +2079,7 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;Cited for Frontiers;AEC"
+                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @MISC{Unesco-unevoc2015-ie,
@@ -2087,8 +2091,8 @@
   year         =  2015,
   howpublished = "\url{https://unevoc.unesco.org/home/TVET}",
   note         = "Accessed: 2022-3-7",
-  keywords     = "2\_Upgrade MAY 2023;VET;3\_Upgrade OCT 2023;Cited for
-                  Frontiers;VET",
+  keywords     = "2\_Upgrade MAY 2023;VET;3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;Cited for Frontiers;VET",
   language     = "en"
 }
 
@@ -2118,9 +2122,9 @@
   year      =  2002,
   url       = "https://doi.org/10.1080/13636820200200197",
   keywords  = "Notion Catalogued;2\_Upgrade MAY 2023;Journal
-               Articles;VET;3\_Upgrade OCT 2023;Knowledge - Skill
-               Acquisition;Workplace Learning;\_Mark Up;Cited for Frontiers;\_In
-               Readwise;Training;\_Cataloged;VET",
+               Articles;VET;3\_Upgrade OCT 2023;\_BibTex to MD Git;Knowledge -
+               Skill Acquisition;Workplace Learning;\_Mark Up;Cited for
+               Frontiers;\_In Readwise;Training;\_Cataloged;VET",
   doi       = "10.1080/13636820200200197",
   issn      = "1363-6820"
 }
@@ -2263,7 +2267,7 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;Cited for Frontiers;AEC"
+                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @MISC{Coupland2019-ax,
@@ -2882,7 +2886,8 @@
   month     =  "3~" # apr,
   year      =  2023,
   url       = "https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube",
-  keywords  = "2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;Website;Readwise Reader",
+  keywords  = "2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;Website;Readwise Reader",
   issn      = "0013-0613",
   language  = "en"
 }
@@ -3037,8 +3042,8 @@
   url      = "https://digitalcommons.lsu.edu/gradschool_dissertations/5487",
   keywords = "LSU - Louisiana State University;Notion Catalogued;2\_Upgrade MAY
               2023;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit for
-              Jacqui;AEC;Workplace Learning;Thesis;Read;\_Cataloged;\_Mark
-              Up;\_In ClickUp",
+              Jacqui;\_BibTex to MD Git;AEC;Workplace
+              Learning;Thesis;Read;\_Cataloged;\_Mark Up;\_In ClickUp",
   doi      = "10.31390/gradschool\_dissertations.5487",
   school   = "Louisiana State University"
 }
@@ -3080,7 +3085,8 @@
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full",
   keywords  = "LSU - Louisiana State University;Notion Catalogued;2\_Upgrade MAY
                2023;Journal Articles;3\_Upgrade OCT 2023;AEC Cited Lit for
-               Jacqui;AEC;Workplace Learning;\_Mark Up;\_Cataloged",
+               Jacqui;\_BibTex to MD Git;AEC;Workplace Learning;\_Mark
+               Up;\_Cataloged",
   doi       = "10.3389/fbuil.2021.678366",
   issn      = "2297-3362"
 }
@@ -3113,8 +3119,8 @@
   year     =  2021,
   url      = "https://digitalcommons.calpoly.edu/cmsp/456/",
   keywords = "2\_Upgrade MAY 2023;Construction 4.0;00\_TO READ;3\_Upgrade OCT
-              2023;AEC Cited Lit for Jacqui;AEC;Labor;\_In Notion;\_In
-              Readwise;\_New Literature;\_In ClickUp",
+              2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
+              Notion;\_In Readwise;\_New Literature;\_In ClickUp",
   school   = "California Polytechnic State University, San Luis Obispo"
 }
 
@@ -3249,8 +3255,8 @@
                efficient buildings; level’s; construction industry; building
                renovation passport; digital building logbooks;Marco Casini
                Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;3\_Upgrade OCT
-               2023;AEC Cited Lit for Jacqui;AEC;Labor;\_In Notion;\_In
-               Readwise;Essential;\_In ClickUp;Economics",
+               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
+               Notion;\_In Readwise;Essential;\_In ClickUp;Economics",
   doi       = "10.1016/B978-0-12-821797-9.00011-8",
   isbn      =  9780128217979
 }
@@ -3369,8 +3375,8 @@
   year        =  2008,
   url         = "https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)",
   keywords    = "Notion Catalogued;2\_Upgrade MAY 2023;Journal
-                 Articles;3\_Upgrade OCT 2023;AEC Cited Lit for
-                 Jacqui;AEC;Workplace Learning;\_Mark Up;\_Cataloged",
+                 Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC;Workplace Learning;\_Mark Up;\_Cataloged",
   doi         = "10.1061/(asce)0733-9364(2008)134:10(795)",
   issn        = "0733-9364,1943-7862",
   language    = "en"
@@ -3598,7 +3604,8 @@
   url       = "http://dx.doi.org/10.14455/isec.res.2019.184",
   keywords  = "AEC;Construction 4.0;Notion Catalogued;UCL Poster Q1
                2023;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT 2023;AEC
-               Cited Lit for Jacqui;AEC;\_Mark Up;\_In Readwise;\_Cataloged",
+               Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_Mark Up;\_In
+               Readwise;\_Cataloged",
   doi       = "10.14455/isec.res.2019.184",
   issn      = "2644-108X",
   language  = "en"
@@ -3744,8 +3751,8 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.29007/4nk3",
   keywords  = "Construction 4.0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
-               MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;AEC;\_Mark
-               Up;\_Cataloged",
+               MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
+               MD Git;AEC;\_Mark Up;\_Cataloged",
   doi       = "10.29007/4nk3"
 }
 
@@ -3782,7 +3789,7 @@
               Content analysis; PESTEL framework; Research agenda; Construction
               industry;Construction 4.0;Notion Catalogued;2\_Upgrade MAY
               2023;00\_TO READ;Journal Articles;3\_Upgrade OCT 2023;AEC Cited
-              Lit for Jacqui;AEC;Automation;Important;\_Mark
+              Lit for Jacqui;\_BibTex to MD Git;AEC;Automation;Important;\_Mark
               Up;Essential;\_Cataloged;\_In ClickUp",
   doi      = "10.1016/j.compind.2016.09.006",
   issn     = "0166-3615"
@@ -4760,8 +4767,8 @@
   year      =  2019,
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
-               Books;3\_Upgrade OCT 2023;ePub;Research Methods;\_In Notion;\_In
-               Readwise;Important;Read;Book (physical)",
+               Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;ePub;Research
+               Methods;\_In Notion;\_In Readwise;Important;Read;Book (physical)",
   isbn      =  9781526449900,
   language  = "en"
 }
@@ -5048,7 +5055,7 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;Cited for Frontiers;AEC"
+                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @MISC{Bureau_of_Labor_Statistics_US_Department_of_Labor_undated-yd,
@@ -5159,7 +5166,8 @@
   url         = "http://dx.doi.org/10.1145/3056540.3076192",
   keywords    = "Construction 4.0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
                  Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for
-                 Jacqui;AEC;\_Mark Up;\_Cataloged;\_In ClickUp",
+                 Jacqui;\_BibTex to MD Git;AEC;\_Mark Up;\_Cataloged;\_In
+                 ClickUp",
   doi         = "10.1145/3056540.3076192",
   isbn        =  9781450352277
 }
@@ -5211,7 +5219,8 @@
   month     =  "14~" # feb,
   year      =  2023,
   url       = "https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e",
-  keywords  = "2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;Website"
+  keywords  = "2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;Website"
 }
 
 @ARTICLE{Joffroy2016-cy,
@@ -5315,7 +5324,8 @@
                Secretariats; Knights of Labor; National Labor Relations Board;
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
-               2023;3\_Upgrade OCT 2023;Labor;Workplace Learning",
+               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Labor;Workplace
+               Learning",
   doi       = "10.1016/B978-008044910-4.00198-X",
   isbn      =  9780080449104
 }
@@ -5341,8 +5351,8 @@
   month       =  "15~" # mar,
   year        =  2019,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;3\_Upgrade OCT
-                 2023;AEC Cited Lit for Jacqui;\_In Notion;\_In
-                 Readwise;AEC;Important;\_New Literature"
+                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+                 Notion;\_In Readwise;AEC;Important;\_New Literature"
 }
 
 @TECHREPORT{Jagannathan2021-fg,
@@ -5437,9 +5447,9 @@
   url       = "http://dx.doi.org/10.1108/jmd-05-2015-0073",
   keywords  = "LSU Supporting Works;Notion Catalogued;Reviewed on
                Theory;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT
-               2023;AEC Cited Lit for Jacqui;AEC;Research Methods;Workplace
-               Learning;\_Mark Up;Knowledge - Skill Acquisition;Training;Skill
-               demand;Labor;\_Cataloged",
+               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
+               Methods;Workplace Learning;\_Mark Up;Knowledge - Skill
+               Acquisition;Training;Skill demand;Labor;\_Cataloged",
   doi       = "10.1108/jmd-05-2015-0073",
   issn      = "0262-1711,1758-7492",
   language  = "en"
