@@ -2658,7 +2658,8 @@
   month     =  "16~" # sep,
   year      =  2021,
   url       = "https://play.google.com/store/books/details?id=tUASEAAAQBAJ",
-  keywords  = "2\_Upgrade MAY 2023;Book (physical);Artificial Intelligence (AI)",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Book (physical);Artificial
+               Intelligence (AI)",
   isbn      =  9780753559031,
   language  = "en"
 }
