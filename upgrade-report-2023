@@ -3459,7 +3459,8 @@
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "Autodesk;Construction 4.0;Notion Catalogued;2\_Upgrade MAY
                2023;Construction 4.0: An Innovation Platform for the Built
-               Environment;AEC Cited Lit for Jacqui;AEC;\_Mark Up;\_Cataloged",
+               Environment;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;\_Mark Up;\_Cataloged",
   doi       = "10.1201/9780429398100",
   isbn      =  9780429398100
 }
@@ -3483,9 +3484,9 @@
   year      =  2020,
   url       = "https://www.taylorfrancis.com/books/edit/10.1201/9780429398100/construction-4-0-anil-sawhney-michael-riley-javier-irizarry",
   keywords  = "2\_Upgrade MAY 2023;Construction 4.0: An Innovation Platform for
-               the Built Environment;AEC Cited Lit for Jacqui;AEC;Cross Ref
-               Chapter;\_In ClickUp;\_In Notion;\_In Readwise;\_Mark Up;\_XR \&
-               MR",
+               the Built Environment;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;Cross Ref Chapter;\_In ClickUp;\_In Notion;\_In
+               Readwise;\_Mark Up;\_XR \& MR",
   doi       = "10.1201/9780429398100",
   isbn      =  9780429398100
 }
