@@ -55,8 +55,9 @@
   year        =  2009,
   url         = "http://dx.doi.org/10.1126/science.1167311",
   keywords    = "Frontiers [2022];XR Reviewed;2\_Upgrade MAY 2023;Journal
-                 Articles;Notion Catalogued;TCOT 2024;Intelligent Tutoring
-                 Systems (ITS);\_XR \& MR;\_Mark Up;DONE;Cited for Frontiers",
+                 Articles;Notion Catalogued;TCOT 2024;\_BibTex to MD
+                 Git;Intelligent Tutoring Systems (ITS);\_XR \& MR;\_Mark
+                 Up;DONE;Cited for Frontiers",
   doi         = "10.1126/science.1167311",
   pmid        =  19119219,
   issn        = "0036-8075,1095-9203",
@@ -168,8 +169,8 @@
   year     =  1918,
   url      = "https://www.proquest.com/historical-newspapers/doing-farm-work-motor-tractor/docview/99984292/se-2?accountid=14511",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
-              2023;General Interest Periodicals–United States;Cited for
-              Frontiers",
+              2023;\_BibTex to MD Git;General Interest Periodicals–United
+              States;Cited for Frontiers",
   language = "English",
   annote   = "<p>Copyright - Copyright New York Times Company Jan 6, 1918; Last
               updated - 2010-05-21</p>"
@@ -237,9 +238,9 @@
   url      = "https://doi.org/10.1177/1548512910365698",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2021];Intelligent
               Tutoring Systems (ITS);Frontiers [2022];2\_Upgrade MAY
-              2023;Journal Articles;Notion Catalogued;Intelligent Tutoring
-              Systems (ITS);Knowledge - Skill Acquisition;Cited for
-              Frontiers;\_Cataloged",
+              2023;Journal Articles;Notion Catalogued;\_BibTex to MD
+              Git;Intelligent Tutoring Systems (ITS);Knowledge - Skill
+              Acquisition;Cited for Frontiers;\_Cataloged",
   doi      = "10.1177/1548512910365698",
   issn     = "1548-5129",
   annote   = "<p>doi: 10.1177/1548512910365698</p>"
@@ -340,8 +341,8 @@
   url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
   keywords  = "Construction 4.0;Marco Casini Construction 4.0;Notion
                Catalogued;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit for
-               Jacqui;\_In Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross
-               Ref Chapter",
+               Jacqui;\_BibTex to MD Git;\_In
+               Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross Ref Chapter",
   doi       = "10.1016/c2019-0-04325-7",
   isbn      =  9780128217979,
   language  = "en",
@@ -442,22 +443,6 @@
   isbn      =  9780691172798
 }
 
-@ARTICLE{Davis2022-wq,
-  title    = "{Expert–Novice}: Discourses on Learning in Education",
-  author   = "Davis, B and Francis, K",
-  journal  = "Discourses on Learning in Education",
-  abstract = "The Expert–Novice literature explores the realization that the
-              main difference between expert and novice performance is
-              principally a matter of knowing differently rather than knowing
-              more. Most commentators attribute differences between an expert’s
-              fluid competencies and a novice’s more tentative abilities to the
-              fact that the expert’s are memory-based (and…",
-  year     =  2022,
-  url      = "https://learningdiscourses.com/discourse/expert-novice/",
-  keywords = "Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_Cataloged",
-  language = "en"
-}
-
 @ARTICLE{Yurkevich2021-mu,
   title    = "America desperately needs 1 million more construction workers",
   author   = "Yurkevich, Vanessa",
@@ -543,7 +528,8 @@
   year         =  2020,
   howpublished = "\url{https://www.froebel.org.uk/training-and-resources/froebels-gifts}",
   note         = "Accessed: 2022-5-12",
-  keywords     = "2\_Upgrade MAY 2023;Knowledge - Skill Acquisition;Education",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Knowledge - Skill
+                  Acquisition;Education",
   language     = "en"
 }
 
@@ -634,7 +620,7 @@
   publisher = "Prentice Hall",
   year      =  1984,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-               MAY 2023"
+               MAY 2023;\_BibTex to MD Git"
 }
 
 @MISC{Historic_Buildings_and_Monuments_Commission_for_England2018-dl,
@@ -814,7 +800,8 @@
   month        =  jun,
   year         =  2019,
   howpublished = "\url{https://www.history.com/news/who-were-the-luddites}",
-  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;Cited for Frontiers"
+  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
+                  for Frontiers"
 }
 
 @MISC{Conniff2011-dm,
@@ -824,7 +811,8 @@
   month        =  mar,
   year         =  2011,
   howpublished = "\url{https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/}",
-  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;Cited for Frontiers"
+  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
+                  for Frontiers"
 }
 
 @MISC{Sorensen2020-jj,
@@ -845,8 +833,8 @@
   year     =  2020,
   url      = "https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;Cited for
-              Frontiers;AEC"
+              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;Cited for Frontiers;AEC"
 }
 
 @ARTICLE{Millard1997-yr,
@@ -1298,8 +1286,8 @@
   year         =  2023,
   howpublished = "\url{https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc}",
   note         = "Accessed: 2023-4-23",
-  keywords     = "2\_Upgrade MAY 2023;Website;Readwise Reader;\_In Notion;\_Mark
-                  Up",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;Readwise
+                  Reader;\_In Notion;\_Mark Up",
   language     = "en"
 }
 
@@ -1352,7 +1340,8 @@
   month    =  "11~" # apr,
   year     =  2018,
   url      = "https://www.bloomberg.com/news/articles/2018-04-11/the-housing-crisis-extends-far-beyond-superstar-cities",
-  keywords = "Notion Catalogued;2\_Upgrade MAY 2023;\_Cataloged",
+  keywords = "Notion Catalogued;2\_Upgrade MAY 2023;\_BibTex to MD
+              Git;\_Cataloged",
   language = "en"
 }
 
@@ -1374,7 +1363,7 @@
   month    =  "11~" # sep,
   year     =  2015,
   url      = "https://www.bbc.co.uk/news/technology-34066941",
-  keywords = "2\_Upgrade MAY 2023;Automation;Website",
+  keywords = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Automation;Website",
   language = "en"
 }
 
@@ -1614,7 +1603,8 @@
   keywords = "Cement and concrete; Historic development; Mechanical response;
               Structural failures; Failure case studies;Construction
               4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-              Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
+              Jacqui;\_BibTex to MD Git;AEC;\_In Notion;\_In Readwise;\_New
+              Literature",
   doi      = "10.1016/j.engfailanal.2014.02.004",
   issn     = "1350-6307"
 }
@@ -1726,7 +1716,8 @@
   year         =  2023,
   howpublished = "\url{https://commonslibrary.parliament.uk/research-briefings/cbp-9428/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;Website"
+  keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Website"
 }
 
 @MISC{Bureau_of_Labor_Statistics_US_Department_of_Labor2022-rh,
@@ -1743,8 +1734,8 @@
   note     = "Title of the publication associated with this dataset: The
               Economics Daily, Consumer prices up 9.1 percent over the year
               ended June 2022, largest increase in 40 years",
-  keywords = "Data Stats Figures;2\_Upgrade MAY 2023;Government
-              Report;Website;Statistics;Report",
+  keywords = "Data Stats Figures;2\_Upgrade MAY 2023;Government Report;\_BibTex
+              to MD Git;Website;Statistics;Report",
   language = "en"
 }
 
@@ -1868,7 +1859,7 @@
   howpublished = "\url{https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth}",
   note         = "Accessed: 2023-2-23",
   keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;Government
-                  Report;Website;Statistics;Labor",
+                  Report;\_BibTex to MD Git;Website;Statistics;Labor",
   language     = "en"
 }
 
@@ -1915,6 +1906,23 @@
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;2\_Upgrade MAY 2023;\_BibTex to MD Git;Workplace
                  Learning"
+}
+
+@ARTICLE{Davis2022-wq,
+  title    = "{Expert–Novice}: Discourses on Learning in Education",
+  author   = "Davis, B and Francis, K",
+  journal  = "Discourses on Learning in Education",
+  abstract = "The Expert–Novice literature explores the realization that the
+              main difference between expert and novice performance is
+              principally a matter of knowing differently rather than knowing
+              more. Most commentators attribute differences between an expert’s
+              fluid competencies and a novice’s more tentative abilities to the
+              fact that the expert’s are memory-based (and…",
+  year     =  2022,
+  url      = "https://learningdiscourses.com/discourse/expert-novice/",
+  keywords = "Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_BibTex to
+              MD Git;\_Cataloged",
+  language = "en"
 }
 
 @TECHREPORT{Davies2018-ai,
@@ -2084,7 +2092,7 @@
   month     =  "1~" # jan,
   year      =  1982,
   url       = "https://doi.org/10.1177/002029408201500104",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git",
   doi       = "10.1177/002029408201500104",
   issn      = "0020-2940"
 }
@@ -2170,8 +2178,8 @@
   month     =  jul,
   year      =  2001,
   url       = "http://doi.wiley.com/10.1207/s15516709cog2504_1",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;Knowledge - Skill
-               Acquisition;Cited for Frontiers",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;Knowledge
+               - Skill Acquisition;Cited for Frontiers",
   doi       = "10.1207/s15516709cog2504\_1",
   issn      = "0364-0213,1551-6709",
   language  = "en"
@@ -2324,8 +2332,8 @@
   url      = "http://dx.doi.org/10.1145/1897239.1897256",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Notion
               Catalogued;ACM\_Association for Computing Machinery;2\_Upgrade MAY
-              2023;Journal Articles;ACM;Knowledge - Skill Acquisition;\_Mark
-              Up;\_Cataloged",
+              2023;Journal Articles;\_BibTex to MD Git;ACM;Knowledge - Skill
+              Acquisition;\_Mark Up;\_Cataloged",
   doi      = "10.1145/1897239.1897256",
   issn     = "1072-5520"
 }
@@ -2636,7 +2644,8 @@
               arithmetic;Programming profession;Zotero Import (Feb 22);My
               Library;Frontiers [2021];Intelligent Tutoring Systems
               (ITS);Frontiers [2022];2\_Upgrade MAY 2023;Journal
-              Articles;Intelligent Tutoring Systems (ITS);Cited for Frontiers",
+              Articles;\_BibTex to MD Git;Intelligent Tutoring Systems
+              (ITS);Cited for Frontiers",
   doi      = "10.1109/TMMS.1970.299942",
   issn     = "2168-2860",
   language = "en"
@@ -2650,7 +2659,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;AEC"
+                 for Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @ARTICLE{Vasilevski2020-bl,
@@ -2985,7 +2994,8 @@
   month     =  "1~" # jan,
   year      =  1997,
   url       = "https://www.sciencedirect.com/science/article/pii/B9780444818621501035",
-  keywords  = "2\_Upgrade MAY 2023;Intelligent Tutoring Systems (ITS)",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Intelligent Tutoring
+               Systems (ITS)",
   doi       = "10.1016/B978-044481862-1.50103-5",
   isbn      =  9780444818621
 }
@@ -3060,8 +3070,8 @@
   month    =  "1~" # dec,
   year     =  1994,
   url      = "https://doi.org/10.1007/BF01099821",
-  keywords = "2\_Upgrade MAY 2023;Journal Articles;Intelligent Tutoring Systems
-              (ITS);Cited for Frontiers",
+  keywords = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;Intelligent Tutoring Systems (ITS);Cited for Frontiers",
   doi      = "10.1007/BF01099821",
   issn     = "0924-1868,1573-1391"
 }
@@ -3351,7 +3361,7 @@
   year     =  2016,
   url      = "https://doi.org/10.1007/s00107-015-0999-5",
   keywords = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-              Jacqui;AEC;Cited for Frontiers;\_In Notion",
+              Jacqui;\_BibTex to MD Git;AEC;Cited for Frontiers;\_In Notion",
   doi      = "10.1007/s00107-015-0999-5",
   issn     = "1436-736X"
 }
@@ -3394,8 +3404,8 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S0959652620335320",
   keywords = "Buildings; Frame; Structures; Design; Carbon; Mass;2\_Upgrade MAY
-              2023;Journal Articles;AEC Cited Lit for Jacqui;AEC;Cited for
-              Frontiers",
+              2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;AEC;Cited for Frontiers",
   doi      = "10.1016/j.jclepro.2020.123487",
   issn     = "0959-6526"
 }
@@ -3444,9 +3454,9 @@
   month     =  "1~" # jan,
   year      =  2005,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai15-2-02",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_In Notion;Knowledge -
-               Skill Acquisition;Intelligent Tutoring Systems (ITS);AIEd;\_Mark
-               Up",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;\_In
+               Notion;Knowledge - Skill Acquisition;Intelligent Tutoring Systems
+               (ITS);AIEd;\_Mark Up",
   issn      = "1560-4292,1560-4306"
 }
 
@@ -3521,8 +3531,8 @@
   volume   =  24,
   pages    = "61--100",
   year     =  1999,
-  keywords = "2\_Upgrade MAY 2023;Journal Articles;Knowledge - Skill
-              Acquisition;\_Mark Up;Cited for Frontiers"
+  keywords = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;Knowledge
+              - Skill Acquisition;\_Mark Up;Cited for Frontiers"
 }
 
 @INCOLLECTION{Collins1987-me,
@@ -3621,7 +3631,8 @@
   url       = "https://doi.org/10.1177/074171369804800205",
   keywords  = "Frontiers import [Aug 11];Zotero Import (Feb 22);My
                Library;2021-12-03 Frontiers;2\_Upgrade MAY 2023;Journal
-               Articles;Research Methods;Knowledge - Skill Acquisition",
+               Articles;\_BibTex to MD Git;Research Methods;Knowledge - Skill
+               Acquisition",
   doi       = "10.1177/074171369804800205",
   issn      = "0741-7136"
 }
@@ -3756,7 +3767,7 @@
   institution = "HM Government",
   month       =  jul,
   year        =  2013,
-  keywords    = "2\_Upgrade MAY 2023;Government Report;Report",
+  keywords    = "2\_Upgrade MAY 2023;Government Report;\_BibTex to MD Git;Report",
   isbn        =  9781409839224
 }
 
@@ -4228,7 +4239,7 @@
   year     =  2019,
   url      = "https://www.ijsr.net/get_abstract.php?paper_id=ART2020213",
   keywords = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-              Lit for Jacqui;\_New Literature;AEC",
+              Lit for Jacqui;\_BibTex to MD Git;\_New Literature;AEC",
   issn     = "2319-7064",
   language = "en"
 }
@@ -4276,7 +4287,7 @@
   year      =  2021,
   url       = "http://dx.doi.org/10.3390/buildings11010017",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-               Lit for Jacqui;\_New Literature;AEC",
+               Lit for Jacqui;\_BibTex to MD Git;\_New Literature;AEC",
   doi       = "10.3390/buildings11010017",
   issn      = "2075-5309",
   language  = "en"
@@ -4713,8 +4724,8 @@
   year      =  2021,
   url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-               Readwise;AEC;Important;\_New Literature",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;Important;\_New Literature",
   doi       = "10.1007/s11831-020-09457-7",
   issn      = "1134-3060,1886-1784",
   language  = "en"
@@ -4748,7 +4759,7 @@
   year        =  2015,
   url         = "https://www.bcg.com/publications/2015/digital-imperative",
   keywords    = "Data Stats Figures;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY
-                 - PWC;Statistics"
+                 - PWC;\_BibTex to MD Git;Statistics"
 }
 
 @BOOK{Klein2007-yo,
@@ -4843,7 +4854,8 @@
   url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
   keywords = "Climate change; Materials science; Policy; Society;
               Technology;Construction 4.0;2\_Upgrade MAY 2023;Journal
-              Articles;AEC Cited Lit for Jacqui;\_In Readwise;AEC",
+              Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+              Readwise;AEC",
   doi      = "10.1038/d41586-021-02612-5",
   pmc      =  4284584,
   pmid     =  34584258,
