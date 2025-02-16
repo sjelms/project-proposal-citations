@@ -731,8 +731,9 @@
   year     =  2017,
   url      = "https://www.sciencedirect.com/science/article/pii/S0040162516302244",
   keywords = "Zotero Import (Feb 22);My Library;EPubs Books;2\_Upgrade MAY
-              2023;Journal Articles;Employment;Occupational choice;Skill
-              demand;Technological change;Wage inequality;ePub;Economics",
+              2023;Journal Articles;\_BibTex to MD Git;Employment;Occupational
+              choice;Skill demand;Technological change;Wage
+              inequality;ePub;Economics",
   doi      = "10.1016/j.techfore.2016.08.019",
   issn     = "0040-1625"
 }
@@ -2194,8 +2195,9 @@
   year        =  2013,
   url         = "https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf",
   keywords    = "Zotero Import (Feb 22);My Library;EPubs Books;2\_Upgrade MAY
-                 2023;Future of Work;Employment;Occupational choice;Skill
-                 demand;Technological change;Wage inequality;Economics",
+                 2023;Future of Work;\_BibTex to MD Git;Employment;Occupational
+                 choice;Skill demand;Technological change;Wage
+                 inequality;Economics",
   doi         = "10.1016/j.techfore.2016.08.019"
 }
 
