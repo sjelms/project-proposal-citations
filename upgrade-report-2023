@@ -342,7 +342,8 @@
   year      =  2019,
   url       = "https://play.google.com/store/books/details?id=T9LxvQEACAAJ",
   keywords  = "EPubs Books;Reviewed on Theory;2\_Upgrade MAY 2023;Rapid
-               Qualitative Research;ePub;Research Methods;Fieldwork Methodology",
+               Qualitative Research;\_BibTex to MD Git;ePub;Research
+               Methods;Fieldwork Methodology",
   isbn      =  9780815393566,
   language  = "en"
 }
