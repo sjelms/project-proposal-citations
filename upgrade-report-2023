@@ -710,7 +710,8 @@
   year        =  2019,
   url         = "https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0",
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
+                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC"
 }
 
 @ARTICLE{Frey2017-ix,
@@ -1516,7 +1517,8 @@
   year      =  2016,
   url       = "https://play.google.com/store/books/details?id=qeq_CwAAQBAJ",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;ePub;\_New Literature",
   isbn      =  9781317044802,
   language  = "en"
 }
@@ -2256,8 +2258,9 @@
   month     =  nov,
   year      =  2008,
   url       = "http://dx.doi.org/10.1109/ictai.2008.151",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Intelligent Tutoring Systems
-               (ITS);\_XR \& MR;\_Mark Up;\_In Notion",
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Intelligent Tutoring Systems (ITS);\_XR \& MR;\_Mark Up;\_In
+               Notion",
   doi       = "10.1109/ictai.2008.151",
   isbn      =  9780769534404
 }
@@ -4688,8 +4691,8 @@
   year      =  2019,
   url       = "https://iopscience.iop.org/article/10.1088/1742-6596/1378/2/022057/meta",
   keywords  = "Construction 4.0;Human Capital;2\_Upgrade MAY 2023;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-               Readwise;AEC;Research Methods;\_New Literature",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;Research Methods;\_New Literature",
   doi       = "10.1088/1742-6596/1378/2/022057",
   issn      = "1742-6588,1742-6596",
   language  = "en"
