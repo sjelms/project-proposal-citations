@@ -151,7 +151,7 @@
   url      = "https://ourworldindata.org/technology-adoption",
   note     = "Title of the publication associated with this dataset: Global
               Change Data Lab",
-  keywords = "Data Stats Figures;2\_Upgrade MAY 2023;Website",
+  keywords = "Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD Git;Website",
   annote   = "https://ourworldindata.org/technology-adoption"
 }
 
@@ -246,51 +246,6 @@
   annote   = "<p>doi: 10.1177/1548512910365698</p>"
 }
 
-@ARTICLE{Mousavinasab2021-eg,
-  title    = "Intelligent tutoring systems: a systematic review of
-              characteristics, applications, and evaluation methods",
-  author   = "Mousavinasab, Elham and Zarifsanaiey, Nahid and Kalhori, Sharareh
-              R Niakan and Rakhshan, Mahnaz and Keikha, Leila and Saeedi, Marjan
-              Ghazi",
-  journal  = "Interactive Learning Environments",
-  volume   =  29,
-  number   =  1,
-  pages    = "142--163",
-  abstract = "With the rapid growth of technology, computer learning has become
-              increasingly integrated with artificial intelligence techniques in
-              order to develop more personalized educational systems. These
-              systems are known as Intelligent Tutoring systems (ITSs). This
-              paper focused on the variant characteristics of ITSs developed
-              across different educational fields. The original studies from
-              2007 to 2017 were extracted from the PubMed, ProQuest, Scopus,
-              Google scholar, Embase, Cochrane, and Web of Science databases.
-              Finally, 53 papers were included in the study based on inclusion
-              criteria. The educational fields in the ITSs were mainly computer
-              sciences (37.73\%). Action-condition rule-based reasoning, data
-              mining, and Bayesian network with 33.96\%, 22.64\%, and 20.75\%
-              frequency respectively, were the most frequent artificial
-              intelligent techniques applied in the ITSs. These techniques
-              enable ITSs to deliver adaptive guidance and instruction, evaluate
-              learners, define and update the learner’s model, and classify or
-              cluster learners. Specifically, the performance of the system,
-              learner’s performance, and experiences were used for evaluation of
-              ITSs. Most ITSs were designed for web user interfaces. Although
-              these systems could facilitate reasoning in the learning process,
-              these systems have rarely been applied in experimental courses
-              including problem-solving, decision-making in physics, chemistry,
-              and clinical fields. Due to the important role of a cell phone in
-              facilitating personalized learning and given the low rate of using
-              mobile-based ITSs, this study has recommended the development and
-              evaluation of mobile-based ITSs.",
-  year     =  2021,
-  url      = "https://doi.org/10.1080/10494820.2018.1558257",
-  keywords = "Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
-              (ITS);Frontiers [2022];EPubs Books;2\_Upgrade MAY 2023;Journal
-              Articles;Intelligent Tutoring Systems (ITS);ePub;\_Mark Up;DONE",
-  doi      = "10.1080/10494820.2018.1558257",
-  annote   = "Mark up via ePub"
-}
-
 @BOOK{Casini2022-yp,
   title     = "Construction 4.0: Advanced Technology, Tools and Materials for
                the Digital Transformation of the Construction Industry",
@@ -347,6 +302,52 @@
   isbn      =  9780128217979,
   language  = "en",
   annote    = "Book Citation: No PDF. See Chapters."
+}
+
+@ARTICLE{Mousavinasab2021-eg,
+  title    = "Intelligent tutoring systems: a systematic review of
+              characteristics, applications, and evaluation methods",
+  author   = "Mousavinasab, Elham and Zarifsanaiey, Nahid and Kalhori, Sharareh
+              R Niakan and Rakhshan, Mahnaz and Keikha, Leila and Saeedi, Marjan
+              Ghazi",
+  journal  = "Interactive Learning Environments",
+  volume   =  29,
+  number   =  1,
+  pages    = "142--163",
+  abstract = "With the rapid growth of technology, computer learning has become
+              increasingly integrated with artificial intelligence techniques in
+              order to develop more personalized educational systems. These
+              systems are known as Intelligent Tutoring systems (ITSs). This
+              paper focused on the variant characteristics of ITSs developed
+              across different educational fields. The original studies from
+              2007 to 2017 were extracted from the PubMed, ProQuest, Scopus,
+              Google scholar, Embase, Cochrane, and Web of Science databases.
+              Finally, 53 papers were included in the study based on inclusion
+              criteria. The educational fields in the ITSs were mainly computer
+              sciences (37.73\%). Action-condition rule-based reasoning, data
+              mining, and Bayesian network with 33.96\%, 22.64\%, and 20.75\%
+              frequency respectively, were the most frequent artificial
+              intelligent techniques applied in the ITSs. These techniques
+              enable ITSs to deliver adaptive guidance and instruction, evaluate
+              learners, define and update the learner’s model, and classify or
+              cluster learners. Specifically, the performance of the system,
+              learner’s performance, and experiences were used for evaluation of
+              ITSs. Most ITSs were designed for web user interfaces. Although
+              these systems could facilitate reasoning in the learning process,
+              these systems have rarely been applied in experimental courses
+              including problem-solving, decision-making in physics, chemistry,
+              and clinical fields. Due to the important role of a cell phone in
+              facilitating personalized learning and given the low rate of using
+              mobile-based ITSs, this study has recommended the development and
+              evaluation of mobile-based ITSs.",
+  year     =  2021,
+  url      = "https://doi.org/10.1080/10494820.2018.1558257",
+  keywords = "Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
+              (ITS);Frontiers [2022];EPubs Books;2\_Upgrade MAY 2023;Journal
+              Articles;\_BibTex to MD Git;Intelligent Tutoring Systems
+              (ITS);ePub;\_Mark Up;DONE",
+  doi      = "10.1080/10494820.2018.1558257",
+  annote   = "Mark up via ePub"
 }
 
 @BOOK{Smith2017-zx,
@@ -540,8 +541,9 @@
   address   = "Harlow, UK",
   edition   = "4th Global ed",
   year      =  2021,
-  keywords  = "AIEd [CCME0123];EPubs Books;2\_Upgrade MAY 2023;ePub;Book
-               (physical);Artificial Intelligence (AI);Course Assignment",
+  keywords  = "AIEd [CCME0123];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;ePub;Book (physical);Artificial Intelligence (AI);Course
+               Assignment",
   isbn      =  9780134610993,
   issn      = "0015-8992"
 }
@@ -573,7 +575,7 @@
   year      =  2019,
   url       = "https://redshift.autodesk.com/history-of-prefabrication/",
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-               MAY 2023;YouTube"
+               MAY 2023;\_BibTex to MD Git;YouTube"
 }
 
 @MISC{Bureau_of_Labor_Statistics2021-ge,
@@ -630,7 +632,7 @@
   year         =  2018,
   howpublished = "\url{https://heritagecalling.com/2018/07/24/5-things-you-didnt-know-about-prefabs/}",
   keywords     = "Zotero Import (Feb 22);My Library;2021-12-03
-                  Frontiers;2\_Upgrade MAY 2023"
+                  Frontiers;2\_Upgrade MAY 2023;\_BibTex to MD Git"
 }
 
 @BOOK{Nonaka2008-ts,
@@ -641,7 +643,8 @@
   series    = "Harvard Business Review Press",
   year      =  2008,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;EPubs
-               Books;2\_Upgrade MAY 2023;ePub;Knowledge - Skill Acquisition"
+               Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;ePub;Knowledge -
+               Skill Acquisition"
 }
 
 @ARTICLE{Goller2018-oz,
@@ -670,7 +673,7 @@
   year     =  2009,
   url      = "http://dx.doi.org/10.1016/j.ssresearch.2009.04.001",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-              MAY 2023;Journal Articles",
+              MAY 2023;Journal Articles;\_BibTex to MD Git",
   doi      = "10.1016/j.ssresearch.2009.04.001",
   issn     = "0049-089X"
 }
@@ -791,7 +794,7 @@
   url         = "https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf",
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;Cited for Frontiers;AEC"
+                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @MISC{Andrews2019-pu,
@@ -896,6 +899,22 @@
                2023;\_BibTex to MD Git;Cited for Frontiers;Labor;Workplace
                Learning;ePub",
   isbn      =  9780807759066
+}
+
+@MISC{Office_for_National_Statistics2019-tr,
+  title        = "Which occupations are at highest risk of being automated?",
+  author       = "{Office for National Statistics}",
+  publisher    = "Office for National Statistics",
+  abstract     = "Potential automation of occupations may have an impact on the
+                  labour market in future. Which jobs are most at risk, and what
+                  do we know about the people who do these jobs?",
+  month        =  "25~" # mar,
+  year         =  2019,
+  howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25}",
+  note         = "Accessed: 2021-5-18",
+  keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Automation;Website;Statistics",
+  language     = "en"
 }
 
 @MISC{Unesco-unevoc2015-ie,
@@ -1379,22 +1398,6 @@
   language     = "en"
 }
 
-@MISC{Office_for_National_Statistics2019-tr,
-  title        = "Which occupations are at highest risk of being automated?",
-  author       = "{Office for National Statistics}",
-  publisher    = "Office for National Statistics",
-  abstract     = "Potential automation of occupations may have an impact on the
-                  labour market in future. Which jobs are most at risk, and what
-                  do we know about the people who do these jobs?",
-  month        =  "25~" # mar,
-  year         =  2019,
-  howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25}",
-  note         = "Accessed: 2021-5-18",
-  keywords     = "Data Stats Figures;2\_Upgrade MAY
-                  2023;Automation;Website;Statistics",
-  language     = "en"
-}
-
 @BOOK{Adepoju2022-bj,
   title     = "Re-skilling Human Resources for Construction 4.0: Implications
                for Industry, Academia and Government",
@@ -1556,8 +1559,8 @@
   year         =  2015,
   howpublished = "\url{https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4}",
   note         = "Accessed: 2023-2-18",
-  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;\_Mark Up;Readwise
-                  Reader;\_In ClickUp",
+  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;\_BibTex to MD Git;\_Mark
+                  Up;Readwise Reader;\_In ClickUp",
   language     = "en"
 }
 
@@ -1572,7 +1575,7 @@
   month     =  "6~" # nov,
   year      =  2019,
   url       = "https://www.youtube.com/watch?v=6-mxc9KBgbo",
-  keywords  = "2\_Upgrade MAY 2023;YouTube"
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;YouTube"
 }
 
 @ARTICLE{Gagg2014-gf,
@@ -1622,7 +1625,8 @@
   month     =  "2~" # feb,
   year      =  2023,
   url       = "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
-  keywords  = "Data Stats Figures;2\_Upgrade MAY 2023;Website;Readwise Reader",
+  keywords  = "Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;Readwise Reader",
   language  = "en"
 }
 
@@ -1654,7 +1658,7 @@
   month     =  "8~" # apr,
   year      =  1991,
   url       = "https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html",
-  keywords  = "2\_Upgrade MAY 2023;Readwise Reader;Website",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Readwise Reader;Website",
   issn      = "0458-3035,2165-1736"
 }
 
@@ -1684,7 +1688,7 @@
   howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
   note         = "Accessed: 2023-2-22",
   keywords     = "Construction 4.0;2\_Upgrade MAY 2023;Government Report;AEC
-                  Cited Lit for Jacqui;AEC;Website;Report",
+                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report",
   language     = "en"
 }
 
@@ -1702,7 +1706,7 @@
   month    =  "16~" # feb,
   year     =  2023,
   url      = "https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/",
-  keywords = "2\_Upgrade MAY 2023;Website",
+  keywords = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website",
   language = "en"
 }
 
@@ -1749,7 +1753,7 @@
   year         =  2023,
   howpublished = "\url{https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "2\_Upgrade MAY 2023;Statistics",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Statistics",
   language     = "en"
 }
 
@@ -1876,7 +1880,7 @@
   howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
   note         = "Accessed: 2023-2-23",
   keywords     = "2\_Upgrade MAY 2023;Data Stats Figures;AEC Cited Lit for
-                  Jacqui;Website;Statistics;AEC",
+                  Jacqui;\_BibTex to MD Git;Website;Statistics;AEC",
   language     = "en"
 }
 
@@ -2037,7 +2041,8 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1038/s41467-022-32244-w",
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-                 Lit for Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
+                 Lit for Jacqui;\_BibTex to MD Git;AEC;\_In Notion;\_In
+                 Readwise;\_New Literature",
   doi         = "10.1038/s41467-022-32244-w",
   pmc         = "PMC9427734",
   pmid        =  36042197,
@@ -2317,7 +2322,8 @@
   year     =  1988,
   url      = "https://doi.org/10.3102/0091732X015001097",
   keywords = "Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
-              2023;Journal Articles;Workplace Learning;Cited for Frontiers",
+              2023;Journal Articles;\_BibTex to MD Git;Workplace Learning;Cited
+              for Frontiers",
   doi      = "10.3102/0091732X015001097"
 }
 
@@ -2359,8 +2365,8 @@
   number      = "ISBN 978-1-944835-18-7",
   year        =  2018,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;Cited for
-                 Frontiers"
+                 Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
+                 Git;Cited for Frontiers"
 }
 
 @ARTICLE{Kambhampati2021-lr,
@@ -2373,7 +2379,8 @@
   year     =  2021,
   url      = "http://dx.doi.org/10.1145/3446369",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-              MAY 2023;Journal Articles;Knowledge - Skill Acquisition",
+              MAY 2023;Journal Articles;\_BibTex to MD Git;Knowledge - Skill
+              Acquisition",
   doi      = "10.1145/3446369",
   issn     = "0001-0782"
 }
@@ -2400,7 +2407,8 @@
   year     =  2016,
   url      = "http://dx.doi.org/10.1016/b978-0-08-100546-0.00017-0",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];2\_Upgrade MAY 2023;Journal Articles;Cited for Frontiers",
+              [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;Cited for Frontiers",
   doi      = "10.1016/b978-0-08-100546-0.00017-0"
 }
 
@@ -2428,8 +2436,8 @@
   year     =  2005,
   url      = "http://dx.doi.org/10.1007/s11251-005-1279-2",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];2\_Upgrade MAY 2023;Journal Articles;Cited for
-              Frontiers;Knowledge - Skill Acquisition",
+              [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;Cited for Frontiers;Knowledge - Skill Acquisition",
   doi      = "10.1007/s11251-005-1279-2"
 }
 
@@ -2534,8 +2542,9 @@
   year      =  2011,
   url       = "https://doi.org/10.1007/978-1-4419-9625-1_12",
   keywords  = "Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
-               (ITS);2\_Upgrade MAY 2023;Notion Catalogued;Intelligent Tutoring
-               Systems (ITS);UCL;Cited for Frontiers;\_Cataloged",
+               (ITS);2\_Upgrade MAY 2023;Notion Catalogued;\_BibTex to MD
+               Git;Intelligent Tutoring Systems (ITS);UCL;Cited for
+               Frontiers;\_Cataloged",
   doi       = "10.1007/978-1-4419-9625-1\_12",
   isbn      =  9781441996251
 }
@@ -2662,6 +2671,28 @@
                  for Jacqui;\_BibTex to MD Git;AEC"
 }
 
+@MISC{Ncasi2021-hz,
+  title        = "Forest Carbon from Young vs. Old Forests",
+  author       = "{NCASI}",
+  booktitle    = "National Council for Air and Stream Improvement",
+  abstract     = "This infographic illustrates how forests of different ages
+                  play different roles in removing carbon from the atmosphere
+                  and storing it in wood. Managing forests to avoid large
+                  emissions from the loss of old trees while rapidly removing
+                  CO2 from the atmosphere through young forest growth can
+                  provide both storage and sequestration benefits. The
+                  infographic also speaks to the role that harvested wood
+                  products play. The data contained in the infographic are
+                  sourced from an array of peer-reviewed publications.",
+  month        =  "22~" # jan,
+  year         =  2021,
+  howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
+  note         = "Accessed: 2023-2-23",
+  keywords     = "Construction 4.0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;AEC
+                  Cited Lit for Jacqui;\_BibTex to MD Git;\_In Readwise;AEC",
+  language     = "en, fr"
+}
+
 @ARTICLE{Vasilevski2020-bl,
   title     = "Analysing construction student experiences of mobile mixed
                reality enhanced learning in virtual and augmented reality
@@ -2771,7 +2802,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;Cited for Frontiers;AEC"
+                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @TECHREPORT{Thompson2021-sk,
@@ -3076,40 +3107,6 @@
   issn     = "0924-1868,1573-1391"
 }
 
-@ARTICLE{Herbert2018-la,
-  title     = "Design considerations for combining augmented reality with
-               intelligent tutors",
-  author    = "Herbert, Bradley and Ens, Barrett and Weerasinghe, Amali and
-               Billinghurst, Mark and Wigley, Grant",
-  journal   = "Computers \& graphics",
-  publisher = "Elsevier",
-  volume    =  77,
-  pages     = "166--182",
-  abstract  = "Augmented Reality overlays virtual objects on the real world in
-               real-time and has the potential to enhance education, however,
-               few AR training systems provide personalised learning support.
-               Combining AR with intelligent tutoring systems has the potential
-               to improve training outcomes by providing personalised learner
-               support, such as feedback on the AR environment. This paper
-               reviews the current state of AR training systems combined with
-               ITSs and proposes a series of requirements for combining the two
-               paradigms. In addition, this paper identifies a growing need to
-               provide more research in the context of design and implementation
-               of adaptive augmented reality tutors (ARATs). These include
-               possibilities of evaluating the user interfaces of ARAT and
-               potential domains where an ARAT might be considered effective.",
-  month     =  "1~" # dec,
-  year      =  2018,
-  url       = "https://www.sciencedirect.com/science/article/pii/S0097849318301523",
-  keywords  = "Intelligent tutoring systems; Computers and learning; Augmented
-               reality; Human computer interaction; Psychomotor learning;
-               Kinaesthetic learning; Experiential learning;Frontiers
-               [2022];2\_Upgrade MAY 2023;Journal Articles;Intelligent Tutoring
-               Systems (ITS);\_XR \& MR;\_Mark Up;Cited for Frontiers",
-  doi       = "10.1016/j.cag.2018.09.017",
-  issn      = "0097-8493"
-}
-
 @INPROCEEDINGS{LaViola2015-bg,
   title     = "Using augmented reality to tutor military tasks in the wild",
   author    = "LaViola, J and Williamson, B and Brooks, Conner and Veazanchin,
@@ -3123,8 +3120,9 @@
                Education …",
   year      =  2015,
   url       = "https://gifttutoring.org/attachments/download/1414/15050.pdf",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Intelligent Tutoring Systems
-               (ITS);\_XR \& MR;\_Mark Up;Cited for Frontiers"
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Intelligent Tutoring Systems (ITS);\_XR \& MR;\_Mark Up;Cited
+               for Frontiers"
 }
 
 @TECHREPORT{Fuller2017-dj,
@@ -3318,8 +3316,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0305440320300066",
   keywords = "Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
               pottery culture (LBK); Water well;2\_Upgrade MAY 2023;Journal
-              Articles;AEC Cited Lit for Jacqui;AEC;Cited for Frontiers;\_In
-              Notion",
+              Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Cited for
+              Frontiers;\_In Notion",
   doi      = "10.1016/j.jas.2020.105082",
   issn     = "0305-4403"
 }
@@ -3435,7 +3433,8 @@
                large. 1 …",
   year      =  2019,
   url       = "https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf",
-  keywords  = "2\_Upgrade MAY 2023;Intelligent Tutoring Systems (ITS);AIEd;UCL",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Intelligent Tutoring
+               Systems (ITS);AIEd;UCL",
   isbn      =  9781794293700
 }
 
@@ -3515,8 +3514,8 @@
   month       =  jan,
   year        =  2016,
   url         = "http://dx.doi.org/10.1111/medu.12893",
-  keywords    = "Healthcare + CME;2\_Upgrade MAY 2023;Journal Articles;Knowledge
-                 - Skill Acquisition;Cited for Frontiers",
+  keywords    = "Healthcare + CME;2\_Upgrade MAY 2023;Journal Articles;\_BibTex
+                 to MD Git;Knowledge - Skill Acquisition;Cited for Frontiers",
   doi         = "10.1111/medu.12893",
   pmid        =  26695471,
   issn        = "0308-0110,1365-2923",
@@ -3754,8 +3753,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full",
   keywords  = "LSU - Louisiana State University;Notion Catalogued;2\_Upgrade MAY
-               2023;Journal Articles;AEC Cited Lit for Jacqui;AEC;Workplace
-               Learning;\_Mark Up;\_Cataloged",
+               2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;Workplace Learning;\_Mark Up;\_Cataloged",
   doi       = "10.3389/fbuil.2021.635978",
   issn      = "2297-3362"
 }
@@ -3796,8 +3795,8 @@
   institution = "Autodesk",
   month       =  "3~" # jun,
   year        =  2020,
-  keywords    = "Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for
-                 Jacqui;AEC;Report"
+  keywords    = "Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC;Report"
 }
 
 @BOOK{Mayer2021-in,
@@ -3832,7 +3831,8 @@
   year      =  2021,
   url       = "https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/C1C0B00FE70DC11AFDC1F9E1782B5B77",
   keywords  = "3rd Edition [2021] \_ Multimedia Learning;Title Pages +
-               TOC;Notion Catalogued;2\_Upgrade MAY 2023;\_Cataloged",
+               TOC;Notion Catalogued;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;\_Cataloged",
   doi       = "10.1017/9781108894333",
   isbn      = "9781108894333,9781108841580"
 }
@@ -3995,9 +3995,9 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1016/j.aei.2011.09.004",
   keywords  = "LSU Supporting Works;Notion Catalogued;2\_Upgrade MAY
-               2023;Journal Articles;AEC Cited Lit for Jacqui;\_XR \&
-               MR;AEC;Knowledge - Skill Acquisition;Workplace Learning;\_Mark
-               Up;\_Cataloged",
+               2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;\_XR \& MR;AEC;Knowledge - Skill Acquisition;Workplace
+               Learning;\_Mark Up;\_Cataloged",
   doi       = "10.1016/j.aei.2011.09.004",
   issn      = "1474-0346,1873-5320",
   language  = "en"
@@ -4117,9 +4117,9 @@
   month     =  mar,
   year      =  2016,
   url       = "http://dx.doi.org/10.1007/s40593-015-0055-y",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;AIEd;\_Mark Up;Intelligent
-               Tutoring Systems (ITS);Knowledge - Skill Acquisition;Cited for
-               Frontiers",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+               Git;AIEd;\_Mark Up;Intelligent Tutoring Systems (ITS);Knowledge -
+               Skill Acquisition;Cited for Frontiers",
   doi       = "10.1007/s40593-015-0055-y",
   issn      = "1560-4292,1560-4306",
   language  = "en"
@@ -4452,8 +4452,8 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1108/14714171211197481",
   keywords  = "Construction 4.0;XR Reviewed;2\_Upgrade MAY 2023;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In Readwise;\_New
-               Literature;AEC",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;\_New Literature;AEC",
   doi       = "10.1108/14714171211197481",
   issn      = "1471-4175,1477-0857",
   language  = "en"
@@ -4471,8 +4471,8 @@
   url       = "http://dx.doi.org/10.1201/9781315147321-11",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Offsite Production and
                Manufacturing for Innovative Construction;AEC Cited Lit for
-               Jacqui;\_New Literature;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter",
+               Jacqui;\_BibTex to MD Git;\_New Literature;\_In Notion;\_In
+               Readwise;AEC;Cross Ref Chapter",
   doi       = "10.1201/9781315147321-11",
   isbn      =  9781315147321
 }
@@ -4539,8 +4539,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;Construction 4.0;2\_Upgrade MAY
-              2023;Journal Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-              Readwise;AEC;\_New Literature;Economics",
+              2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;\_In Notion;\_In Readwise;AEC;\_New Literature;Economics",
   doi      = "10.1016/S2212-5671(15)00171-9",
   issn     = "2212-5671"
 }
@@ -4579,7 +4579,8 @@
   year      =  2021,
   url       = "https://www.mdpi.com/2071-1050/13/5/2683",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-               Lit for Jacqui;\_In Notion;\_In Readwise;AEC;\_New Literature",
+               Lit for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;\_New Literature",
   doi       = "10.3390/su13052683",
   issn      = "1548-7733",
   language  = "en"
@@ -4623,8 +4624,8 @@
   year      =  2013,
   url       = "https://doi.org/10.1080/01446193.2013.828846",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-               Readwise;AEC;\_New Literature;\_In ClickUp",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;\_New Literature;\_In ClickUp",
   doi       = "10.1080/01446193.2013.828846",
   issn      = "0144-6193"
 }
@@ -4652,7 +4653,8 @@
   year      =  2022,
   url       = "https://www.intechopen.com/chapters/78070",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
-               Jacqui;\_In Notion;\_In Readwise;AEC;\_New Literature",
+               Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;AEC;\_New
+               Literature",
   doi       = "10.5772/intechopen.99193"
 }
 
@@ -4785,7 +4787,7 @@
   month     =  "3~" # sep,
   year      =  2007,
   url       = "https://play.google.com/store/books/details?id=vKMgmQEACAAJ",
-  keywords  = "2\_Upgrade MAY 2023",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git",
   isbn      =  9780521859783,
   language  = "en"
 }
@@ -4799,31 +4801,10 @@
   month     =  "15~" # jun,
   year      =  1951,
   url       = "https://play.google.com/store/books/details?id=4lb-vQEACAAJ",
-  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;AEC Cited Lit for Jacqui;AEC",
+  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;AEC",
   isbn      =  9780262110013,
   language  = "en"
-}
-
-@MISC{Ncasi2021-hz,
-  title        = "Forest Carbon from Young vs. Old Forests",
-  author       = "{NCASI}",
-  booktitle    = "National Council for Air and Stream Improvement",
-  abstract     = "This infographic illustrates how forests of different ages
-                  play different roles in removing carbon from the atmosphere
-                  and storing it in wood. Managing forests to avoid large
-                  emissions from the loss of old trees while rapidly removing
-                  CO2 from the atmosphere through young forest growth can
-                  provide both storage and sequestration benefits. The
-                  infographic also speaks to the role that harvested wood
-                  products play. The data contained in the infographic are
-                  sourced from an array of peer-reviewed publications.",
-  month        =  "22~" # jan,
-  year         =  2021,
-  howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
-  note         = "Accessed: 2023-2-23",
-  keywords     = "Construction 4.0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;AEC
-                  Cited Lit for Jacqui;\_In Readwise;AEC",
-  language     = "en, fr"
 }
 
 @MISC{Hawkins2021-th,
@@ -4838,7 +4819,7 @@
   howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
   note         = "Accessed: 2023-2-23",
   keywords     = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
-                  Jacqui;\_In Readwise;AEC",
+                  Jacqui;\_BibTex to MD Git;\_In Readwise;AEC",
   language     = "en"
 }
 
@@ -5281,7 +5262,8 @@
   month     =  "11~" # apr,
   year      =  2016,
   url       = "https://www.un-ilibrary.org/content/journals/15643913/53/3/7",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for Jacqui;AEC",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;AEC",
   doi       = "10.18356/3700d3d7-en",
   issn      = "0251-7329,1564-3913",
   language  = "en"
@@ -5409,7 +5391,8 @@
   year      =  2021,
   url       = "http://dx.doi.org/10.22617/spr200308",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit
-               for Jacqui;AEC;\_In Readwise;\_In Notion;\_Mark Up;\_In ClickUp",
+               for Jacqui;\_BibTex to MD Git;AEC;\_In Readwise;\_In
+               Notion;\_Mark Up;\_In ClickUp",
   doi       = "10.22617/spr200308"
 }
 
@@ -5488,4 +5471,39 @@
   doi       = "10.1108/jmd-05-2015-0073",
   issn      = "0262-1711,1758-7492",
   language  = "en"
+}
+
+@ARTICLE{Herbert2018-la,
+  title     = "Design considerations for combining augmented reality with
+               intelligent tutors",
+  author    = "Herbert, Bradley and Ens, Barrett and Weerasinghe, Amali and
+               Billinghurst, Mark and Wigley, Grant",
+  journal   = "Computers \& graphics",
+  publisher = "Elsevier",
+  volume    =  77,
+  pages     = "166--182",
+  abstract  = "Augmented Reality overlays virtual objects on the real world in
+               real-time and has the potential to enhance education, however,
+               few AR training systems provide personalised learning support.
+               Combining AR with intelligent tutoring systems has the potential
+               to improve training outcomes by providing personalised learner
+               support, such as feedback on the AR environment. This paper
+               reviews the current state of AR training systems combined with
+               ITSs and proposes a series of requirements for combining the two
+               paradigms. In addition, this paper identifies a growing need to
+               provide more research in the context of design and implementation
+               of adaptive augmented reality tutors (ARATs). These include
+               possibilities of evaluating the user interfaces of ARAT and
+               potential domains where an ARAT might be considered effective.",
+  month     =  "1~" # dec,
+  year      =  2018,
+  url       = "https://www.sciencedirect.com/science/article/pii/S0097849318301523",
+  keywords  = "Intelligent tutoring systems; Computers and learning; Augmented
+               reality; Human computer interaction; Psychomotor learning;
+               Kinaesthetic learning; Experiential learning;Frontiers
+               [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+               Git;Intelligent Tutoring Systems (ITS);\_XR \& MR;\_Mark Up;Cited
+               for Frontiers",
+  doi       = "10.1016/j.cag.2018.09.017",
+  issn      = "0097-8493"
 }
