@@ -1972,8 +1972,9 @@
   institution = "UCL Institute of Education",
   year        =  2017,
   url         = "https://dera.ioe.ac.uk/30618/1/Better-Apprenticeships-1-1.pdf",
-  keywords    = "2\_Upgrade MAY 2023;Workplace Learning;Knowledge - Skill
-                 Acquisition;UCL;\_Mark Up;\_In Notion"
+  keywords    = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Workplace
+                 Learning;Knowledge - Skill Acquisition;UCL;\_Mark Up;\_In
+                 Notion"
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -2064,9 +2065,9 @@
   month     =  "12~" # sep,
   year      =  2016,
   url       = "http://dx.doi.org/10.2307/j.ctvbkjztw.4",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Knowledge - Skill
-               Acquisition;UCL;Workplace Learning;\_Mark Up;DONE;Cited for
-               Frontiers",
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Knowledge
+               - Skill Acquisition;UCL;Workplace Learning;\_Mark Up;DONE;Cited
+               for Frontiers",
   doi       = "10.2307/j.ctvbkjztw.4",
   isbn      = "9783847404033,9783847405887"
 }
