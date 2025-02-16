@@ -6,8 +6,8 @@
   address   = "Lancaster",
   year      =  1995,
   keywords  = "diagnosis ; reasoning ; dialogues ; computational mathetics ;
-               instructions;2\_Upgrade MAY 2023;Intelligent Tutoring Systems
-               (ITS);AIEd;Cited for Frontiers",
+               instructions;2\_Upgrade MAY 2023;\_BibTex to MD Git;Intelligent
+               Tutoring Systems (ITS);AIEd;Cited for Frontiers",
   isbn      =  9780954860561,
   annote    = "Unpublished book"
 }
@@ -24,7 +24,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;Deloitte -
-                 McKinsey - EY - PWC;Cited for Frontiers"
+                 McKinsey - EY - PWC;\_BibTex to MD Git;Cited for Frontiers"
 }
 
 @ARTICLE{Dede2009-ro,
@@ -394,7 +394,7 @@
   month     =  "24~" # apr,
   year      =  2018,
   url       = "https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation",
-  keywords  = "2\_Upgrade MAY 2023;Automation;Website",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Automation;Website",
   issn      = "0013-0613,1476-8860",
   language  = "en"
 }
@@ -457,7 +457,8 @@
   month    =  "8~" # jul,
   year     =  2021,
   url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
-  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC",
+  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;AEC",
   language = "en"
 }
 
@@ -561,7 +562,7 @@
   year         =  2019,
   howpublished = "\url{https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/}",
   note         = "Accessed: 2021-5-18",
-  keywords     = "2\_Upgrade MAY 2023;Website",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website",
   language     = "en"
 }
 
@@ -686,7 +687,8 @@
   month       =  dec,
   year        =  2019,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
-                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
+                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for
+                 Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @TECHREPORT{Acg2019-gi,
@@ -825,8 +827,8 @@
   month        =  "27~" # oct,
   year         =  2020,
   howpublished = "\url{https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/}",
-  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;Cited for Frontiers;\_In
-                  Notion"
+  keywords     = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
+                  for Frontiers;\_In Notion"
 }
 
 @TECHREPORT{Barua2020-br,
@@ -975,8 +977,8 @@
                for future learning.",
   year      =  2017,
   url       = "https://doi.org/10.1007/978-981-10-5490-7_12",
-  keywords  = "EPubs Books;2\_Upgrade MAY 2023;ePub;\_XR \& MR;\_Mark Up;Cited
-               for Frontiers",
+  keywords  = "EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;ePub;\_XR \&
+               MR;\_Mark Up;Cited for Frontiers",
   doi       = "10.1007/978-981-10-5490-7\_12",
   isbn      =  9789811054907
 }
@@ -1027,8 +1029,8 @@
   month     =  "5~" # apr,
   year      =  2011,
   url       = "https://play.google.com/store/books/details?id=ID0L0EI79-YC",
-  keywords  = "EPubs Books;2\_Upgrade MAY 2023;ePub;HCI;Cited for Frontiers;\_In
-               Notion",
+  keywords  = "EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;ePub;HCI;Cited
+               for Frontiers;\_In Notion",
   isbn      =  9780123822321,
   language  = "en"
 }
@@ -1043,8 +1045,8 @@
   year         =  2014,
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: --",
-  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC;Cited for
-                  Frontiers;\_In Notion;Training",
+  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;AEC;Cited for Frontiers;\_In Notion;Training",
   language     = "en"
 }
 
@@ -1131,7 +1133,8 @@
   year         =  2022,
   howpublished = "\url{https://www.un.org/en/global-issues/population}",
   note         = "Accessed: 2023-2-25",
-  keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;Website"
+  keywords     = "Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Website"
 }
 
 @INCOLLECTION{Ahmed2016-sy,
@@ -1172,7 +1175,8 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;ePub;\_New Literature",
   isbn      =  9783658394073,
   language  = "en"
 }
@@ -1187,7 +1191,7 @@
   month    =  "2~" # jun,
   year     =  2021,
   url      = "https://time.com/6046368/wood-steel-houses-fires/",
-  keywords = "2\_Upgrade MAY 2023;Website",
+  keywords = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website",
   issn     = "0040-781X",
   language = "en"
 }
@@ -1213,7 +1217,8 @@
   publisher = "Adfo Books",
   year      =  2017,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-               [2022];EPubs Books;2\_Upgrade MAY 2023;Cited for Frontiers;ePub"
+               [2022];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
+               for Frontiers;ePub"
 }
 
 @MISC{Schankula2019-ju,
@@ -1224,7 +1229,8 @@
   address   = "New York, NY",
   month     =  "19~" # apr,
   year      =  2019,
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;YouTube;Cited for Frontiers"
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;YouTube;Cited for Frontiers"
 }
 
 @MISC{Belkin2023-ak,
@@ -1259,35 +1265,6 @@
                Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
   doi       = "10.4324/9781315725529-3",
   isbn      =  9781317534259
-}
-
-@INCOLLECTION{Weber-Lewerenz2022-zr,
-  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
-               Reflections on the Anthropological and Ethical Challenges of {AI}",
-  author    = "Weber-Lewerenz, Bianca Christina",
-  editor    = "Weber-Lewerenz, Bianca Christina",
-  booktitle = "Accents of added value in construction 4.0: Ethical observations
-               in dealing with digitization and AI",
-  publisher = "Springer Fachmedien Wiesbaden",
-  address   = "Wiesbaden",
-  pages     = "439--454",
-  abstract  = "“Sophia, do you believe in God?” No little girl should answer
-               this or other questions about her life here, but this question
-               was aimed at a humanoid robot lady. It was developed by Hanson
-               Robotics in Hong Kong and presented at the United Nations on
-               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
-               her citizenship. When she appears at various trade fairs and
-               exhibitions, she can conduct simple, pre-programmed conversations
-               through artificial intelligence (AI). However, questions such as
-               those about her cultural preferences, beliefs, life, love,
-               freedom, and ultimately death remain unanswered.",
-  year      =  2022,
-  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
-  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;Robots;Technological
-               change;\_New Literature;ePub",
-  doi       = "10.1007/978-3-658-39407-3\_13",
-  isbn      =  9783658394073
 }
 
 @MISC{Associated_Builders_and_Contractors2023-pe,
@@ -1370,7 +1347,8 @@
   journal  = "Bloomberg",
   year     =  2017,
   url      = "https://www.bloomberg.com/graphics/2017-job-risk/",
-  keywords = "2\_Upgrade MAY 2023;Journal Articles;Automation;Website"
+  keywords = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;Automation;Website"
 }
 
 @ARTICLE{BBC_News2015-wl,
@@ -1641,7 +1619,7 @@
   year         =  2018,
   howpublished = "\url{https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange}",
   note         = "Accessed: 2023-2-22",
-  keywords     = "2\_Upgrade MAY 2023;Website",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website",
   language     = "en"
 }
 
@@ -1673,7 +1651,7 @@
   year         =  2022,
   howpublished = "\url{https://unity.com/solutions/digital-twin-definition}",
   note         = "Accessed: 2022-6-23",
-  keywords     = "2\_Upgrade MAY 2023;Game Engine;Website",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Game Engine;Website",
   language     = "en"
 }
 
@@ -1768,7 +1746,8 @@
   year         =  2019,
   howpublished = "\url{https://ww3.rics.org/uk/en/journals/construction-journal/the-role-of-smes-in-the-uk-construction-industry.html}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;Website",
+  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Website",
   language     = "en"
 }
 
@@ -1789,7 +1768,7 @@
   year         =  2021,
   howpublished = "\url{https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/}",
   note         = "Accessed: 2023-2-23",
-  keywords     = "2\_Upgrade MAY 2023;Website;Economics",
+  keywords     = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;Economics",
   language     = "en"
 }
 
@@ -1927,6 +1906,35 @@
   keywords = "Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_BibTex to
               MD Git;\_Cataloged",
   language = "en"
+}
+
+@INCOLLECTION{Weber-Lewerenz2022-zr,
+  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
+               Reflections on the Anthropological and Ethical Challenges of {AI}",
+  author    = "Weber-Lewerenz, Bianca Christina",
+  editor    = "Weber-Lewerenz, Bianca Christina",
+  booktitle = "Accents of added value in construction 4.0: Ethical observations
+               in dealing with digitization and AI",
+  publisher = "Springer Fachmedien Wiesbaden",
+  address   = "Wiesbaden",
+  pages     = "439--454",
+  abstract  = "“Sophia, do you believe in God?” No little girl should answer
+               this or other questions about her life here, but this question
+               was aimed at a humanoid robot lady. It was developed by Hanson
+               Robotics in Hong Kong and presented at the United Nations on
+               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
+               her citizenship. When she appears at various trade fairs and
+               exhibitions, she can conduct simple, pre-programmed conversations
+               through artificial intelligence (AI). However, questions such as
+               those about her cultural preferences, beliefs, life, love,
+               freedom, and ultimately death remain unanswered.",
+  year      =  2022,
+  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
+  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;Robots;Technological change;\_New Literature;ePub",
+  doi       = "10.1007/978-3-658-39407-3\_13",
+  isbn      =  9783658394073
 }
 
 @TECHREPORT{Davies2018-ai,
@@ -2113,8 +2121,9 @@
   series    = "Lecture notes in computer science",
   year      =  2013,
   url       = "http://dx.doi.org/10.1007/978-3-642-39112-5_18",
-  keywords  = "2\_Upgrade MAY 2023;Artificial Intelligence (AI);Intelligent
-               Tutoring Systems (ITS);\_Mark Up;Cited for Frontiers",
+  keywords  = "2\_Upgrade MAY 2023;\_BibTex to MD Git;Artificial Intelligence
+               (AI);Intelligent Tutoring Systems (ITS);\_Mark Up;Cited for
+               Frontiers",
   doi       = "10.1007/978-3-642-39112-5\_18",
   isbn      = "9783642391118,9783642391125",
   issn      = "0302-9743,1611-3349"
@@ -2234,8 +2243,8 @@
                tutoring architecture, have …",
   year      =  2016,
   url       = "https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_XR \&
-               MR;Cited for Frontiers"
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to
+               MD Git;\_XR \& MR;Cited for Frontiers"
 }
 
 @INPROCEEDINGS{Olsen2012-bm,
@@ -2761,8 +2770,8 @@
   year     =  1998,
   url      = "https://telearn.archives-ouvertes.fr/hal-00197346",
   keywords = "research methods;Frontiers [2022];2\_Upgrade MAY 2023;Journal
-              Articles;Notion Catalogued;Intelligent Tutoring Systems
-              (ITS);\_Mark Up;DONE;\_Cataloged",
+              Articles;Notion Catalogued;\_BibTex to MD Git;Intelligent Tutoring
+              Systems (ITS);\_Mark Up;DONE;\_Cataloged",
   language = "en"
 }
 
@@ -2787,8 +2796,8 @@
   url      = "http://dx.doi.org/10.1109/TASE.2016.2523639",
   keywords = "Special issues and sections;Cyber-physical
               systems;Industries;Automation;Real-time systems;Frontiers
-              [2022];2\_Upgrade MAY 2023;Journal Articles;\_Mark Up;Cited for
-              Frontiers",
+              [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;\_Mark Up;Cited for Frontiers",
   doi      = "10.1109/TASE.2016.2523639",
   issn     = "1558-3783"
 }
@@ -2991,7 +3000,7 @@
   year     =  1973,
   url      = "http://dx.doi.org/10.1109/TSMC.1973.4309240",
   keywords = "Obituaries;Carbonell, Jaime R.;Frontiers [2022];2\_Upgrade MAY
-              2023;Journal Articles;Cited for Frontiers",
+              2023;Journal Articles;\_BibTex to MD Git;Cited for Frontiers",
   doi      = "10.1109/TSMC.1973.4309240",
   issn     = "0018-9472,2168-2909"
 }
@@ -3065,8 +3074,8 @@
   month    =  "1~" # jan,
   year     =  2014,
   url      = "https://doi.org/10.1007/s40593-013-0001-9",
-  keywords = "2\_Upgrade MAY 2023;Journal Articles;Intelligent Tutoring Systems
-              (ITS);Cited for Frontiers",
+  keywords = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
+              Git;Intelligent Tutoring Systems (ITS);Cited for Frontiers",
   doi      = "10.1007/s40593-013-0001-9",
   issn     = "1560-4306"
 }
@@ -3211,8 +3220,9 @@
   month     =  "1~" # dec,
   year      =  1996,
   url       = "https://doi.org/10.1080/0046760960250401",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;Knowledge - Skill
-               Acquisition;Workplace Learning;\_In Notion;Cited for Frontiers",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;Knowledge
+               - Skill Acquisition;Workplace Learning;\_In Notion;Cited for
+               Frontiers",
   doi       = "10.1080/0046760960250401",
   issn      = "0046-760X"
 }
@@ -3667,7 +3677,8 @@
   url       = "https://www.degruyter.com/document/doi/10.1515/JSSI-2015-0264/html",
   keywords  = "tacit knowledge; knowledge sharing; trust; self-efficacy; IT
                support;Notion Catalogued;2\_Upgrade MAY 2023;Journal
-               Articles;Knowledge - Skill Acquisition;\_Cataloged",
+               Articles;\_BibTex to MD Git;Knowledge - Skill
+               Acquisition;\_Cataloged",
   doi       = "10.1515/JSSI-2015-0264",
   issn      = "1708-296X,2512-6660",
   language  = "en"
@@ -3775,8 +3786,9 @@
               environment professionals: A South African perspective",
   author   = "Yeni-Letsoko, Vuyiswa and Pillay, Nischolan",
   year     =  2019,
-  keywords = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_In
-              Notion;\_In Readwise;AEC;Labor;Skill demand"
+  keywords = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
+              Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+              Readwise;AEC;Labor;Skill demand"
 }
 
 @TECHREPORT{Pothier2019-fn,
@@ -4327,7 +4339,8 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Grounded Theory;Journal
-               Articles;VET;AEC Cited Lit for Jacqui;\_New Literature;AEC;VET",
+               Articles;VET;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_New
+               Literature;AEC;VET",
   doi       = "10.31580/jei.v7i2.1438",
   issn      = "2313-335X,2708-8448"
 }
@@ -4743,8 +4756,9 @@
   institution = "Roland Berger GmbH",
   year        =  2016,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Deloitte -
-                 McKinsey - EY - PWC;AEC Cited Lit for Jacqui;\_In Notion;\_In
-                 Readwise;AEC;Essential;\_New Literature;\_In ClickUp"
+                 McKinsey - EY - PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;\_In Notion;\_In Readwise;AEC;Essential;\_New
+                 Literature;\_In ClickUp"
 }
 
 @TECHREPORT{Dreischmeier2015-di,
@@ -5234,8 +5248,8 @@
   month     =  "1~" # jan,
   year      =  2006,
   url       = "https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai16-3-02",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;Intelligent
-               Tutoring Systems (ITS);Cited for Frontiers",
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex to
+               MD Git;Intelligent Tutoring Systems (ITS);Cited for Frontiers",
   issn      = "1560-4292,1560-4306"
 }
 
@@ -5412,8 +5426,8 @@
   month       =  "2~" # jun,
   year        =  2018,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
-                 PWC;AEC Cited Lit for Jacqui;AEC;\_In Notion;\_In
-                 Readwise;\_New Literature"
+                 PWC;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_In
+                 Notion;\_In Readwise;\_New Literature"
 }
 
 @ARTICLE{Detsimas2016-jx,
