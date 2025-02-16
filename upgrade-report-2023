@@ -1060,7 +1060,7 @@
   year      =  2014,
   url       = "https://play.google.com/store/books/details?id=y0ooAwAAQBAJ",
   keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;EPubs
-               Books;Research Methods;ePub",
+               Books;\_BibTex to MD Git;Research Methods;ePub",
   isbn      =  9781446293492,
   language  = "en"
 }
@@ -2061,7 +2061,8 @@
   url       = "https://methods.sagepub.com/book/handbook-of-interview-research",
   keywords  = "interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Theory and
-               Methods;2\_Upgrade MAY 2023;Grounded Theory;Research Methods",
+               Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex to MD
+               Git;Research Methods",
   doi       = "10.4135/9781412973588",
   isbn      =  9781412973588,
   language  = "en"
@@ -4865,8 +4866,8 @@
   year     =  2005,
   url      = "https://psycnet.apa.org/fulltext/2005-07735-020.pdf",
   keywords = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;Journal
-              Articles;Research Methods;\_In Notion;\_In Readwise;\_New
-              Literature"
+              Articles;\_BibTex to MD Git;Research Methods;\_In Notion;\_In
+              Readwise;\_New Literature"
 }
 
 @INCOLLECTION{Charmaz2001-wf,
@@ -4879,8 +4880,8 @@
   pages     = "160--174",
   year      =  2001,
   url       = "https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml",
-  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;Research
-               Methods",
+  keywords  = "Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex
+               to MD Git;Research Methods",
   doi       = "10.4135/9781848608337.n11",
   isbn      = "9780761958246,9781848608337"
 }
