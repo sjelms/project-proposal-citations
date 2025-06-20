@@ -208,7 +208,8 @@
   url       = "https://www.jstor.org/stable/j.ctvc77cz1",
   keywords  = "Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;EPubs Books;Supplement Feedback Document;\_BibTex to MD
-               Git;Cited for Frontiers;Book (physical);Audiobook;Economics;ePub",
+               Git;Audible;Cited for Frontiers;Book
+               (physical);Audiobook;Economics;ePub",
   doi       = "10.2307/j.ctvc77cz1",
   isbn      =  9780691172798
 }
@@ -1381,7 +1382,7 @@
   year      =  2019,
   url       = "https://books.google.co.uk/books?id=M1eFDwAAQBAJ",
   keywords  = "EPubs Books;Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT
-               2023;\_BibTex to MD Git;ePub;Book (physical);Audiobook",
+               2023;\_BibTex to MD Git;Audible;ePub;Book (physical);Audiobook",
   lccn      =  2019029689,
   isbn      =  9780525558620
 }
@@ -1423,8 +1424,8 @@
   month     =  "20~" # jan,
   year      =  2014,
   keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;EPubs Books;3\_Upgrade OCT
-               2023;Future of Work;\_BibTex to MD Git;Book (physical);Cited for
-               Frontiers;Audiobook;ePub;Economics",
+               2023;Future of Work;\_BibTex to MD Git;Audible;Book
+               (physical);Cited for Frontiers;Audiobook;ePub;Economics",
   isbn      =  9780393239355,
   language  = "en"
 }
@@ -2876,8 +2877,8 @@
   publisher = "Adfo Books",
   year      =  2017,
   keywords  = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-               [2022];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
-               for Frontiers;ePub;Audiobook"
+               [2022];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Audible;Cited for Frontiers;ePub;Audiobook"
 }
 
 @TECHREPORT{Pothier2019-fn,
