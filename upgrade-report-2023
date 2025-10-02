@@ -4444,21 +4444,6 @@
   language  = "en"
 }
 
-@MISC{HUD-User2022-ip,
-  title        = "Operation breakthrough: Striving through struggles for success
-                  by teaming",
-  author       = "{HUD User}",
-  booktitle    = "United States Department of Housing and Urban Development's
-                  Office of Policy Development and Research",
-  month        =  "3~" # jun,
-  year         =  2022,
-  howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
-  note         = "Accessed: 2023-2-22",
-  keywords     = "Construction 4-0;2\_Upgrade MAY 2023;Government Report;AEC
-                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report",
-  language     = "en"
-}
-
 @ARTICLE{Rothstein2023-um,
   title    = "Housing Market Predictions For 2023: When Will Home Prices Become
               Affordable?",
@@ -5551,4 +5536,29 @@
   keywords    = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
                  Notion;\_Mark Up;Cited for Frontiers"
+}
+
+@MISC{HUD-User2022-ip,
+  title        = "Operation Breakthrough: Striving through struggles for success
+                  by teaming",
+  author       = "{HUD User}",
+  booktitle    = "United States Department of Housing and Urban Development's
+                  Office of Policy Development and Research",
+  publisher    = "US Department of Housing and Urban Development",
+  abstract     = "Operation Breakthrough was a 3-phase HUD demonstration that
+                  tested innovative building materials and methods. Operating
+                  from May 1969 to the mid-1970s, Operation Breakthrough was
+                  designed to identify and demonstrate solutions to obstacles
+                  preventing large-scale housing production in the nation, with
+                  the goal of volume production of quality housing for all
+                  income groups. The demonstration sought housing system
+                  improvements, while at the same time providing improved
+                  environmental quality and low-cost maintenance.",
+  month        =  "3~" # jun,
+  year         =  2022,
+  howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
+  note         = "Accessed: 2023-2-22",
+  keywords     = "Construction 4-0;2\_Upgrade MAY 2023;Government Report;AEC
+                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report",
+  language     = "en"
 }
