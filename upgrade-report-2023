@@ -1112,9 +1112,10 @@
 }
 
 @INBOOK{Bruner2006-bj,
-  title     = {The Act of Discovery},
+  title     = {The Act of Discovery (1961)},
   author    = {Bruner, Jerome S},
-  booktitle = {In Search of Pedagogy Volume I},
+  booktitle = {In Search of Pedagogy, Volume I: The Selected Works of Jerome
+               Bruner, 1957-1978},
   publisher = {Routledge},
   pages     = {67--76},
   date      = {2006},
