@@ -2616,7 +2616,7 @@
                   training research, from which gaps and best practices can be
                   identified and implemented to improve construction industry
                   training.},
-  url          = {https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full},
+  url          = {http://dx.doi.org/10.3389/fbuil.2021.635978},
   keywords     = {LSU - Louisiana State University;Notion Catalogued;2\_Upgrade
                   MAY 2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to
                   MD Git;llm-wiki-workflow;AEC;Workplace Learning;\_Mark
@@ -2728,7 +2728,7 @@
   url          = {https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube},
   urldate      = {2023-04-19},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website;Readwise Reader},
+                  Git;Website;Reader\_Obsidian},
   language     = {en}
 }
 
@@ -2810,7 +2810,7 @@
   url       = {https://www.wsj.com/articles/americans-are-losing-faith-in-college-education-wsj-norc-poll-finds-3a836ce1},
   urldate   = {2023-05-01},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;Statistics;Website;Readwise Reader}
+               Git;Statistics;Website;Reader\_Obsidian}
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -3053,8 +3053,8 @@
                proprietary model developed by Associated Builders and},
   url       = {https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc},
   urldate   = {2023-04-23},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;Readwise
-               Reader;\_In Notion;\_Mark Up},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;Reader\_Obsidian;\_In Notion;\_Mark Up},
   language  = {en}
 }
 
@@ -3734,8 +3734,8 @@
   url       = {https://www.wbdg.org/resources/site-and-modular-construction-explained},
   urldate   = {2023-02-08},
   keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;\_Cataloged;AEC;Readwise
-               Reader;Website},
+               Lit for Jacqui;\_BibTex to MD
+               Git;\_Cataloged;AEC;Reader\_Obsidian;Website},
   language  = {en}
 }
 
@@ -3956,7 +3956,7 @@
   url       = {https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4},
   urldate   = {2023-02-18},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;\_BibTex to MD Git;\_Mark
-               Up;Readwise Reader;\_In ClickUp},
+               Up;Reader\_Obsidian;\_In ClickUp},
   language  = {en}
 }
 
@@ -4171,7 +4171,7 @@
   url          = {https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/},
   urldate      = {2023-02-22},
   keywords     = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
-                  Git;Website;Readwise Reader},
+                  Git;Website;Reader\_Obsidian},
   language     = {en}
 }
 
@@ -4203,7 +4203,8 @@
                   this small farming town 15 miles west of Fresno.},
   url          = {https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html},
   urldate      = {2023-02-22},
-  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Readwise Reader;Website}
+  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Reader\_Obsidian;Website}
 }
 
 @BOOK{Klein2007-yo,
@@ -5664,6 +5665,6 @@
                fact that the expert’s are memory-based (and…},
   url       = {https://learningdiscourses.com/discourse/expert-novice/},
   keywords  = {Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_BibTex
-               to MD Git;003\_Theoretical Framework;\_Cataloged;Readwise Reader},
+               to MD Git;003\_Theoretical Framework;\_Cataloged;Reader\_Obsidian},
   language  = {en}
 }
