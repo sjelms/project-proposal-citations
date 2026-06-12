@@ -3608,6 +3608,7 @@
   booktitle = {Offsite Production and Manufacturing for Innovative Construction},
   publisher = {Routledge},
   location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  edition   = {1},
   pages     = {257--284},
   date      = {2019-06-19},
   doi       = {10.1201/9781315147321-11},
@@ -3616,7 +3617,8 @@
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;Offsite Production and
                Manufacturing for Innovative Construction;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_New Literature;\_In
-               Notion;\_In Readwise;AEC;Cross Ref Chapter;Essential;Book (child)}
+               Notion;\_In Readwise;AEC;Cross Ref Chapter;Essential;Book (child)},
+  language  = {en}
 }
 
 @ARTICLE{King_Chun2012-rk,
