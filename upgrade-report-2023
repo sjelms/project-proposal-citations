@@ -10,7 +10,7 @@
   note      = {Unpublished book},
   keywords  = {diagnosis ; reasoning ; dialogues ; computational mathetics ;
                instructions;2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Intelligent Tutoring Systems
+               Git;llm-wiki-workflow;Marx\_Labor;Intelligent Tutoring Systems
                (ITS);AIEd;Cited for Frontiers}
 }
 
@@ -2457,7 +2457,8 @@
   url       = {http://dx.doi.org/10.3102/0091732X015001097},
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;Journal Articles;\_BibTex to MD
-               Git;llm-wiki-workflow;Workplace Learning;Cited for Frontiers}
+               Git;llm-wiki-workflow;Marx\_Labor;Workplace Learning;Cited for
+               Frontiers}
 }
 
 @ARTICLE{Dubberly2011-yu,
@@ -4845,8 +4846,9 @@
                   rights reserved)},
   url          = {https://psycnet.apa.org/fulltext/2005-07735-020.pdf},
   keywords     = {Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;Journal
-                  Articles;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;\_In Notion;\_In Readwise;\_New Literature}
+                  Articles;\_BibTex to MD
+                  Git;llm-wiki-workflow;Marx\_Labor;Research Methods;\_In
+                  Notion;\_In Readwise;\_New Literature}
 }
 
 @BOOK{Kumar2019-dp,
@@ -5333,7 +5335,7 @@
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
                2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace Learning}
 }
 
 @REPORT{Wilson2019-ho,
