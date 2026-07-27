@@ -33,8 +33,8 @@
   keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;00\_TO
                READ;Offsite Architecture: Constructing the Future;EPubs
                Books;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;NBLM;AEC;ePub;Essential;Important;\_Mark Up;\_Cataloged;\_In
-               ClickUp;Book (parent);RNIB},
+               Git;Offsite\_NBLM;AEC;ePub;Essential;Important;\_Mark
+               Up;\_Cataloged;\_In ClickUp;Book (parent);RNIB},
   language  = {en}
 }
 
@@ -432,7 +432,7 @@
                  2023;2\_Upgrade MAY 2023;00\_TO READ;Government
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                  MD Git;EPubs Books;BSSC Seed Fund for AI
-                 Research;llm-wiki-workflow;NBLM;AEC;Important;\_Mark
+                 Research;llm-wiki-workflow;Offsite\_NBLM;AEC;Important;\_Mark
                  Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training}
 }
 
@@ -2193,7 +2193,7 @@
   url          = {https://doi.org/10.1080/17452007.2017.1314858},
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_In Notion;\_In
+                  Git;llm-wiki-workflow;Offsite\_NBLM;\_In Notion;\_In
                   Readwise;AEC;Important;\_New Literature}
 }
 
@@ -5334,7 +5334,7 @@
                both historical and theoretical scholarship and design research.},
   url       = {https://play.google.com/store/books/details?id=qeq_CwAAQBAJ},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_BibTex to MD Git;NBLM;\_In Notion;\_In
+               for Jacqui;\_BibTex to MD Git;Offsite\_NBLM;\_In Notion;\_In
                Readwise;AEC;ePub;\_New Literature;RNIB},
   language  = {en}
 }
@@ -5381,7 +5381,7 @@
   url       = {https://link.springer.com/book/10.1007/978-3-030-85973-2},
   keywords  = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;NBLM;AEC;ePub;\_Mark
+               Lit for Jacqui;\_BibTex to MD Git;Offsite\_NBLM;AEC;ePub;\_Mark
                Up;\_Cataloged;Book (parent);RNIB},
   language  = {en}
 }
