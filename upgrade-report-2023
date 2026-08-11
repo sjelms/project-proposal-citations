@@ -1,17 +1,3 @@
-@MISC{The_Data_Team2018-ue,
-  title        = {A study finds nearly half of jobs are vulnerable to automation},
-  author       = {{The Data Team}},
-  journaltitle = {Economist (London, England: 1843)},
-  publisher    = {The Economist},
-  date         = {2018-04-24},
-  issn         = {0013-0613,1476-8860},
-  abstract     = {That could free people to pursue more interesting careers},
-  url          = {https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation},
-  urldate      = {2023-02-21},
-  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Automation;Website},
-  language     = {en}
-}
-
 @REPORT{Davies2018-ai,
   type        = {techreport},
   title       = {Modern Methods of Construction: A Forward-Thinking Solution to
@@ -22,7 +8,7 @@
   pagetotal   = {62},
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD
-                 Git;llm-wiki-workflow;AEC;\_New Literature}
+                 Git;llm-wiki-workflow;AEC;\_New Literature;git-lit}
 }
 
 @REPORT{Cameron2020-wn,
@@ -43,7 +29,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In
-                 Readwise;AEC;Report;\_New Literature}
+                 Readwise;AEC;Report;\_New Literature;git-lit}
 }
 
 @REPORT{Smith2023-fp,
@@ -76,7 +62,8 @@
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                  MD Git;EPubs Books;BSSC Seed Fund for AI
                  Research;llm-wiki-workflow;Offsite\_NBLM;AEC;Important;\_Mark
-                 Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training}
+                 Up;Essential;\_Cataloged;\_In
+                 ClickUp;Report;ePub;Training;git-lit}
 }
 
 @BOOK{Frey2019-yf,
@@ -123,7 +110,7 @@
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;EPubs Books;Supplement Feedback Document;\_BibTex to MD
                Git;Audible;Cited for Frontiers;Book
-               (physical);Audiobook;Economics;ePub}
+               (physical);Audiobook;Economics;ePub;git-lit}
 }
 
 @INBOOK{Charmaz2001-np,
@@ -158,7 +145,7 @@
   keywords  = {interviews; surveys; telephone interviewing; telephone
                interviewing; knowledge; knowledge; surveying;Theory and
                Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex to MD
-               Git;llm-wiki-workflow;Research Methods;QDA},
+               Git;llm-wiki-workflow;Research Methods;QDA;git-lit},
   language  = {en}
 }
 
@@ -175,7 +162,7 @@
   issn         = {0020-2940},
   url          = {http://journals.sagepub.com/doi/10.1177/002029408201500104},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
-                  Git;llm-wiki-workflow}
+                  Git;llm-wiki-workflow;git-lit}
 }
 
 @BOOK{Lambert2019-qv,
@@ -209,7 +196,7 @@
   url       = {https://play.google.com/store/books/details?id=T9LxvQEACAAJ},
   keywords  = {EPubs Books;Reviewed on Theory;2\_Upgrade MAY 2023;Rapid
                Qualitative Research;\_BibTex to MD Git;ePub;Research
-               Methods;Fieldwork Methodology},
+               Methods;Fieldwork Methodology;git-lit},
   language  = {en}
 }
 
@@ -226,7 +213,7 @@
   keywords  = {diagnosis ; reasoning ; dialogues ; computational mathetics ;
                instructions;2\_Upgrade MAY 2023;\_BibTex to MD
                Git;llm-wiki-workflow;Marx\_Labor;Intelligent Tutoring Systems
-               (ITS);AIEd;Cited for Frontiers}
+               (ITS);AIEd;Cited for Frontiers;git-lit}
 }
 
 @ARTICLE{Chi2001-nu,
@@ -265,7 +252,7 @@
   url          = {http://doi.wiley.com/10.1207/s15516709cog2504_1},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;BSSC
                   Seed Fund for AI Research;llm-wiki-workflow;Knowledge - Skill
-                  Acquisition;Cited for Frontiers},
+                  Acquisition;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -281,7 +268,7 @@
   isbn      = {9780134610993},
   keywords  = {AIEd [CCME0123];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD
                Git;BSSC Seed Fund for AI Research;ePub;Book
-               (physical);Artificial Intelligence (AI);Course Assignment}
+               (physical);Artificial Intelligence (AI);Course Assignment;git-lit}
 }
 
 @ONLINE{Froebel_Trust2020-yl,
@@ -292,7 +279,7 @@
   url       = {https://www.froebel.org.uk/training-and-resources/froebels-gifts},
   urldate   = {2022-05-12},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Knowledge - Skill
-               Acquisition;Education},
+               Acquisition;Education;git-lit},
   language  = {en}
 }
 
@@ -307,7 +294,7 @@
                construction for centuries? Learn the history of prefabrication.},
   url       = {https://www.autodesk.com/design-make/articles/history-of-prefabrication},
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-               MAY 2023;\_BibTex to MD Git;YouTube;AEC},
+               MAY 2023;\_BibTex to MD Git;YouTube;AEC;git-lit},
   origdate  = {2019-02-26}
 }
 
@@ -334,7 +321,7 @@
                   2023;Future of Work;\_BibTex to MD
                   Git;llm-wiki-workflow;Braverman;Employment;Occupational
                   choice;Skill demand;Technological change;Wage
-                  inequality;Economics}
+                  inequality;Economics;git-lit}
 }
 
 @ONLINE{Willcocks2019-aw,
@@ -349,7 +336,7 @@
                studies are, in fac…},
   url       = {https://blogs.lse.ac.uk/businessreview/2019/09/23/hidden-in-plain-sight-the-ghost-in-the-automation-and-future-of-work-debate-1/},
   urldate   = {2021-05-18},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;git-lit},
   language  = {en}
 }
 
@@ -373,7 +360,8 @@
                   architecture, have …},
   url          = {https://www.researchgate.net/profile/Robert-Sottilare/publication/305395683_CHAPTER_16_-_A_Process_for_Adaptive_Instruction_of_Tasks_in_the_Psychomotor_Domain/links/578ce3b108ae254b1de865ab/CHAPTER-16-A-Process-for-Adaptive-Instruction-of-Tasks-in-the-Psychomotor-Domain.pdf},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex
-                  to MD Git;llm-wiki-workflow;\_XR MR VR AR;Cited for Frontiers}
+                  to MD Git;llm-wiki-workflow;\_XR MR VR AR;Cited for
+                  Frontiers;git-lit}
 }
 
 @DATASET{Bureau_of_Labor_Statistics2021-ge,
@@ -387,7 +375,7 @@
   keywords      = {Zotero Import (Feb 22);My Library;2021-12-03
                    Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                    2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                   MD Git;Cited for Frontiers;AEC;Statistics},
+                   MD Git;Cited for Frontiers;AEC;Statistics;git-lit},
   origpublisher = {Bureau of Labor Statistics}
 }
 
@@ -414,7 +402,7 @@
   keywords    = {Frontiers [2022];Notion Catalogued;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for
                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Labor;\_Mark
-                 Up;DONE;\_Cataloged}
+                 Up;DONE;\_Cataloged;git-lit}
 }
 
 @ONLINE{Highfield2019-cp,
@@ -435,7 +423,7 @@
   url       = {https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php},
   urldate   = {2022-04-21},
   keywords  = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;\_XR MR VR AR;Website},
+               Git;AEC;\_XR MR VR AR;Website;git-lit},
   language  = {en}
 }
 
@@ -457,7 +445,7 @@
   url        = {http://dx.doi.org/10.1109/ictai.2008.151},
   keywords   = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
                 Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);\_XR MR
-                VR AR;\_Mark Up;\_In Notion}
+                VR AR;\_Mark Up;\_In Notion;git-lit}
 }
 
 @ARTICLE{Shanbari2019-ig,
@@ -492,7 +480,7 @@
   keywords     = {My Library;Game Engine;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC;Workplace Learning;\_Mark Up;\_In
-                  Notion;Cited for Frontiers;\_XR MR VR AR}
+                  Notion;Cited for Frontiers;\_XR MR VR AR;git-lit}
 }
 
 @ARTICLE{Shanbari2016-ch,
@@ -537,7 +525,7 @@
   keywords     = {Game Engine \_ AR-VR;Frontiers [2022];2\_Upgrade MAY
                   2023;Journal Articles;AEC Cited Lit for Jacqui;TCOT
                   2024;\_BibTex to MD Git;llm-wiki-workflow;AEC;\_XR MR VR
-                  AR;\_Mark Up;\_In Notion}
+                  AR;\_Mark Up;\_In Notion;git-lit}
 }
 
 @INBOOK{Rebolledo-Mendez2011-mg,
@@ -570,7 +558,8 @@
   keywords  = {Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
                (ITS);2\_Upgrade MAY 2023;Notion Catalogued;\_BibTex to MD
                Git;BSSC Seed Fund for AI Research;llm-wiki-workflow;Intelligent
-               Tutoring Systems (ITS);UCL;Cited for Frontiers;\_Cataloged}
+               Tutoring Systems (ITS);UCL;Cited for
+               Frontiers;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Puntambekar2021-pm,
@@ -604,7 +593,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;\_Mark Up;Knowledge - Skill
-                  Acquisition;Cited for Frontiers}
+                  Acquisition;Cited for Frontiers;git-lit}
 }
 
 @ARTICLE{Luckin2008-bd,
@@ -637,7 +626,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Cited for Frontiers;Intelligent Tutoring
-                  Systems (ITS);Knowledge - Skill Acquisition;UCL}
+                  Systems (ITS);Knowledge - Skill Acquisition;UCL;git-lit}
 }
 
 @ARTICLE{Bruner1961-ca,
@@ -661,7 +650,8 @@
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;\_BibTex to MD Git;BSSC Seed Fund for AI
                   Research;llm-wiki-workflow;003\_Theoretical Framework;Journal
-                  Articles;Cited for Frontiers;Knowledge - Skill Acquisition},
+                  Articles;Cited for Frontiers;Knowledge - Skill
+                  Acquisition;git-lit},
   language     = {eng}
 }
 
@@ -678,7 +668,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;Intelligent Tutoring Systems
                   (ITS);Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Intelligent
-                  Tutoring Systems (ITS);Cited for Frontiers}
+                  Tutoring Systems (ITS);Cited for Frontiers;git-lit}
 }
 
 @MISC{Blodgett1918-km,
@@ -700,7 +690,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade
                   MAY 2023;\_BibTex to MD
                   Git;General-Interest-Periodicals-United-States;Cited for
-                  Frontiers},
+                  Frontiers;git-lit},
   language     = {English}
 }
 
@@ -719,7 +709,7 @@
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;Journal Articles;\_BibTex to MD
                Git;llm-wiki-workflow;Marx\_Labor;Workplace Learning;Cited for
-               Frontiers}
+               Frontiers;git-lit}
 }
 
 @ARTICLE{Frey2017-ix,
@@ -745,7 +735,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;EPubs Books;2\_Upgrade MAY
                   2023;Journal Articles;\_BibTex to MD Git;Technology
                   Trap;Employment;Occupational choice;Skill demand;Technological
-                  change;Wage inequality;ePub;Economics}
+                  change;Wage inequality;ePub;Economics;git-lit}
 }
 
 @ARTICLE{Dubberly2011-yu,
@@ -763,7 +753,7 @@
                   Catalogued;ACM\_Association for Computing Machinery;2\_Upgrade
                   MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;ACM;Knowledge - Skill Acquisition;\_Mark
-                  Up;\_Cataloged}
+                  Up;\_Cataloged;git-lit}
 }
 
 @REPORT{Bryer2021-cn,
@@ -777,7 +767,7 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;llm-wiki-workflow;Cited for Frontiers;AEC}
+                 MD Git;llm-wiki-workflow;Cited for Frontiers;AEC;git-lit}
 }
 
 @ONLINE{Historic_Buildings_and_Monuments_Commission_for_England2018-dl,
@@ -786,7 +776,7 @@
   date     = {2018-07},
   url      = {https://heritagecalling.com/2018/07/24/5-things-you-didnt-know-about-prefabs/},
   keywords = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-              MAY 2023;\_BibTex to MD Git}
+              MAY 2023;\_BibTex to MD Git;git-lit}
 }
 
 @BOOK{Nonaka2008-ts,
@@ -808,7 +798,7 @@
   url       = {https://hbr.org/2007/07/the-knowledge-creating-company},
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;EPubs
                Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;003\_Theoretical
-               Framework;ePub;Knowledge - Skill Acquisition}
+               Framework;ePub;Knowledge - Skill Acquisition;git-lit}
 }
 
 @REPORT{Zahidi2020-lt,
@@ -824,7 +814,7 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;Deloitte -
                  McKinsey - EY - PWC;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers}
+                 for Frontiers;git-lit}
 }
 
 @REPORT{Leopold2018-cc,
@@ -842,7 +832,7 @@
                  the New Economy and Society; Member of the Managing Board)},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
-                 Git;llm-wiki-workflow;Cited for Frontiers}
+                 Git;llm-wiki-workflow;Cited for Frontiers;git-lit}
 }
 
 @ARTICLE{Kambhampati2021-lr,
@@ -860,7 +850,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;003\_Theoretical Framework;Knowledge -
-                  Skill Acquisition}
+                  Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Kaklauskas2016-uk,
@@ -875,7 +865,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Cited for
-                  Frontiers}
+                  Frontiers;git-lit}
 }
 
 @ARTICLE{Metsamuuronen2018-km,
@@ -891,7 +881,7 @@
                   Frontiers;Frontiers [2022];EPubs Books;2\_Upgrade MAY
                   2023;Journal Articles;\_BibTex to MD Git;BSSC Seed Fund for AI
                   Research;llm-wiki-workflow;003\_Theoretical Framework;Cited
-                  for Frontiers;Knowledge - Skill Acquisition;ePub}
+                  for Frontiers;Knowledge - Skill Acquisition;ePub;git-lit}
 }
 
 @ARTICLE{Lajoie2005-xt,
@@ -907,7 +897,7 @@
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Cited for
-                  Frontiers;Knowledge - Skill Acquisition}
+                  Frontiers;Knowledge - Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Goller2018-oz,
@@ -923,7 +913,7 @@
   url          = {http://dx.doi.org/10.1007/s12186-018-9209-z},
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;Healthcare and CME;2\_Upgrade MAY 2023;Journal
-                  Articles;\_BibTex to MD Git}
+                  Articles;\_BibTex to MD Git;git-lit}
 }
 
 @ARTICLE{Hirschman2009-cs,
@@ -940,7 +930,7 @@
   url          = {http://dx.doi.org/10.1016/j.ssresearch.2009.04.001},
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
-                  Git}
+                  Git;git-lit}
 }
 
 @REPORT{USG_Corporation2019-me,
@@ -952,7 +942,7 @@
   date        = {2019-12},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
                  Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for
-                 Jacqui;\_BibTex to MD Git;AEC}
+                 Jacqui;\_BibTex to MD Git;AEC;git-lit}
 }
 
 @REPORT{Associated-General-Contractors2019-fv,
@@ -966,7 +956,7 @@
   url         = {https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;AEC}
+                 to MD Git;AEC;git-lit}
 }
 
 @ARTICLE{Bell2010-gt,
@@ -1008,7 +998,7 @@
                   2023;Journal Articles;Notion Catalogued;\_BibTex to MD
                   Git;llm-wiki-workflow;Intelligent Tutoring Systems
                   (ITS);Knowledge - Skill Acquisition;Cited for
-                  Frontiers;\_Cataloged}
+                  Frontiers;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Carbonell1970-ty,
@@ -1051,7 +1041,7 @@
                   Library;Frontiers [2021];Intelligent Tutoring Systems
                   (ITS);Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Intelligent
-                  Tutoring Systems (ITS);Cited for Frontiers},
+                  Tutoring Systems (ITS);Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -1064,7 +1054,7 @@
   date        = {2020},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC}
+                 for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;git-lit}
 }
 
 @ONLINE{Ncasi2021-hz,
@@ -1085,7 +1075,7 @@
   urldate   = {2023-02-23},
   keywords  = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;AEC Cited
                Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-               Readwise;AEC},
+               Readwise;AEC;git-lit},
   language  = {en, fr}
 }
 
@@ -1133,7 +1123,7 @@
   keywords     = {EPubs Books;2\_Upgrade MAY 2023;Journal Articles;Notion
                   Catalogued;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC;ePub;\_Mark Up;Cited for
-                  Frontiers;\_Cataloged}
+                  Frontiers;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Dede2009-ro,
@@ -1166,7 +1156,7 @@
   keywords     = {Frontiers [2022];XR Reviewed;2\_Upgrade MAY 2023;Journal
                   Articles;Notion Catalogued;TCOT 2024;\_BibTex to MD
                   Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);\_XR
-                  MR VR AR;\_Mark Up;DONE;Cited for Frontiers},
+                  MR VR AR;\_Mark Up;DONE;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -1197,7 +1187,7 @@
   keywords     = {research methods;Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;Notion Catalogued;\_BibTex to MD Git;BSSC Seed Fund
                   for AI Research;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);\_Mark Up;DONE;\_Cataloged},
+                  (ITS);\_Mark Up;DONE;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -1211,7 +1201,8 @@
   isbn      = {9780525558620},
   url       = {https://books.google.co.uk/books?id=M1eFDwAAQBAJ},
   keywords  = {EPubs Books;Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT
-               2023;\_BibTex to MD Git;Audible;ePub;Book (physical);Audiobook}
+               2023;\_BibTex to MD Git;Audible;ePub;Book
+               (physical);Audiobook;git-lit}
 }
 
 @BOOK{Brynjolfsson2014-kx,
@@ -1253,7 +1244,7 @@
                technological, societal, and economic progress.},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;EPubs Books;3\_Upgrade OCT
                2023;Future of Work;\_BibTex to MD Git;Audible;Book
-               (physical);Cited for Frontiers;Audiobook;ePub;Economics},
+               (physical);Cited for Frontiers;Audiobook;ePub;Economics;git-lit},
   language  = {en}
 }
 
@@ -1279,7 +1270,8 @@
                   definitions of Industrie 4.0 (I4.0).},
   url          = {https://ieeexplore.ieee.org/abstract/document/7410115},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex
-                  to MD Git;llm-wiki-workflow;\_Mark Up;Cited for Frontiers}
+                  to MD Git;llm-wiki-workflow;\_Mark Up;Cited for
+                  Frontiers;git-lit}
 }
 
 @REPORT{Miller2020-fp,
@@ -1292,7 +1284,7 @@
   url         = {https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
+                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC;git-lit}
 }
 
 @REPORT{Green2020-gb,
@@ -1305,7 +1297,7 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
                  for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited for
-                 Frontiers;AEC}
+                 Frontiers;AEC;git-lit}
 }
 
 @ONLINE{Andrews2019-pu,
@@ -1314,7 +1306,7 @@
   date          = {2019-06},
   url           = {https://www.history.com/news/who-were-the-luddites},
   keywords      = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited
-                   for Frontiers},
+                   for Frontiers;git-lit},
   origpublisher = {History}
 }
 
@@ -1325,7 +1317,7 @@
   date      = {2011-03},
   url       = {https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited for
-               Frontiers}
+               Frontiers;git-lit}
 }
 
 @REPORT{Thompson2021-sk,
@@ -1340,7 +1332,7 @@
   url         = {https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work},
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                 Notion;\_In Readwise;\_New Literature},
+                 Notion;\_In Readwise;\_New Literature;git-lit},
   origtitle   = {DfMA Overlay to the RIBA Plan of Work: Mainstreaming Design for
                  Manufacture and Assembly In Construction}
 }
@@ -1352,7 +1344,7 @@
   date      = {2020-10-27},
   url       = {https://www.salesforce.com/blog/what-is-the-fourth-industrial-revolution-4ir/},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;Cited for
-               Frontiers;\_In Notion}
+               Frontiers;\_In Notion;git-lit}
 }
 
 @REPORT{Barua2020-br,
@@ -1363,7 +1355,7 @@
   url      = {https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html},
   keywords = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
               [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-              Git;Cited for Frontiers;AEC}
+              Git;Cited for Frontiers;AEC;git-lit}
 }
 
 @ARTICLE{Kim2020-fo,
@@ -1387,7 +1379,7 @@
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD Git;llm-wiki-workflow;Labor;\_Mark Up;DONE;Cited for
-                  Frontiers;AEC},
+                  Frontiers;AEC;git-lit},
   language     = {en}
 }
 
@@ -1412,7 +1404,7 @@
   url          = {https://www.proquest.com/trade-journals/shortage-workers-slams-area-contractors/docview/218501556/se-2},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                  Notion;AEC;Labor;\_Mark Up;DONE;Cited for Frontiers},
+                  Notion;AEC;Labor;\_Mark Up;DONE;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -1427,7 +1419,7 @@
   url          = {https://www.bizjournals.com/milwaukee/stories/1997/08/18/story8.html},
   urldate      = {2022-04-14},
   keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Labor;Workplace
-                  Learning;Cited for Frontiers},
+                  Learning;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -1449,7 +1441,7 @@
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;AEC
                   Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC;Labor;\_In Notion;Cited for
-                  Frontiers}
+                  Frontiers;git-lit}
 }
 
 @ARTICLE{Milkman2020-mp,
@@ -1468,7 +1460,7 @@
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;Notion
                   Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Labor;Cited for
-                  Frontiers;\_Cataloged;\_In Readwise;\_Mark Up}
+                  Frontiers;\_Cataloged;\_In Readwise;\_Mark Up;git-lit}
 }
 
 @INPROCEEDINGS{Chini1999-tj,
@@ -1485,7 +1477,7 @@
   url       = {http://ascpro0.ascweb.org/archives/1999/chini99.htm},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                Cited Lit for Jacqui;\_BibTex to MD Git;Labor;\_Mark Up;Cited for
-               Frontiers;AEC;Website}
+               Frontiers;AEC;Website;git-lit}
 }
 
 @ARTICLE{Snell2019-ty,
@@ -1527,7 +1519,7 @@
   url          = {https://doi.org/10.1080/13636820.2018.1480520},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;VET-TVET;3\_Upgrade OCT
                   2023;\_BibTex to MD Git;llm-wiki-workflow;Workplace
-                  Learning;\_Mark Up;Labor;Cited for Frontiers;VET}
+                  Learning;\_Mark Up;Labor;Cited for Frontiers;VET;git-lit}
 }
 
 @ARTICLE{Sage1973-wn,
@@ -1558,7 +1550,7 @@
                   and inspiring influence on his colleagues.},
   url          = {https://ieeexplore.ieee.org/document/4309240},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex
-                  to MD Git;llm-wiki-workflow;Cited for Frontiers}
+                  to MD Git;llm-wiki-workflow;Cited for Frontiers;git-lit}
 }
 
 @BOOK{Collins2018-ut,
@@ -1589,7 +1581,7 @@
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
                [2022];EPubs Books;2\_Upgrade MAY 2023;3\_Upgrade OCT
                2023;\_BibTex to MD Git;BSSC Seed Fund for AI Research;Cited for
-               Frontiers;Labor;Workplace Learning;ePub}
+               Frontiers;Labor;Workplace Learning;ePub;git-lit}
 }
 
 @INBOOK{Corbett1997-hp,
@@ -1623,7 +1615,7 @@
                chapter.},
   url       = {https://www.sciencedirect.com/science/article/pii/B9780444818621501035},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS)}
+               Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);git-lit}
 }
 
 @ARTICLE{Walker2014-hk,
@@ -1665,7 +1657,7 @@
   url          = {https://doi.org/10.1007/s40593-013-0001-9},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);Cited
-                  for Frontiers}
+                  for Frontiers;git-lit}
 }
 
 @ARTICLE{Corbett1994-kx,
@@ -1702,7 +1694,7 @@
   url          = {https://doi.org/10.1007/BF01099821},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);Cited
-                  for Frontiers}
+                  for Frontiers;git-lit}
 }
 
 @INPROCEEDINGS{LaViola2015-bg,
@@ -1720,7 +1712,7 @@
   url       = {https://gifttutoring.org/attachments/download/1414/15050.pdf},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD Git;BSSC Seed
                Fund for AI Research;llm-wiki-workflow;Intelligent Tutoring
-               Systems (ITS);\_XR MR VR AR;\_Mark Up;Cited for Frontiers}
+               Systems (ITS);\_XR MR VR AR;\_Mark Up;Cited for Frontiers;git-lit}
 }
 
 @ONLINE{Office_for_National_Statistics2019-tr,
@@ -1734,7 +1726,7 @@
   url       = {https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25},
   urldate   = {2021-05-18},
   keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;Automation;Website;Statistics},
+               Git;Automation;Website;Statistics;git-lit},
   language  = {en}
 }
 
@@ -1787,8 +1779,34 @@
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;AEC;Workplace Learning;\_Mark Up;Cited for
-                  Frontiers;VET},
+                  Frontiers;VET;git-lit},
   language     = {en}
+}
+
+@ONLINE{UNESCO-UNEVOC2015-ge,
+  title     = {What is {TVET}?},
+  author    = {{UNESCO-UNEVOC}},
+  booktitle = {International Centre for Technical and Vocational Education and
+               Training},
+  publisher = {United Nation Educational Scientific and Cultural Organisation},
+  date      = {2015},
+  abstract  = {‘Technical and vocational education and training’ (TVET) is
+               understood as comprising education, training and skills
+               development relating to a wide range of occupational fields,
+               production, services and livelihoods. TVET, as part of lifelong
+               learning, can take place at secondary, post-secondary and
+               tertiary levels and includes work-based learning and continuing
+               training and professional development which may lead to
+               qualifications. TVET also includes a wide range of skills
+               development opportunities attuned to national and local contexts.
+               Learning to learn, the development of literacy and numeracy
+               skills, transversal skills and citizenship skills are integral
+               components of TVET.},
+  url       = {https://unevoc.unesco.org/home/TVET},
+  urldate   = {2022-03-07},
+  keywords  = {2\_Upgrade MAY 2023;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;Cited for Frontiers;VET;git-lit},
+  language  = {en}
 }
 
 @ARTICLE{Snell1996-oc,
@@ -1815,7 +1833,7 @@
   url          = {https://doi.org/10.1080/0046760960250401},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill Acquisition;Workplace
-                  Learning;\_In Notion;Cited for Frontiers}
+                  Learning;\_In Notion;Cited for Frontiers;git-lit}
 }
 
 @INBOOK{Fuller2016-el,
@@ -1832,7 +1850,7 @@
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
                Git;llm-wiki-workflow;Braverman;Knowledge - Skill
                Acquisition;UCL;Workplace Learning;\_Mark Up;DONE;Cited for
-               Frontiers}
+               Frontiers;git-lit}
 }
 
 @REPORT{Meisels2021-ql,
@@ -1847,7 +1865,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @ARTICLE{Moodie2002-nc,
@@ -1880,7 +1898,7 @@
                   Articles;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD Git;BSSC
                   Seed Fund for AI Research;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;Workplace Learning;\_Mark Up;Cited for
-                  Frontiers;\_In Readwise;Training;\_Cataloged;VET}
+                  Frontiers;\_In Readwise;Training;\_Cataloged;VET;git-lit}
 }
 
 @ARTICLE{Rybnicek2020-yh,
@@ -1925,7 +1943,8 @@
   keywords     = {Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
                   pottery culture (LBK); Water well;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;Cited for Frontiers;\_In Notion}
+                  Git;llm-wiki-workflow;AEC;Cited for Frontiers;\_In
+                  Notion;git-lit}
 }
 
 @ARTICLE{Brandner2016-wd,
@@ -1968,7 +1987,7 @@
   url          = {https://link.springer.com/article/10.1007/s00107-015-0999-5},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Cited for
-                  Frontiers;\_In Notion}
+                  Frontiers;\_In Notion;git-lit}
 }
 
 @ARTICLE{D-Amico2021-rh,
@@ -2012,7 +2031,7 @@
   url          = {https://www.sciencedirect.com/science/article/pii/S0959652620335320},
   keywords     = {Buildings; Frame; Structures; Design; Carbon; Mass;2\_Upgrade
                   MAY 2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to
-                  MD Git;llm-wiki-workflow;AEC;Cited for Frontiers}
+                  MD Git;llm-wiki-workflow;AEC;Cited for Frontiers;git-lit}
 }
 
 @REPORT{Meisels2020-qt,
@@ -2025,7 +2044,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @ONLINE{Coupland2019-ax,
@@ -2043,7 +2062,7 @@
   url       = {https://www.instituteforapprenticeships.org/quality/what-is-a-quality-apprenticeship/},
   urldate   = {2022-05-12},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;BSSC Seed Fund for AI
-               Research;Workplace Learning;Knowledge - Skill Acquisition},
+               Research;Workplace Learning;Knowledge - Skill Acquisition;git-lit},
   language  = {en}
 }
 
@@ -2074,7 +2093,8 @@
                for future learning.},
   url       = {https://doi.org/10.1007/978-981-10-5490-7_12},
   keywords  = {EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;BSSC Seed Fund
-               for AI Research;ePub;\_XR MR VR AR;\_Mark Up;Cited for Frontiers}
+               for AI Research;ePub;\_XR MR VR AR;\_Mark Up;Cited for
+               Frontiers;git-lit}
 }
 
 @BOOK{Holmes2019-xb,
@@ -2093,7 +2113,8 @@
                large. 1 …},
   url       = {https://curriculumredesign.org/wp-content/uploads/AIED-Book-Excerpt-CCR.pdf},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Intelligent Tutoring Systems (ITS);AIEd;UCL}
+               Git;llm-wiki-workflow;Intelligent Tutoring Systems
+               (ITS);AIEd;UCL;git-lit}
 }
 
 @ARTICLE{Baylor2005-hh,
@@ -2116,7 +2137,7 @@
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;BSSC
                   Seed Fund for AI Research;llm-wiki-workflow;\_In
                   Notion;Knowledge - Skill Acquisition;Intelligent Tutoring
-                  Systems (ITS);AIEd;\_Mark Up}
+                  Systems (ITS);AIEd;\_Mark Up;git-lit}
 }
 
 @BOOK{Bell2018-ot,
@@ -2159,7 +2180,8 @@
                virtual, interactive, self-paced training programme in research
                methods.},
   keywords  = {EPubs Books;Reviewed on Theory;Theory and Methods;2\_Upgrade MAY
-               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Book (physical);ePub}
+               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Book
+               (physical);ePub;git-lit}
 }
 
 @ARTICLE{Mylopoulos2016-cz,
@@ -2213,7 +2235,7 @@
   url          = {http://dx.doi.org/10.1111/medu.12893},
   keywords     = {Healthcare and CME;2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Knowledge -
-                  Skill Acquisition;Cited for Frontiers},
+                  Skill Acquisition;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -2228,7 +2250,7 @@
   date         = {1999},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill Acquisition;\_Mark
-                  Up;Cited for Frontiers}
+                  Up;Cited for Frontiers;git-lit}
 }
 
 @BOOK{Wigdor2011-kl,
@@ -2265,7 +2287,7 @@
                missteps are never made again},
   url       = {https://play.google.com/store/books/details?id=ID0L0EI79-YC},
   keywords  = {EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD Git;ePub;HCI;Cited
-               for Frontiers;\_In Notion},
+               for Frontiers;\_In Notion;git-lit},
   language  = {en}
 }
 
@@ -2278,7 +2300,7 @@
   abstract  = {Carpenters must have a},
   url       = {https://www.kmltf.org/math-for-the-trades/},
   keywords  = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;Cited for Frontiers;\_In Notion;Training},
+               Git;AEC;Cited for Frontiers;\_In Notion;Training;git-lit},
   language  = {en}
 }
 
@@ -2304,7 +2326,7 @@
                understanding and doing grounded theory research.},
   url       = {https://play.google.com/store/books/details?id=y0ooAwAAQBAJ},
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;EPubs
-               Books;\_BibTex to MD Git;Research Methods;ePub},
+               Books;\_BibTex to MD Git;Research Methods;ePub;git-lit},
   language  = {en}
 }
 
@@ -2373,7 +2395,7 @@
   url       = {http://dx.doi.org/10.4324/9781315044408-14},
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;Journal Articles;\_BibTex to MD Git;llm-wiki-workflow;Cited
-               for Frontiers;Labor;Workplace Learning}
+               for Frontiers;Labor;Workplace Learning;git-lit}
 }
 
 @ARTICLE{Ferry1998-xo,
@@ -2406,7 +2428,8 @@
   keywords     = {Frontiers import [Aug 11];Zotero Import (Feb 22);My
                   Library;2021-12-03 Frontiers;2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;Research Methods;Knowledge - Skill Acquisition}
+                  Framework;Research Methods;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @BOOK{Lee2021-dp,
@@ -2450,7 +2473,7 @@
                ultimately, humankind remains the author of its destiny.},
   url       = {https://play.google.com/store/books/details?id=tUASEAAAQBAJ},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;EPubs Books;Audible;Book
-               (physical);Artificial Intelligence (AI);ePub;Audiobook},
+               (physical);Artificial Intelligence (AI);ePub;Audiobook;git-lit},
   language  = {en}
 }
 
@@ -2490,7 +2513,7 @@
   keywords     = {tacit knowledge; knowledge sharing; trust; self-efficacy; IT
                   support;Notion Catalogued;2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
-                  Framework;Knowledge - Skill Acquisition;\_Cataloged},
+                  Framework;Knowledge - Skill Acquisition;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -2532,7 +2555,7 @@
   urldate   = {2022-09-17},
   keywords  = {perceptual learning, MRF, automated feedback, object
                detection;Notion Catalogued;2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;\_Cataloged}
+               Git;llm-wiki-workflow;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Jadallah2021-yq,
@@ -2581,7 +2604,7 @@
                   MAY 2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to
                   MD
                   Git;llm-wiki-workflow;AEC\_learning\_theory\_2021-26;003\_Theoretical
-                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged}
+                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @ONLINE{United_Nations2022-xc,
@@ -2596,7 +2619,8 @@
                global population was estimated to be 7 billion.},
   url       = {https://www.un.org/en/global-issues/population},
   urldate   = {2023-02-25},
-  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD Git;Website}
+  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;git-lit}
 }
 
 @REPORT{Pothier2019-fn,
@@ -2607,7 +2631,7 @@
   date        = {2019-06-11},
   pagetotal   = {30},
   keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;llm-wiki-workflow;AEC;Report}
+                 to MD Git;llm-wiki-workflow;AEC;Report;git-lit}
 }
 
 @REPORT{Pothier2020-kd,
@@ -2618,7 +2642,7 @@
   date        = {2020-06-03},
   pagetotal   = {21},
   keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;llm-wiki-workflow;AEC;Report}
+                 to MD Git;llm-wiki-workflow;AEC;Report;git-lit}
 }
 
 @MISC{Schankula2019-ju,
@@ -2629,7 +2653,7 @@
   location  = {New York, NY},
   date      = {2019-04-19},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;YouTube;Cited for Frontiers}
+               Git;YouTube;Cited for Frontiers;git-lit}
 }
 
 @BOOK{Schwab2017-js,
@@ -2639,7 +2663,7 @@
   date      = {2017},
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
                [2022];EPubs Books;2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;Audible;Cited for Frontiers;ePub;Audiobook}
+               Git;Audible;Cited for Frontiers;ePub;Audiobook;git-lit}
 }
 
 @BOOK{Weber-Lewerenz2022-ow,
@@ -2663,7 +2687,7 @@
   url       = {https://play.google.com/store/books/details?id=-7KiEAAAQBAJ},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
-               Readwise;AEC;ePub;\_New Literature},
+               Readwise;AEC;ePub;\_New Literature;git-lit},
   language  = {en}
 }
 
@@ -2674,7 +2698,7 @@
   date     = {2019},
   keywords = {Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit for
               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
-              Readwise;AEC;Labor;Skill demand}
+              Readwise;AEC;Labor;Skill demand;git-lit}
 }
 
 @MISC{The_Economist2023-vd,
@@ -2689,7 +2713,7 @@
   url          = {https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube},
   urldate      = {2023-04-19},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website;Reader\_Obsidian},
+                  Git;Website;Reader\_Obsidian;git-lit},
   language     = {en}
 }
 
@@ -2705,7 +2729,7 @@
                   destructive fires},
   url          = {https://time.com/6046368/wood-steel-houses-fires/},
   urldate      = {2023-05-06},
-  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website},
+  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;git-lit},
   language     = {en}
 }
 
@@ -2718,7 +2742,7 @@
   date        = {2013-07},
   isbn        = {9781409839224},
   keywords    = {2\_Upgrade MAY 2023;Government Report;\_BibTex to MD
-                 Git;llm-wiki-workflow;Report}
+                 Git;llm-wiki-workflow;Report;git-lit}
 }
 
 @BOOK{Mayer2021-in,
@@ -2757,7 +2781,7 @@
   keywords  = {3rd Edition [2021] \_ Multimedia Learning;Title Pages and
                TOC;Notion Catalogued;2\_Upgrade MAY 2023;\_BibTex to MD
                Git;llm-wiki-workflow;003\_Theoretical Framework;\_Cataloged;Book
-               (parent)}
+               (parent);git-lit}
 }
 
 @ONLINE{Belkin2023-ak,
@@ -2771,7 +2795,7 @@
   url       = {https://www.wsj.com/articles/americans-are-losing-faith-in-college-education-wsj-norc-poll-finds-3a836ce1},
   urldate   = {2023-05-01},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;Statistics;Website;Reader\_Obsidian}
+               Git;Statistics;Website;Reader\_Obsidian;git-lit}
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -2834,7 +2858,7 @@
                  Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC\_learning\_theory\_2021-26;003\_Theoretical
                  Framework;AEC;Workplace Learning;Thesis;Read;\_Cataloged;\_Mark
-                 Up;\_In ClickUp}
+                 Up;\_In ClickUp;git-lit}
 }
 
 @ARTICLE{Jadallah2021-is,
@@ -2878,7 +2902,7 @@
                   MAY 2023;Journal Articles;3\_Upgrade OCT 2023;AEC Cited Lit
                   for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC\_learning\_theory\_2021-26;003\_Theoretical
-                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged}
+                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Goulding2012-op,
@@ -2947,26 +2971,8 @@
   keywords     = {LSU Supporting Works;Notion Catalogued;2\_Upgrade MAY
                   2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;\_XR MR VR AR;AEC;Knowledge - Skill
-                  Acquisition;Workplace Learning;\_Mark Up;\_Cataloged},
+                  Acquisition;Workplace Learning;\_Mark Up;\_Cataloged;git-lit},
   language     = {en}
-}
-
-@INBOOK{Menacere2016-fn,
-  title     = {When More Does Not Mean Better: Selecting a Research Methodology
-               and Methods},
-  author    = {Ménacère, Karim},
-  editor    = {Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan},
-  booktitle = {Research Methodology in the Built Environment},
-  publisher = {Routledge},
-  edition   = {1st Edition},
-  pages     = {34--62},
-  date      = {2016-03-10},
-  doi       = {10.4324/9781315725529-3},
-  isbn      = {9781317534259},
-  keywords  = {Research Methodology in the Built Environment: A Selection of
-               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
-               Books;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
-               Methods;UCL;ePub;\_Mark Up;\_In ClickUp;Book (child)}
 }
 
 @THESIS{Crayne2021-jq,
@@ -3001,7 +3007,7 @@
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;00\_TO READ;3\_Upgrade OCT
                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In Readwise;\_New
-                 Literature;\_In ClickUp}
+                 Literature;\_In ClickUp;git-lit}
 }
 
 @ONLINE{Associated_Builders_and_Contractors2023-pe,
@@ -3018,7 +3024,7 @@
   url       = {https://www.abc.org/News-Media/News-Releases/entryid/19777/construction-workforce-shortage-tops-half-a-million-in-2023-says-abc},
   urldate   = {2023-04-23},
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD
-               Git;Website;Reader\_Obsidian;\_In Notion;\_Mark Up},
+               Git;Website;Reader\_Obsidian;\_In Notion;\_Mark Up;git-lit},
   language  = {en}
 }
 
@@ -3064,7 +3070,7 @@
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO
                READ;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In
-               Readwise;Essential;\_In ClickUp;Economics}
+               Readwise;Essential;\_In ClickUp;Economics;git-lit}
 }
 
 @BOOK{Ahmed2016-mt,
@@ -3089,7 +3095,7 @@
                Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
                Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;\_New Literature;AEC;Research Methods;UCL;ePub;\_In
-               ClickUp;Book (parent)}
+               ClickUp;Book (parent);git-lit}
 }
 
 @ARTICLE{Wang2008-rq,
@@ -3114,7 +3120,7 @@
   keywords     = {Notion Catalogued;2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD Git;llm-wiki-workflow;AEC;Workplace Learning;\_Mark
-                  Up;\_Cataloged},
+                  Up;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -3130,7 +3136,7 @@
   url          = {https://www.bloomberg.com/news/articles/2018-04-11/the-housing-crisis-extends-far-beyond-superstar-cities},
   urldate      = {2022-09-18},
   keywords     = {Notion Catalogued;2\_Upgrade MAY 2023;\_BibTex to MD
-                  Git;\_Cataloged},
+                  Git;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -3144,7 +3150,7 @@
   url       = {https://www.dol.gov/general/workcenter},
   urldate   = {2023-05-11},
   keywords  = {2\_Upgrade MAY 2023;Government Report;\_BibTex to MD
-               Git;Labor;Website},
+               Git;Labor;Website;git-lit},
   language  = {en}
 }
 
@@ -3182,7 +3188,7 @@
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD Git;BSSC
                   Seed Fund for AI Research;llm-wiki-workflow;AIEd;\_Mark
                   Up;Intelligent Tutoring Systems (ITS);Knowledge - Skill
-                  Acquisition;Cited for Frontiers},
+                  Acquisition;Cited for Frontiers;git-lit},
   language     = {en}
 }
 
@@ -3212,7 +3218,7 @@
   keywords  = {Autodesk;Construction 4-0;Notion Catalogued;2\_Upgrade MAY
                2023;Construction 4-0 -- An Innovation Platform for the Built
                Environment;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged}
+               Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @INBOOK{Hussien2020-bt,
@@ -3237,7 +3243,7 @@
   keywords  = {2\_Upgrade MAY 2023;Construction 4-0 -- An Innovation Platform
                for the Built Environment;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;AEC;Cross Ref Chapter;\_In ClickUp;\_In
-               Notion;\_In Readwise;\_Mark Up;\_XR MR VR AR}
+               Notion;\_In Readwise;\_Mark Up;\_XR MR VR AR;git-lit}
 }
 
 @ARTICLE{Whitehouse2017-pq,
@@ -3247,7 +3253,7 @@
   date         = {2017},
   url          = {https://www.bloomberg.com/graphics/2017-job-risk/},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;\_BibTex to MD
-                  Git;Automation;Website}
+                  Git;Automation;Website;git-lit}
 }
 
 @MISC{BBC-News2015-lz,
@@ -3259,7 +3265,8 @@
                   the next two decades},
   url          = {https://www.bbc.co.uk/news/technology-34066941},
   urldate      = {2023-02-21},
-  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Automation;Website},
+  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Automation;Website;git-lit},
   language     = {en}
 }
 
@@ -3272,7 +3279,7 @@
   url       = {https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/},
   urldate   = {2023-02-06},
   keywords  = {2\_Upgrade MAY 2023;Theory and Methods;\_BibTex to MD
-               Git;Research Methods;Website},
+               Git;Research Methods;Website;git-lit},
   language  = {en}
 }
 
@@ -3304,7 +3311,7 @@
   keywords  = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
                Lit for Jacqui;\_BibTex to MD Git;Offsite\_NBLM;AEC;ePub;\_Mark
-               Up;\_Cataloged;Book (parent);RNIB},
+               Up;\_Cataloged;Book (parent);RNIB;git-lit},
   language  = {en}
 }
 
@@ -3347,7 +3354,8 @@
   keywords     = {AEC;Construction 4-0;Notion Catalogued;UCL Poster Q1
                   2023;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;\_Mark Up;\_In Readwise;\_Cataloged},
+                  Git;llm-wiki-workflow;AEC;\_Mark Up;\_In
+                  Readwise;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -3368,7 +3376,7 @@
   urldate      = {2023-01-27},
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;Journal Articles;AEC
                   Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_New Literature;AEC},
+                  Git;llm-wiki-workflow;\_New Literature;AEC;git-lit},
   language     = {en}
 }
 
@@ -3418,7 +3426,7 @@
   url          = {http://dx.doi.org/10.3390/buildings11010017},
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;Journal Articles;AEC
                   Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_New Literature;AEC},
+                  Git;llm-wiki-workflow;\_New Literature;AEC;git-lit},
   language     = {en}
 }
 
@@ -3461,7 +3469,7 @@
   url          = {http://dx.doi.org/10.31580/jei.v7i2.1438},
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;Grounded Theory;Journal
                   Articles;VET-TVET;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_New Literature;AEC;VET}
+                  Git;llm-wiki-workflow;\_New Literature;AEC;VET;git-lit}
 }
 
 @INPROCEEDINGS{Sawhney2020-zl,
@@ -3501,7 +3509,7 @@
   url        = {http://dx.doi.org/10.29007/4nk3},
   keywords   = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                 MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged}
+                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Oesterreich2016-yo,
@@ -3542,7 +3550,7 @@
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;AEC;Automation;Important;\_Mark
-                  Up;Essential;\_Cataloged;\_In ClickUp}
+                  Up;Essential;\_Cataloged;\_In ClickUp;git-lit}
 }
 
 @ARTICLE{Hairstans2018-zk,
@@ -3591,7 +3599,7 @@
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;\_In Notion;\_In
-                  Readwise;AEC;Important;\_New Literature}
+                  Readwise;AEC;Important;\_New Literature;git-lit}
 }
 
 @INBOOK{Hairstans2019-ei,
@@ -3610,7 +3618,7 @@
                Manufacturing for Innovative Construction;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Offsite\_NBLM;\_New
                Literature;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter;Essential;Book (child)},
+               Chapter;Essential;Book (child);git-lit},
   language  = {en}
 }
 
@@ -3663,7 +3671,7 @@
   keywords     = {Construction 4-0;XR Reviewed;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;\_In Notion;\_In Readwise;\_New
-                  Literature;AEC},
+                  Literature;AEC;git-lit},
   language     = {en}
 }
 
@@ -3690,7 +3698,7 @@
                   2023;2\_Upgrade MAY 2023;00\_TO READ;Journal Articles;Deloitte
                   - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;\_Mark
-                  Up;\_Cataloged;\_In ClickUp}
+                  Up;\_Cataloged;\_In ClickUp;git-lit}
 }
 
 @ONLINE{Smith2016-mk,
@@ -3704,7 +3712,7 @@
   urldate   = {2023-02-08},
   keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;AEC Cited
                Lit for Jacqui;\_BibTex to MD
-               Git;\_Cataloged;AEC;Reader\_Obsidian;Website},
+               Git;\_Cataloged;AEC;Reader\_Obsidian;Website;git-lit},
   language  = {en}
 }
 
@@ -3751,7 +3759,7 @@
                   management system; platforms;Construction 4-0;2\_Upgrade MAY
                   2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;\_In Notion;\_In
-                  Readwise;AEC;\_New Literature;Economics}
+                  Readwise;AEC;\_New Literature;Economics;git-lit}
 }
 
 @ARTICLE{Kozlovska2021-iz,
@@ -3792,54 +3800,23 @@
   urldate      = {2023-02-12},
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;Journal Articles;AEC
                   Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                  Notion;\_In Readwise;AEC;\_New Literature},
+                  Notion;\_In Readwise;AEC;\_New Literature;git-lit},
   language     = {en}
 }
 
-@ARTICLE{Johnsson2013-kb,
-  title        = {Production strategies for pre-engineering in house-building:
-                  exploring product development platforms},
-  author       = {Johnsson, Helena},
-  journaltitle = {Construction Management and Economics},
-  publisher    = {Routledge},
-  volume       = {31},
-  issue        = {9},
-  pages        = {941--958},
-  date         = {2013-09-01},
-  doi          = {10.1080/01446193.2013.828846},
-  issn         = {0144-6193},
-  abstract     = {Construction is a trade where the dominating production
-                  strategy is engineer-to-order. House-builders can pre-engineer
-                  their design to different degrees, resulting in variations of
-                  the engineer-to-order strategy: design-to-order,
-                  adapt-to-order, and engineer-to-stock. This variation causes
-                  different settings for the use of platforms in house-building.
-                  The aim of this research is to diversify the engineer-to-order
-                  production strategy and its consequences for platform
-                  organization by studying its use in house-building. The
-                  multiple case study on four engineering/contractor firms
-                  reports the core capabilities for engineer-to-order firms:
-                  procurement and tendering, market knowledge, engineering,
-                  multi-skilled manufacturing, and coordination of sales and
-                  manufacturing. Design-to-order, adapt-to-order and engineer-to
-                  stock were shown to be production strategies in use in
-                  house-building. In design-to-order platforms parts of the
-                  platform are undefined while engineer-to-stock platforms are
-                  fully predefined. Coordination between market and
-                  manufacturing is a crucial capability when engaging in
-                  platform organization. When an engineering firm and a
-                  contractor collaborate to fulfil client needs, the
-                  coordination capability between market and manufacturing was
-                  shown to be low. The case study shows that specialized
-                  contractors who integrate the supply chain towards a specific
-                  market segment benefit fully from the platform concept, while
-                  contractors with a wider scope could focus on standardization
-                  of processes rather than products.},
-  url          = {https://doi.org/10.1080/01446193.2013.828846},
-  keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-                  Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
-                  Literature;\_In ClickUp}
+@MISC{The_Data_Team2018-ue,
+  title        = {A study finds nearly half of jobs are vulnerable to automation},
+  author       = {{The Data Team}},
+  journaltitle = {Economist (London, England: 1843)},
+  publisher    = {The Economist},
+  date         = {2018-04-24},
+  issn         = {0013-0613,1476-8860},
+  abstract     = {That could free people to pursue more interesting careers},
+  url          = {https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation},
+  urldate      = {2023-02-21},
+  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD
+                  Git;Automation;Website;git-lit},
+  language     = {en}
 }
 
 @BOOK{Aitchison2016-ok,
@@ -3872,7 +3849,7 @@
   url       = {https://play.google.com/store/books/details?id=qeq_CwAAQBAJ},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;Offsite\_NBLM;\_In Notion;\_In
-               Readwise;AEC;ePub;\_New Literature;RNIB},
+               Readwise;AEC;ePub;\_New Literature;RNIB;git-lit},
   language  = {en}
 }
 
@@ -3909,7 +3886,7 @@
                interest in this field.},
   url       = {https://play.google.com/store/books/details?id=l7X3AgAAQBAJ},
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;EPubs Books;\_BibTex to MD
-               Git;ePub;Research Methods},
+               Git;ePub;Research Methods;git-lit},
   language  = {en}
 }
 
@@ -3925,7 +3902,7 @@
   url       = {https://www.bcg.com/publications/2015/technology-business-transformation-engineered-products-infrastructure-man-machine-industry-4},
   urldate   = {2023-02-18},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;\_BibTex to MD Git;\_Mark
-               Up;Reader\_Obsidian;\_In ClickUp},
+               Up;Reader\_Obsidian;\_In ClickUp;git-lit},
   language  = {en}
 }
 
@@ -3939,7 +3916,7 @@
                and making a bold shift towards the world of manufacturing,
                merging the two to usher in a new dawn.},
   url       = {https://www.youtube.com/watch?v=6-mxc9KBgbo},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;YouTube}
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;YouTube;git-lit}
 }
 
 @ARTICLE{Gagg2014-gf,
@@ -3973,7 +3950,7 @@
                   response; Structural failures; Failure case
                   studies;Construction 4-0;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_In
-                  Notion;\_In Readwise;\_New Literature}
+                  Notion;\_In Readwise;\_New Literature;git-lit}
 }
 
 @INBOOK{Gu2022-hu,
@@ -4000,7 +3977,7 @@
   url       = {https://www.intechopen.com/chapters/78070},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
-               Readwise;AEC;\_New Literature}
+               Readwise;AEC;\_New Literature;git-lit}
 }
 
 @ARTICLE{Aliu2019-hy,
@@ -4055,7 +4032,8 @@
   keywords     = {Construction 4-0;Human Capital;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;003\_Theoretical Framework;\_In
-                  Notion;\_In Readwise;AEC;Research Methods;\_New Literature},
+                  Notion;\_In Readwise;AEC;Research Methods;\_New
+                  Literature;git-lit},
   language     = {en}
 }
 
@@ -4078,7 +4056,8 @@
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;\_In Notion;\_In
-                  Readwise;AEC;Important;\_New Literature;Systematic Review},
+                  Readwise;AEC;Important;\_New Literature;Systematic
+                  Review;git-lit},
   language     = {en}
 }
 
@@ -4095,7 +4074,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Deloitte -
                  McKinsey - EY - PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;Offsite\_NBLM;\_In Notion;\_In
-                 Readwise;AEC;Essential;\_New Literature;\_In ClickUp}
+                 Readwise;AEC;Essential;\_New Literature;\_In ClickUp;git-lit}
 }
 
 @DATASET{Ritchie2017-jm,
@@ -4105,7 +4084,8 @@
   date      = {2017},
   url       = {https://ourworldindata.org/technology-adoption},
   note      = {https://ourworldindata.org/technology-adoption},
-  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD Git;Website}
+  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;git-lit}
 }
 
 @REPORT{Dreischmeier2015-di,
@@ -4123,7 +4103,7 @@
                  health care, industrial goods, and manufacturing.},
   url         = {https://www.bcg.com/publications/2015/digital-imperative},
   keywords    = {Data Stats Figures;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY
-                 - PWC;\_BibTex to MD Git;llm-wiki-workflow;Statistics}
+                 - PWC;\_BibTex to MD Git;llm-wiki-workflow;Statistics;git-lit}
 }
 
 @MISC{Hu2023-cx,
@@ -4140,22 +4120,8 @@
   url          = {https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/},
   urldate      = {2023-02-22},
   keywords     = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
-                  Git;Website;Reader\_Obsidian},
+                  Git;Website;Reader\_Obsidian;git-lit},
   language     = {en}
-}
-
-@ONLINE{Science_Museum2018-ms,
-  title     = {Goodbye to the hello girls: automating the telephone exchange},
-  author    = {{Science Museum}},
-  booktitle = {Science Museum},
-  date      = {2018-10-22},
-  abstract  = {The introduction of automatic telephone exchanges allowed callers
-               to make their own connections, leading to the disappearance of
-               one of Britain's first female workforces.},
-  url       = {https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange},
-  urldate   = {2023-02-22},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website},
-  language  = {en}
 }
 
 @MISC{Hillinger1991-nr,
@@ -4173,7 +4139,7 @@
   url          = {https://www.latimes.com/archives/la-xpm-1991-04-08-mn-130-story.html},
   urldate      = {2023-02-22},
   keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD
-                  Git;Reader\_Obsidian;Website}
+                  Git;Reader\_Obsidian;Website;git-lit}
 }
 
 @BOOK{Klein2007-yo,
@@ -4200,7 +4166,7 @@
                a wide variety of sources, including novels from the period, to
                produce a lively narrative.},
   url       = {https://play.google.com/store/books/details?id=vKMgmQEACAAJ},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;llm-wiki-workflow},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;llm-wiki-workflow;git-lit},
   language  = {en}
 }
 
@@ -4214,7 +4180,8 @@
                find out how it all works.},
   url       = {https://unity.com/solutions/digital-twin-definition},
   urldate   = {2022-06-23},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Game Engine;Website},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Game
+               Engine;Website;git-lit},
   language  = {en}
 }
 
@@ -4229,7 +4196,7 @@
   isbn      = {9780262110013},
   url       = {https://play.google.com/store/books/details?id=4lb-vQEACAAJ},
   keywords  = {2\_Upgrade MAY 2023;Construction 4-0;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC},
+               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;git-lit},
   language  = {en}
 }
 
@@ -4247,7 +4214,7 @@
                   standstill. Many economists remain mixed about […]},
   url          = {https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/},
   urldate      = {2023-02-23},
-  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website},
+  keywords     = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;git-lit},
   language     = {en}
 }
 
@@ -4260,7 +4227,8 @@
   date      = {2023-02-20},
   url       = {https://commonslibrary.parliament.uk/research-briefings/cbp-9428/},
   urldate   = {2023-02-23},
-  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD Git;Website}
+  keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;git-lit}
 }
 
 @DATASET{Bureau-of-Labor-Statistics2022-np,
@@ -4280,7 +4248,7 @@
   note      = {Saved images /1\_PhD Literature
                Downloads/Bureau-of-Labor-Statistics2022-np},
   keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;Government Report;\_BibTex
-               to MD Git;llm-wiki-workflow;Website;Statistics;Report},
+               to MD Git;llm-wiki-workflow;Website;Statistics;Report;git-lit},
   language  = {en}
 }
 
@@ -4293,7 +4261,7 @@
                other employment-related statistics for the UK.},
   url       = {https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2023},
   urldate   = {2023-02-23},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Statistics},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Statistics;git-lit},
   language  = {en}
 }
 
@@ -4325,7 +4293,7 @@
                academic disciplines.},
   url       = {https://play.google.com/store/books/details?id=vxu2AAAAIAAJ},
   keywords  = {2\_Upgrade MAY 2023;Grounded Theory;\_BibTex to MD Git;Research
-               Methods},
+               Methods;git-lit},
   language  = {en}
 }
 
@@ -4339,7 +4307,8 @@
                ensuring skills are retained},
   url       = {https://ww3.rics.org/uk/en/journals/construction-journal/the-role-of-smes-in-the-uk-construction-industry.html},
   urldate   = {2023-02-23},
-  keywords  = {Construction 4-0;2\_Upgrade MAY 2023;\_BibTex to MD Git;Website},
+  keywords  = {Construction 4-0;2\_Upgrade MAY 2023;\_BibTex to MD
+               Git;Website;git-lit},
   language  = {en}
 }
 
@@ -4359,7 +4328,7 @@
                by small businesses, with},
   url       = {https://eyeonhousing.org/2021/07/most-homebuilders-are-small-businesses-2/},
   urldate   = {2023-02-23},
-  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;Economics},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;Economics;git-lit},
   language  = {en}
 }
 
@@ -4374,7 +4343,8 @@
   url       = {https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/},
   urldate   = {2023-02-23},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In Readwise;AEC},
+               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
+               Readwise;AEC;git-lit},
   language  = {en}
 }
 
@@ -4394,7 +4364,7 @@
   keywords     = {Climate change; Materials science; Policy; Society;
                   Technology;Construction 4-0;2\_Upgrade MAY 2023;Journal
                   Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;\_In Readwise;AEC},
+                  Git;llm-wiki-workflow;\_In Readwise;AEC;git-lit},
   language     = {en}
 }
 
@@ -4424,7 +4394,7 @@
   keywords     = {Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;Journal
                   Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Marx\_Labor;Research Methods;\_In
-                  Notion;\_In Readwise;\_New Literature}
+                  Notion;\_In Readwise;\_New Literature;git-lit}
 }
 
 @BOOK{Kumar2019-dp,
@@ -4466,7 +4436,8 @@
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
                Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;PhD Study and
                Support;llm-wiki-workflow;Thesis Writing;ePub;Research
-               Methods;\_In Notion;\_In Readwise;Important;Read;Book (physical)},
+               Methods;\_In Notion;\_In Readwise;Important;Read;Book
+               (physical);git-lit},
   language  = {en}
 }
 
@@ -4493,7 +4464,7 @@
   keywords     = {Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;Rapid Qualitative Research;\_BibTex to MD
                   Git;llm-wiki-workflow;Research Methods;Important;Fieldwork
-                  Methodology},
+                  Methodology;git-lit},
   language     = {en}
 }
 
@@ -4528,7 +4499,7 @@
   keywords     = {qualitative research; research methods; ethnography;Theory and
                   Methods;2\_Upgrade MAY 2023;Journal Articles;Rapid Qualitative
                   Research;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;Fieldwork Methodology},
+                  Methods;Fieldwork Methodology;git-lit},
   language     = {en}
 }
 
@@ -4568,7 +4539,8 @@
   keywords  = {user studies, field research methods, qualitative methods,
                ethnography;Theory and Methods;2\_Upgrade MAY 2023;Rapid
                Qualitative Research;\_BibTex to MD
-               Git;llm-wiki-workflow;Research Methods;Fieldwork Methodology}
+               Git;llm-wiki-workflow;Research Methods;Fieldwork
+               Methodology;git-lit}
 }
 
 @INBOOK{Sutrisna2016-vt,
@@ -4585,7 +4557,7 @@
   keywords  = {Research Methodology in the Built Environment: A Selection of
                Case Studies;2\_Upgrade MAY 2023;Grounded Theory;EPubs Books;AEC
                Cited Lit for Jacqui;\_BibTex to MD Git;\_Mark Up;AEC;ePub;\_In
-               ClickUp;Book (child)},
+               ClickUp;Book (child);git-lit},
   language  = {en}
 }
 
@@ -4636,7 +4608,8 @@
   keywords     = {Research Methodology in the Built Environment: A Selection of
                   Case Studies;2\_Upgrade MAY 2023;Grounded Theory;Journal
                   Articles;VET-TVET;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods;VET;Book (child)}
+                  Git;llm-wiki-workflow;Research Methods;VET;Book
+                  (child);git-lit}
 }
 
 @ARTICLE{Loosemore1999-ne,
@@ -4671,7 +4644,7 @@
   keywords     = {Research Methodology in the Built Environment: A Selection of
                   Case Studies;2\_Upgrade MAY 2023;Grounded Theory;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;Book (child)}
+                  Methods;Book (child);git-lit}
 }
 
 @ARTICLE{Barrett2009-ji,
@@ -4717,7 +4690,7 @@
   keywords     = {Research Methodology in the Built Environment: A Selection of
                   Case Studies;2\_Upgrade MAY 2023;Grounded Theory;Journal
                   Articles;\_BibTex to MD Git;llm-wiki-workflow;Research
-                  Methods;Book (child)}
+                  Methods;Book (child);git-lit}
 }
 
 @INBOOK{Ryan2000-ql,
@@ -4732,7 +4705,7 @@
   isbn      = {9780761915126},
   keywords  = {Research Methodology in the Built Environment: A Selection of
                Case Studies;2\_Upgrade MAY 2023;\_BibTex to MD Git;Research
-               Methods;Book (child)},
+               Methods;Book (child);git-lit},
   language  = {en}
 }
 
@@ -4749,7 +4722,7 @@
   isbn      = {9780761958246,9781848608337},
   url       = {https://methods.sagepub.com/book/handbook-of-ethnography/n11.xml},
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;Grounded Theory;\_BibTex
-               to MD Git;llm-wiki-workflow;Research Methods}
+               to MD Git;llm-wiki-workflow;Research Methods;git-lit}
 }
 
 @INBOOK{Casini2022-fn,
@@ -4766,7 +4739,7 @@
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000106},
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;AEC
                Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-               Notion;\_In Readwise;AEC;Essential;Labor;\_In ClickUp}
+               Notion;\_In Readwise;AEC;Essential;Labor;\_In ClickUp;git-lit}
 }
 
 @REPORT{Meisels2018-fj,
@@ -4779,7 +4752,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @ONLINE{Bureau-of-Labor-Statistics2023-zb,
@@ -4795,7 +4768,7 @@
   url       = {https://blog.dol.gov/2023/02/03/january-2023-jobs-report-more-strong-steady-growth},
   urldate   = {2023-02-23},
   keywords  = {Data Stats Figures;2\_Upgrade MAY 2023;Government Report;\_BibTex
-               to MD Git;Website;Statistics;Labor},
+               to MD Git;Website;Statistics;Labor;git-lit},
   language  = {en}
 }
 
@@ -4811,7 +4784,7 @@
   url       = {https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/},
   urldate   = {2023-02-23},
   keywords  = {2\_Upgrade MAY 2023;Data Stats Figures;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;Website;Statistics;AEC},
+               Jacqui;\_BibTex to MD Git;Website;Statistics;AEC;git-lit},
   language  = {en}
 }
 
@@ -4834,7 +4807,7 @@
   keywords   = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
                 Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                 to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;\_In
-                ClickUp}
+                ClickUp;git-lit}
 }
 
 @REPORT{Ribeirinho2020-mq,
@@ -4851,7 +4824,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
-                 Literature}
+                 Literature;git-lit}
 }
 
 @ARTICLE{VanLehn2006-op,
@@ -4873,7 +4846,7 @@
   urldate      = {2022-04-20},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;\_BibTex
                   to MD Git;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);Cited for Frontiers}
+                  (ITS);Cited for Frontiers;git-lit}
 }
 
 @BOOK{Casini2022-yp,
@@ -4931,7 +4904,8 @@
   keywords  = {Construction 4-0;Marco Casini Construction 4-0;Notion
                Catalogued;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;\_In
-               Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross Ref Chapter},
+               Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross Ref
+               Chapter;git-lit},
   language  = {en}
 }
 
@@ -4948,7 +4922,7 @@
   url          = {https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e},
   urldate      = {2023-05-01},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website}
+                  Git;Website;git-lit}
 }
 
 @ARTICLE{Joffroy2016-cy,
@@ -4976,7 +4950,7 @@
                   knowledge, building materials and techniques.},
   url          = {https://www.un-ilibrary.org/content/journals/15643913/53/3/7},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC},
+                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;git-lit},
   language     = {en}
 }
 
@@ -5009,7 +4983,7 @@
                shared between parties.},
   url       = {https://www.sciencedirect.com/science/article/pii/B0080430767022877},
   keywords  = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Labor;Workplace Learning;git-lit}
 }
 
 @INBOOK{Herod2009-pg,
@@ -5053,7 +5027,8 @@
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
                2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace
+               Learning;git-lit}
 }
 
 @REPORT{Wilson2019-ho,
@@ -5079,7 +5054,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;3\_Upgrade OCT
                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In
-                 Readwise;AEC;Important;\_New Literature}
+                 Readwise;AEC;Important;\_New Literature;git-lit}
 }
 
 @REPORT{Jagannathan2021-fg,
@@ -5103,7 +5078,7 @@
   url       = {http://dx.doi.org/10.22617/spr200308},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;\_In
-               Readwise;\_In Notion;\_Mark Up;\_In ClickUp}
+               Readwise;\_In Notion;\_Mark Up;\_In ClickUp;git-lit}
 }
 
 @REPORT{Zupanci2018-sb,
@@ -5126,7 +5101,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;\_In Notion;\_In Readwise;\_New
-                 Literature}
+                 Literature;git-lit}
 }
 
 @ARTICLE{Detsimas2016-jx,
@@ -5184,7 +5159,8 @@
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;003\_Theoretical Framework;AEC;Research
                   Methods;Workplace Learning;\_Mark Up;Knowledge - Skill
-                  Acquisition;Training;Skill demand;Labor;\_Cataloged;Essential},
+                  Acquisition;Training;Skill
+                  demand;Labor;\_Cataloged;Essential;git-lit},
   language     = {en}
 }
 
@@ -5224,7 +5200,7 @@
                READ;Offsite Architecture: Constructing the Future;EPubs
                Books;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;Offsite\_NBLM;AEC;ePub;Essential;Important;\_Mark
-               Up;\_Cataloged;\_In ClickUp;Book (parent);RNIB},
+               Up;\_Cataloged;\_In ClickUp;Book (parent);RNIB;git-lit},
   language  = {en}
 }
 
@@ -5251,7 +5227,7 @@
                 success in the industrialized construction industry.},
   url        = {https://cife.stanford.edu/events/industrialized-construction-forum-2023},
   keywords   = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                Cited Lit for Jacqui;\_BibTex to MD Git;AEC}
+                Cited Lit for Jacqui;\_BibTex to MD Git;AEC;git-lit}
 }
 
 @REPORT{Barbosa2017-rj,
@@ -5268,7 +5244,7 @@
                  Frontiers;Frontiers [2022];Construction 4-0;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                 Git;llm-wiki-workflow;Cited for Frontiers;AEC}
+                 Git;llm-wiki-workflow;Cited for Frontiers;AEC;git-lit}
 }
 
 @REPORT{Renz2016-br,
@@ -5286,7 +5262,7 @@
   keywords    = {2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
                  OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
-                 Literature},
+                 Literature;git-lit},
   origdate    = {2016-05-06}
 }
 
@@ -5304,7 +5280,7 @@
   url          = {https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html},
   urldate      = {2022-04-10},
   keywords     = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;AEC},
+                  Git;AEC;git-lit},
   language     = {en}
 }
 
@@ -5324,7 +5300,7 @@
   url         = {https://www.gov.uk/guidance/ofqual-handbook},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;2\_Upgrade MAY 2023;\_BibTex to MD Git;Workplace
-                 Learning}
+                 Learning;git-lit}
 }
 
 @ARTICLE{Herbert2018-la,
@@ -5360,7 +5336,7 @@
                   learning;Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;BSSC Seed Fund for AI
                   Research;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);\_XR MR VR AR;\_Mark Up;Cited for Frontiers}
+                  (ITS);\_XR MR VR AR;\_Mark Up;Cited for Frontiers;git-lit}
 }
 
 @ARTICLE{Mousavinasab2021-eg,
@@ -5409,7 +5385,7 @@
                   (ITS);Frontiers [2022];EPubs Books;2\_Upgrade MAY 2023;Journal
                   Articles;\_BibTex to MD Git;BSSC Seed Fund for AI
                   Research;llm-wiki-workflow;Intelligent Tutoring Systems
-                  (ITS);ePub;\_Mark Up;DONE;Systematic Review}
+                  (ITS);ePub;\_Mark Up;DONE;Systematic Review;git-lit}
 }
 
 @INBOOK{Weber-Lewerenz2022-zr,
@@ -5438,7 +5414,8 @@
   url       = {https://doi.org/10.1007/978-3-658-39407-3_13},
   keywords  = {2\_Upgrade MAY 2023;Construction 4-0;EPubs Books;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
-               Readwise;AEC;Robots;Technological change;\_New Literature;ePub}
+               Readwise;AEC;Robots;Technological change;\_New
+               Literature;ePub;git-lit}
 }
 
 @INPROCEEDINGS{Olsen2012-gr,
@@ -5453,7 +5430,7 @@
   keywords    = {Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_Mark Up;Cited for
-                 Frontiers}
+                 Frontiers;git-lit}
 }
 
 @ONLINE{HUD-User2022-ip,
@@ -5475,7 +5452,7 @@
   url       = {https://www.huduser.gov/portal/Operation-Breakthrough.html},
   urldate   = {2023-02-22},
   keywords  = {Construction 4-0;2\_Upgrade MAY 2023;Government Report;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report},
+               Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report;git-lit},
   language  = {en}
 }
 
@@ -5497,33 +5474,7 @@
                often missed by formal models of nursing knowledge.},
   url       = {http://dx.doi.org/10.1097/00000446-198412000-00025},
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;2\_Upgrade
-               MAY 2023;\_BibTex to MD Git;003\_Theoretical Framework}
-}
-
-@ONLINE{UNESCO-UNEVOC2015-ge,
-  title     = {What is {TVET}?},
-  author    = {{UNESCO-UNEVOC}},
-  booktitle = {International Centre for Technical and Vocational Education and
-               Training},
-  publisher = {United Nation Educational Scientific and Cultural Organisation},
-  date      = {2015},
-  abstract  = {‘Technical and vocational education and training’ (TVET) is
-               understood as comprising education, training and skills
-               development relating to a wide range of occupational fields,
-               production, services and livelihoods. TVET, as part of lifelong
-               learning, can take place at secondary, post-secondary and
-               tertiary levels and includes work-based learning and continuing
-               training and professional development which may lead to
-               qualifications. TVET also includes a wide range of skills
-               development opportunities attuned to national and local contexts.
-               Learning to learn, the development of literacy and numeracy
-               skills, transversal skills and citizenship skills are integral
-               components of TVET.},
-  url       = {https://unevoc.unesco.org/home/TVET},
-  urldate   = {2022-03-07},
-  keywords  = {2\_Upgrade MAY 2023;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Cited for Frontiers;VET},
-  language  = {en}
+               MAY 2023;\_BibTex to MD Git;003\_Theoretical Framework;git-lit}
 }
 
 @INBOOK{Yudelson2013-yg,
@@ -5555,7 +5506,7 @@
   keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;BSSC Seed Fund for AI
                Research;llm-wiki-workflow;Artificial Intelligence
                (AI);Intelligent Tutoring Systems (ITS);\_Mark Up;Cited for
-               Frontiers}
+               Frontiers;git-lit}
 }
 
 @INBOOK{Ahmed2016-sy,
@@ -5574,7 +5525,7 @@
                Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
                Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;AEC;Research Methods;UCL;ePub;\_Mark Up;\_In ClickUp;Book
-               (child)}
+               (child);git-lit}
 }
 
 @ARTICLE{Mishra2022-pg,
@@ -5617,7 +5568,7 @@
   keywords     = {Construction 4-0;2\_Upgrade MAY 2023;Journal Articles;AEC
                   Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC;\_In Notion;\_In Readwise;\_New
-                  Literature},
+                  Literature;git-lit},
   language     = {en}
 }
 
@@ -5634,7 +5585,8 @@
                fact that the expert’s are memory-based (and…},
   url       = {https://learningdiscourses.com/discourse/expert-novice/},
   keywords  = {Notion Catalogued;2\_Upgrade MAY 2023;Journal Articles;\_BibTex
-               to MD Git;003\_Theoretical Framework;\_Cataloged;Reader\_Obsidian},
+               to MD Git;003\_Theoretical
+               Framework;\_Cataloged;Reader\_Obsidian;git-lit},
   language  = {en}
 }
 
@@ -5664,7 +5616,7 @@
                   MAY 2023;Theory and Methodology in Social and Educational
                   Research;Journal Articles;\_BibTex to MD
                   Git;llm-wiki-workflow;Cited for Frontiers;Knowledge - Skill
-                  Acquisition}
+                  Acquisition;git-lit}
 }
 
 @REPORT{Gott1998-ww,
@@ -5710,7 +5662,8 @@
   url         = {http://dx.doi.org/10.21236/ADA345016},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;\_BibTex to MD
-                 Git;llm-wiki-workflow;Workplace Learning;Cited for Frontiers}
+                 Git;llm-wiki-workflow;Workplace Learning;Cited for
+                 Frontiers;git-lit}
 }
 
 @REPORT{Fuller2017-dj,
@@ -5726,5 +5679,83 @@
   keywords    = {2\_Upgrade MAY 2023;\_BibTex to MD
                  Git;llm-wiki-workflow;003\_Theoretical Framework;Workplace
                  Learning;Knowledge - Skill Acquisition;UCL;\_Mark Up;\_In
-                 Notion}
+                 Notion;git-lit}
+}
+
+@ARTICLE{Johnsson2013-kb,
+  title        = {Production strategies for pre-engineering in house-building:
+                  exploring product development platforms},
+  author       = {Johnsson, Helena},
+  journaltitle = {Construction Management and Economics},
+  publisher    = {Routledge},
+  volume       = {31},
+  issue        = {9},
+  pages        = {941--958},
+  date         = {2013-09-01},
+  doi          = {10.1080/01446193.2013.828846},
+  issn         = {0144-6193},
+  abstract     = {Construction is a trade where the dominating production
+                  strategy is engineer-to-order. House-builders can pre-engineer
+                  their design to different degrees, resulting in variations of
+                  the engineer-to-order strategy: design-to-order,
+                  adapt-to-order, and engineer-to-stock. This variation causes
+                  different settings for the use of platforms in house-building.
+                  The aim of this research is to diversify the engineer-to-order
+                  production strategy and its consequences for platform
+                  organization by studying its use in house-building. The
+                  multiple case study on four engineering/contractor firms
+                  reports the core capabilities for engineer-to-order firms:
+                  procurement and tendering, market knowledge, engineering,
+                  multi-skilled manufacturing, and coordination of sales and
+                  manufacturing. Design-to-order, adapt-to-order and engineer-to
+                  stock were shown to be production strategies in use in
+                  house-building. In design-to-order platforms parts of the
+                  platform are undefined while engineer-to-stock platforms are
+                  fully predefined. Coordination between market and
+                  manufacturing is a crucial capability when engaging in
+                  platform organization. When an engineering firm and a
+                  contractor collaborate to fulfil client needs, the
+                  coordination capability between market and manufacturing was
+                  shown to be low. The case study shows that specialized
+                  contractors who integrate the supply chain towards a specific
+                  market segment benefit fully from the platform concept, while
+                  contractors with a wider scope could focus on standardization
+                  of processes rather than products.},
+  url          = {https://doi.org/10.1080/01446193.2013.828846},
+  keywords     = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;Journal
+                  Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
+                  Literature;\_In ClickUp;git-lit}
+}
+
+@ONLINE{Science_Museum2018-ms,
+  title     = {Goodbye to the hello girls: automating the telephone exchange},
+  author    = {{Science Museum}},
+  booktitle = {Science Museum},
+  date      = {2018-10-22},
+  abstract  = {The introduction of automatic telephone exchanges allowed callers
+               to make their own connections, leading to the disappearance of
+               one of Britain's first female workforces.},
+  url       = {https://www.sciencemuseum.org.uk/objects-and-stories/goodbye-hello-girls-automating-telephone-exchange},
+  urldate   = {2023-02-22},
+  keywords  = {2\_Upgrade MAY 2023;\_BibTex to MD Git;Website;git-lit},
+  language  = {en}
+}
+
+@INBOOK{Menacere2016-fn,
+  title     = {When More Does Not Mean Better: Selecting a Research Methodology
+               and Methods},
+  author    = {Ménacère, Karim},
+  editor    = {Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan},
+  booktitle = {Research Methodology in the Built Environment},
+  publisher = {Routledge},
+  edition   = {1st Edition},
+  pages     = {34--62},
+  date      = {2016-03-10},
+  doi       = {10.4324/9781315725529-3},
+  isbn      = {9781317534259},
+  keywords  = {Research Methodology in the Built Environment: A Selection of
+               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
+               Books;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
+               Methods;UCL;ePub;\_Mark Up;\_In ClickUp;Book (child);git-lit}
 }
